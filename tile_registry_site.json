@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "site_0000",
+    "min_lon": 102.9397451,
+    "min_lat": 14.5313594,
+    "max_lon": 102.9447518,
+    "max_lat": 14.5324461,
+    "class_id": 0,
+    "original_name": "ปราสาทหินเขาพนมรุ้ง"
+  },
+  {
+    "id": "site_0001",
+    "min_lon": 100.5568877,
+    "min_lat": 14.3551836,
+    "max_lon": 100.5601417,
+    "max_lat": 14.3566692,
+    "class_id": 0,
+    "original_name": "วัดพระศรีสรรเพชญ์"
+  },
+  {
+    "id": "site_0002",
+    "min_lon": 100.5684614,
+    "min_lat": 14.3764566,
+    "max_lon": 100.5694603,
+    "max_lat": 14.3774201,
+    "class_id": 0,
+    "original_name": "เพนียดคล้องช้าง"
+  },
+  {
+    "id": "site_0003",
+    "min_lon": 100.5406007,
+    "min_lat": 14.3419858,
+    "max_lon": 100.5430449,
+    "max_lat": 14.3440183,
+    "class_id": 0,
+    "original_name": "วัดไชยวัฒนาราม"
+  },
+  {
+    "id": "site_0004",
+    "min_lon": 100.6098151,
+    "min_lat": 14.8027003,
+    "max_lon": 100.6108094,
+    "max_lat": 14.8033869,
+    "class_id": 0,
+    "original_name": "บ้านหลวงรับราชทูต"
+  },
+  {
+    "id": "site_0005",
+    "min_lon": 102.9428539,
+    "min_lat": 14.5322876,
+    "max_lon": 102.9436103,
+    "max_lat": 14.5329876,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0006",
+    "min_lon": 102.9811376,
+    "min_lat": 14.4950147,
+    "max_lon": 102.9837187,
+    "max_lat": 14.4983176,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์ปราสาทหินเมืองต่ำ"
+  },
+  {
+    "id": "site_0007",
+    "min_lon": 100.5662497,
+    "min_lat": 14.3579521,
+    "max_lon": 100.5683337,
+    "max_lat": 14.3595259,
+    "class_id": 0,
+    "original_name": "วัดราชบูรณะ"
+  },
+  {
+    "id": "site_0008",
+    "min_lon": 98.461489,
+    "min_lat": 15.1151052,
+    "max_lon": 98.4617525,
+    "max_lat": 15.115275,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0009",
+    "min_lon": 100.4990565,
+    "min_lat": 13.7365167,
+    "max_lon": 100.499215,
+    "max_lat": 13.7366607,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0010",
+    "min_lon": 98.9862886,
+    "min_lat": 18.7866818,
+    "max_lon": 98.986852,
+    "max_lat": 18.7872277,
+    "class_id": 0,
+    "original_name": "เจดีย์หลวง"
+  },
+  {
+    "id": "site_0011",
+    "min_lon": 100.5053454,
+    "min_lat": 13.7554429,
+    "max_lon": 100.505698,
+    "max_lat": 13.7558001,
+    "class_id": 0,
+    "original_name": "ป้อมมหากาฬ"
+  },
+  {
+    "id": "site_0012",
+    "min_lon": 100.4955266,
+    "min_lat": 13.7637919,
+    "max_lon": 100.4959791,
+    "max_lat": 13.7642065,
+    "class_id": 0,
+    "original_name": "ป้อมพระสุเมรุ"
+  },
+  {
+    "id": "site_0013",
+    "min_lon": 100.0621023,
+    "min_lat": 13.8200472,
+    "max_lon": 100.063197,
+    "max_lat": 13.8207339,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0014",
+    "min_lon": 98.9963947,
+    "min_lat": 18.7507414,
+    "max_lon": 98.9969549,
+    "max_lat": 18.7510964,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0015",
+    "min_lon": 103.2613572,
+    "min_lat": 14.3539392,
+    "max_lon": 103.2617219,
+    "max_lat": 14.3541601,
+    "class_id": 0,
+    "original_name": "ปราสาทตาเมือนโต๊ด"
+  },
+  {
+    "id": "site_0016",
+    "min_lon": 102.0958285,
+    "min_lat": 16.5127197,
+    "max_lon": 102.0997749,
+    "max_lat": 16.5159993,
+    "class_id": 0,
+    "original_name": "เมืองโบราณโนนเมือง"
+  },
+  {
+    "id": "site_0017",
+    "min_lon": 100.6093424,
+    "min_lat": 14.8031453,
+    "max_lon": 100.6096044,
+    "max_lat": 14.8032546,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0018",
+    "min_lon": 100.6130235,
+    "min_lat": 14.7977976,
+    "max_lon": 100.6148336,
+    "max_lat": 14.7993488,
+    "class_id": 0,
+    "original_name": "วัดพระศรีรัตนมหาธาตุ"
+  },
+  {
+    "id": "site_0019",
+    "min_lon": 100.566455,
+    "min_lat": 14.3562336,
+    "max_lon": 100.5685126,
+    "max_lat": 14.3577693,
+    "class_id": 0,
+    "original_name": "วัดมหาธาตุ"
+  },
+  {
+    "id": "site_0020",
+    "min_lon": 102.4923725,
+    "min_lat": 15.2187718,
+    "max_lon": 102.4952776,
+    "max_lat": 15.222495,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์พิมาย"
+  },
+  {
+    "id": "site_0021",
+    "min_lon": 99.784478,
+    "min_lat": 17.431185,
+    "max_lon": 99.7860276,
+    "max_lat": 17.4326537,
+    "class_id": 0,
+    "original_name": "วัดช้างล้อม"
+  },
+  {
+    "id": "site_0022",
+    "min_lon": 99.785535,
+    "min_lat": 17.4300506,
+    "max_lon": 99.7871009,
+    "max_lat": 17.4315494,
+    "class_id": 0,
+    "original_name": "วัดเจดีย์เจ็ดแถว"
+  },
+  {
+    "id": "site_0023",
+    "min_lon": 99.7879851,
+    "min_lat": 17.4282181,
+    "max_lon": 99.7891052,
+    "max_lat": 17.4293349,
+    "class_id": 0,
+    "original_name": "วัดนางพญา"
+  },
+  {
+    "id": "site_0024",
+    "min_lon": 99.7868344,
+    "min_lat": 17.4294818,
+    "max_lon": 99.7877225,
+    "max_lat": 17.4303189,
+    "class_id": 0,
+    "original_name": "วัดสวนแก้วอุทยานใหญ่"
+  },
+  {
+    "id": "site_0025",
+    "min_lon": 99.7869847,
+    "min_lat": 17.4319751,
+    "max_lon": 99.7875381,
+    "max_lat": 17.4324982,
+    "class_id": 0,
+    "original_name": "วัดสวนแก้วอุทยานน้อย"
+  },
+  {
+    "id": "site_0026",
+    "min_lon": 100.53134,
+    "min_lat": 14.3520696,
+    "max_lon": 100.5324714,
+    "max_lat": 14.3528643,
+    "class_id": 0,
+    "original_name": "วัดวรเชษฐ์"
+  },
+  {
+    "id": "site_0027",
+    "min_lon": 99.7035703,
+    "min_lat": 17.0184261,
+    "max_lon": 99.7039462,
+    "max_lat": 17.0188041,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0028",
+    "min_lon": 99.7057796,
+    "min_lat": 17.019307,
+    "max_lon": 99.7061682,
+    "max_lat": 17.0195981,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0029",
+    "min_lon": 99.7011526,
+    "min_lat": 17.0194216,
+    "max_lon": 99.7017446,
+    "max_lat": 17.0198966,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0030",
+    "min_lon": 99.7058499,
+    "min_lat": 17.0219193,
+    "max_lon": 99.7061047,
+    "max_lat": 17.0220848,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0031",
+    "min_lon": 99.7090211,
+    "min_lat": 17.0175024,
+    "max_lon": 99.7091635,
+    "max_lat": 17.0176426,
+    "class_id": 0,
+    "original_name": "เจดีย์ประธาน"
+  },
+  {
+    "id": "site_0032",
+    "min_lon": 99.7031265,
+    "min_lat": 17.0183559,
+    "max_lon": 99.7033209,
+    "max_lat": 17.0184935,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0033",
+    "min_lon": 99.7020919,
+    "min_lat": 17.0197821,
+    "max_lon": 99.7021997,
+    "max_lat": 17.0199173,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0034",
+    "min_lon": 99.704324,
+    "min_lat": 17.0162231,
+    "max_lon": 99.704472,
+    "max_lat": 17.0163735,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0035",
+    "min_lon": 99.7036812,
+    "min_lat": 17.0161443,
+    "max_lon": 99.7038575,
+    "max_lat": 17.0163222,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0036",
+    "min_lon": 99.7043121,
+    "min_lat": 17.0164025,
+    "max_lon": 99.7044304,
+    "max_lat": 17.0165182,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0037",
+    "min_lon": 99.7027514,
+    "min_lat": 17.0171422,
+    "max_lon": 99.702887,
+    "max_lat": 17.0172732,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0038",
+    "min_lon": 99.701216,
+    "min_lat": 17.0167688,
+    "max_lon": 99.7014492,
+    "max_lat": 17.0169829,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0039",
+    "min_lon": 99.6997546,
+    "min_lat": 17.0163557,
+    "max_lon": 99.7001271,
+    "max_lat": 17.0165315,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0040",
+    "min_lon": 99.6991005,
+    "min_lat": 17.0164704,
+    "max_lon": 99.699214,
+    "max_lat": 17.0165658,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0041",
+    "min_lon": 100.5667057,
+    "min_lat": 14.3588636,
+    "max_lon": 100.5668193,
+    "max_lat": 14.3589716,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0042",
+    "min_lon": 100.5667249,
+    "min_lat": 14.3563965,
+    "max_lon": 100.5670043,
+    "max_lat": 14.356547,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0043",
+    "min_lon": 100.5677574,
+    "min_lat": 14.3569462,
+    "max_lon": 100.56842,
+    "max_lat": 14.357174,
+    "class_id": 0,
+    "original_name": "พระวิหารหลวง"
+  },
+  {
+    "id": "site_0044",
+    "min_lon": 100.5666173,
+    "min_lat": 14.3568286,
+    "max_lon": 100.567077,
+    "max_lat": 14.3570272,
+    "class_id": 0,
+    "original_name": "พระอุโบสถ"
+  },
+  {
+    "id": "site_0045",
+    "min_lon": 100.5666815,
+    "min_lat": 14.3591007,
+    "max_lon": 100.566775,
+    "max_lat": 14.3591912,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0046",
+    "min_lon": 100.5581229,
+    "min_lat": 14.3558276,
+    "max_lon": 100.5582817,
+    "max_lat": 14.3559874,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0047",
+    "min_lon": 100.5675314,
+    "min_lat": 14.3586915,
+    "max_lon": 100.5681194,
+    "max_lat": 14.3589292,
+    "class_id": 0,
+    "original_name": "พระวิหารหลวง"
+  },
+  {
+    "id": "site_0048",
+    "min_lon": 100.5594935,
+    "min_lat": 14.3561593,
+    "max_lon": 100.5598167,
+    "max_lat": 14.3563585,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0049",
+    "min_lon": 100.5679116,
+    "min_lat": 14.3565274,
+    "max_lon": 100.5680334,
+    "max_lat": 14.3566404,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0050",
+    "min_lon": 99.7026095,
+    "min_lat": 17.0159562,
+    "max_lon": 99.7047416,
+    "max_lat": 17.0180391,
+    "class_id": 0,
+    "original_name": "วัดมหาธาตุ"
+  },
+  {
+    "id": "site_0051",
+    "min_lon": 99.7017509,
+    "min_lat": 17.0132123,
+    "max_lon": 99.7028183,
+    "max_lat": 17.0143102,
+    "class_id": 0,
+    "original_name": "วัดศรีสวาย"
+  },
+  {
+    "id": "site_0052",
+    "min_lon": 99.7044944,
+    "min_lat": 17.0241159,
+    "max_lon": 99.7047185,
+    "max_lat": 17.0242617,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0053",
+    "min_lon": 99.7045509,
+    "min_lat": 17.0229293,
+    "max_lon": 99.7046392,
+    "max_lat": 17.0230134,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0054",
+    "min_lon": 99.7042734,
+    "min_lat": 17.0240847,
+    "max_lon": 99.7044094,
+    "max_lat": 17.0242197,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0055",
+    "min_lon": 99.6929951,
+    "min_lat": 17.026692,
+    "max_lon": 99.6932733,
+    "max_lat": 17.0269618,
+    "class_id": 0,
+    "original_name": "มณฑปประธาน"
+  },
+  {
+    "id": "site_0056",
+    "min_lon": 99.6874398,
+    "min_lat": 17.0153291,
+    "max_lon": 99.6876974,
+    "max_lat": 17.0154418,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0057",
+    "min_lon": 99.7208323,
+    "min_lat": 17.0198661,
+    "max_lon": 99.7210379,
+    "max_lat": 17.0200073,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0058",
+    "min_lon": 99.686022,
+    "min_lat": 17.0154023,
+    "max_lon": 99.6861797,
+    "max_lat": 17.0155579,
+    "class_id": 0,
+    "original_name": "หอเทวาลัยมหาเกษตร"
+  },
+  {
+    "id": "site_0059",
+    "min_lon": 99.7053414,
+    "min_lat": 17.016723,
+    "max_lon": 99.7057618,
+    "max_lat": 17.0170315,
+    "class_id": 0,
+    "original_name": "เนินปราสาท"
+  },
+  {
+    "id": "site_0060",
+    "min_lon": 100.5520831,
+    "min_lat": 14.355017,
+    "max_lon": 100.5539984,
+    "max_lat": 14.3562537,
+    "class_id": 0,
+    "original_name": "วัดโลกยสุธา"
+  },
+  {
+    "id": "site_0061",
+    "min_lon": 100.5527795,
+    "min_lat": 14.3565903,
+    "max_lon": 100.5536015,
+    "max_lat": 14.3573526,
+    "class_id": 0,
+    "original_name": "วัดวรเชษฐาราม"
+  },
+  {
+    "id": "site_0062",
+    "min_lon": 100.5573378,
+    "min_lat": 14.362802,
+    "max_lon": 100.5574368,
+    "max_lat": 14.3629029,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0063",
+    "min_lon": 100.552249,
+    "min_lat": 14.3552372,
+    "max_lon": 100.5524388,
+    "max_lat": 14.3556793,
+    "class_id": 0,
+    "original_name": "วิหารพระพุทธไสยาสน์"
+  },
+  {
+    "id": "site_0064",
+    "min_lon": 100.5576267,
+    "min_lat": 14.3628093,
+    "max_lon": 100.5577517,
+    "max_lat": 14.3629255,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0065",
+    "min_lon": 100.554322,
+    "min_lat": 14.3568376,
+    "max_lon": 100.5545284,
+    "max_lat": 14.3569558,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0066",
+    "min_lon": 100.5532111,
+    "min_lat": 14.3569871,
+    "max_lon": 100.5533665,
+    "max_lat": 14.3570826,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0067",
+    "min_lon": 100.552939,
+    "min_lat": 14.3567781,
+    "max_lon": 100.5531112,
+    "max_lat": 14.3569518,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0068",
+    "min_lon": 100.5526083,
+    "min_lat": 14.355439,
+    "max_lon": 100.5528444,
+    "max_lat": 14.3555733,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0069",
+    "min_lon": 100.5528759,
+    "min_lat": 14.3554711,
+    "max_lon": 100.5529882,
+    "max_lat": 14.3555822,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0070",
+    "min_lon": 100.5706297,
+    "min_lat": 14.3650319,
+    "max_lon": 100.5713541,
+    "max_lat": 14.3655857,
+    "class_id": 0,
+    "original_name": "วัดขุนแสน"
+  },
+  {
+    "id": "site_0071",
+    "min_lon": 100.5677076,
+    "min_lat": 14.3572575,
+    "max_lon": 100.567764,
+    "max_lat": 14.3573119,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0072",
+    "min_lon": 100.56823,
+    "min_lat": 14.3572378,
+    "max_lon": 100.568363,
+    "max_lat": 14.3574652,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0073",
+    "min_lon": 100.5679328,
+    "min_lat": 14.3572723,
+    "max_lon": 100.5681106,
+    "max_lat": 14.3573678,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0074",
+    "min_lon": 100.5676061,
+    "min_lat": 14.3575115,
+    "max_lon": 100.5678176,
+    "max_lat": 14.357631,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0075",
+    "min_lon": 100.5668908,
+    "min_lat": 14.3573228,
+    "max_lon": 100.5670205,
+    "max_lat": 14.3574386,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0076",
+    "min_lon": 100.5672216,
+    "min_lat": 14.3566677,
+    "max_lon": 100.5672891,
+    "max_lat": 14.356733,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0077",
+    "min_lon": 100.5671548,
+    "min_lat": 14.3572077,
+    "max_lon": 100.5672071,
+    "max_lat": 14.3572584,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0078",
+    "min_lon": 100.5314482,
+    "min_lat": 14.3524827,
+    "max_lon": 100.5317294,
+    "max_lat": 14.352652,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0079",
+    "min_lon": 100.5892722,
+    "min_lat": 14.3642742,
+    "max_lon": 100.5903336,
+    "max_lat": 14.3649482,
+    "class_id": 0,
+    "original_name": "วัดจักรวรรดิ์"
+  },
+  {
+    "id": "site_0080",
+    "min_lon": 100.5662357,
+    "min_lat": 14.3551348,
+    "max_lon": 100.5663089,
+    "max_lat": 14.3552094,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0081",
+    "min_lon": 99.7027519,
+    "min_lat": 17.0263793,
+    "max_lon": 99.7030958,
+    "max_lat": 17.0265688,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0082",
+    "min_lon": 99.7001024,
+    "min_lat": 17.0149459,
+    "max_lon": 99.7002685,
+    "max_lat": 17.0150521,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0083",
+    "min_lon": 99.7039671,
+    "min_lat": 17.0262299,
+    "max_lon": 99.704057,
+    "max_lat": 17.0263363,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0084",
+    "min_lon": 99.6997645,
+    "min_lat": 17.0166988,
+    "max_lon": 99.6998551,
+    "max_lat": 17.0167993,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0085",
+    "min_lon": 99.6770285,
+    "min_lat": 17.0133865,
+    "max_lon": 99.6774874,
+    "max_lat": 17.0138281,
+    "class_id": 0,
+    "original_name": "วัดมังกร"
+  },
+  {
+    "id": "site_0086",
+    "min_lon": 99.6718824,
+    "min_lat": 17.0117058,
+    "max_lon": 99.6720407,
+    "max_lat": 17.0118152,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0087",
+    "min_lon": 99.6753649,
+    "min_lat": 17.0139591,
+    "max_lon": 99.6755957,
+    "max_lat": 17.0141591,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0088",
+    "min_lon": 99.7052337,
+    "min_lat": 17.0129408,
+    "max_lon": 99.7055568,
+    "max_lat": 17.0131777,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0089",
+    "min_lon": 99.7227128,
+    "min_lat": 17.0154905,
+    "max_lon": 99.7233944,
+    "max_lat": 17.0160992,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0090",
+    "min_lon": 99.7187617,
+    "min_lat": 17.0160674,
+    "max_lon": 99.7188679,
+    "max_lat": 17.0161666,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0091",
+    "min_lon": 99.706281,
+    "min_lat": 17.0114622,
+    "max_lon": 99.7064496,
+    "max_lat": 17.0115735,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0092",
+    "min_lon": 99.0032803,
+    "min_lat": 18.7509143,
+    "max_lon": 99.0038573,
+    "max_lat": 18.751374,
+    "class_id": 0,
+    "original_name": "วัดพันเลา"
+  },
+  {
+    "id": "site_0093",
+    "min_lon": 98.9960612,
+    "min_lat": 18.7472493,
+    "max_lon": 98.9968978,
+    "max_lat": 18.7480131,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0094",
+    "min_lon": 99.242847,
+    "min_lat": 14.0391126,
+    "max_lon": 99.2432435,
+    "max_lat": 14.0394526,
+    "class_id": 0,
+    "original_name": "Prasat Mueang Sing"
+  },
+  {
+    "id": "site_0095",
+    "min_lon": 99.2422567,
+    "min_lat": 14.0395935,
+    "max_lon": 99.2425554,
+    "max_lat": 14.0398217,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0096",
+    "min_lon": 99.0292499,
+    "min_lat": 18.731623,
+    "max_lon": 99.0300363,
+    "max_lat": 18.732235,
+    "class_id": 0,
+    "original_name": "วัดพระอูด"
+  },
+  {
+    "id": "site_0097",
+    "min_lon": 98.8941689,
+    "min_lat": 18.5160108,
+    "max_lon": 98.8950594,
+    "max_lat": 18.5166132,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0098",
+    "min_lon": 98.9723125,
+    "min_lat": 18.8078825,
+    "max_lon": 98.9724534,
+    "max_lat": 18.8080152,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0099",
+    "min_lon": 100.2604351,
+    "min_lat": 16.8386266,
+    "max_lon": 100.2615607,
+    "max_lat": 16.8401311,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0100",
+    "min_lon": 100.2615804,
+    "min_lat": 16.8382679,
+    "max_lon": 100.2618019,
+    "max_lat": 16.8385508,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0101",
+    "min_lon": 98.8762852,
+    "min_lat": 18.5495228,
+    "max_lon": 98.8771604,
+    "max_lat": 18.5504829,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0102",
+    "min_lon": 98.8769737,
+    "min_lat": 18.5446634,
+    "max_lon": 98.8775212,
+    "max_lat": 18.54515,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0103",
+    "min_lon": 98.8754733,
+    "min_lat": 18.5544581,
+    "max_lon": 98.8765675,
+    "max_lat": 18.5555008,
+    "class_id": 0,
+    "original_name": "วัดต้นกอก"
+  },
+  {
+    "id": "site_0104",
+    "min_lon": 100.2601798,
+    "min_lat": 16.8289194,
+    "max_lon": 100.2633007,
+    "max_lat": 16.8318986,
+    "class_id": 0,
+    "original_name": "พระราชวังจันทน์"
+  },
+  {
+    "id": "site_0105",
+    "min_lon": 100.2603619,
+    "min_lat": 16.8265462,
+    "max_lon": 100.2623223,
+    "max_lat": 16.8290278,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0106",
+    "min_lon": 100.2586414,
+    "min_lat": 16.827539,
+    "max_lon": 100.2604131,
+    "max_lat": 16.8292073,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0107",
+    "min_lon": 100.2625304,
+    "min_lat": 16.8236241,
+    "max_lon": 100.2631413,
+    "max_lat": 16.8239322,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0108",
+    "min_lon": 100.2772932,
+    "min_lat": 16.8257556,
+    "max_lon": 100.2786733,
+    "max_lat": 16.8267878,
+    "class_id": 0,
+    "original_name": "วัดอรัญญิก"
+  },
+  {
+    "id": "site_0109",
+    "min_lon": 98.9930915,
+    "min_lat": 18.7947054,
+    "max_lon": 98.9937526,
+    "max_lat": 18.7952955,
+    "class_id": 0,
+    "original_name": "แจ่งศรีภูมิ"
+  },
+  {
+    "id": "site_0110",
+    "min_lon": 98.8796301,
+    "min_lat": 18.5486255,
+    "max_lon": 98.8812247,
+    "max_lat": 18.5503916,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0111",
+    "min_lon": 98.9355981,
+    "min_lat": 18.5384467,
+    "max_lon": 98.9357718,
+    "max_lat": 18.5385855,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0112",
+    "min_lon": 100.576194,
+    "min_lat": 14.3460938,
+    "max_lon": 100.5763737,
+    "max_lat": 14.3464732,
+    "class_id": 0,
+    "original_name": "ป้อมเพชร"
+  },
+  {
+    "id": "site_0113",
+    "min_lon": 100.5322276,
+    "min_lat": 13.6565607,
+    "max_lon": 100.5335594,
+    "max_lat": 13.6574177,
+    "class_id": 0,
+    "original_name": "ป้อมแผลงไฟฟ้า"
+  },
+  {
+    "id": "site_0114",
+    "min_lon": 98.9721102,
+    "min_lat": 18.8093748,
+    "max_lon": 98.9722703,
+    "max_lat": 18.8095282,
+    "class_id": 0,
+    "original_name": "พระสธูปเจดีย์ วัดเจ็ดยอด"
+  },
+  {
+    "id": "site_0115",
+    "min_lon": 98.9784619,
+    "min_lat": 18.7950152,
+    "max_lon": 98.9814278,
+    "max_lat": 18.7957148,
+    "class_id": 0,
+    "original_name": "แจ่งหัวลิน"
+  },
+  {
+    "id": "site_0116",
+    "min_lon": 102.9298343,
+    "min_lat": 16.6108293,
+    "max_lon": 102.9301718,
+    "max_lat": 16.6110712,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0117",
+    "min_lon": 99.7041736,
+    "min_lat": 17.0166103,
+    "max_lon": 99.7043074,
+    "max_lat": 17.0167335,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0118",
+    "min_lon": 98.9971886,
+    "min_lat": 18.7522665,
+    "max_lon": 98.9975391,
+    "max_lat": 18.7525376,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0119",
+    "min_lon": 100.5562345,
+    "min_lat": 14.3585066,
+    "max_lon": 100.5565191,
+    "max_lat": 14.3587715,
+    "class_id": 0,
+    "original_name": "พระที่นั่งบรรยงก์รัตนาสน์"
+  },
+  {
+    "id": "site_0120",
+    "min_lon": 99.0085059,
+    "min_lat": 18.7469499,
+    "max_lon": 99.0087837,
+    "max_lat": 18.7473069,
+    "class_id": 0,
+    "original_name": "วัดคุมกามทีปราม No. 1"
+  },
+  {
+    "id": "site_0121",
+    "min_lon": 99.0044233,
+    "min_lat": 18.7446132,
+    "max_lon": 99.0049281,
+    "max_lat": 18.7450859,
+    "class_id": 0,
+    "original_name": "วัดกู่ไม้ซ้ง"
+  },
+  {
+    "id": "site_0122",
+    "min_lon": 98.9293685,
+    "min_lat": 19.3935705,
+    "max_lon": 98.9294956,
+    "max_lat": 19.3936891,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0123",
+    "min_lon": 98.9975221,
+    "min_lat": 18.7495742,
+    "max_lon": 98.9980169,
+    "max_lat": 18.7498589,
+    "class_id": 0,
+    "original_name": "วัดปู่เปี้ย"
+  },
+  {
+    "id": "site_0124",
+    "min_lon": 98.997395,
+    "min_lat": 18.751932,
+    "max_lon": 98.9977493,
+    "max_lat": 18.7522116,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0125",
+    "min_lon": 98.9991482,
+    "min_lat": 18.7496727,
+    "max_lon": 98.9995903,
+    "max_lat": 18.7501901,
+    "class_id": 0,
+    "original_name": "วัดอีค่าง"
+  },
+  {
+    "id": "site_0126",
+    "min_lon": 99.0034486,
+    "min_lat": 18.7495117,
+    "max_lon": 99.0037367,
+    "max_lat": 18.7496642,
+    "class_id": 0,
+    "original_name": "วัดกุอ้ายหลาน"
+  },
+  {
+    "id": "site_0127",
+    "min_lon": 99.0034065,
+    "min_lat": 18.7486376,
+    "max_lon": 99.0035434,
+    "max_lat": 18.74876,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0128",
+    "min_lon": 99.0022955,
+    "min_lat": 18.749624,
+    "max_lon": 99.0025919,
+    "max_lat": 18.7497909,
+    "class_id": 0,
+    "original_name": "วัดกุมกาม"
+  },
+  {
+    "id": "site_0129",
+    "min_lon": 98.998329,
+    "min_lat": 18.7506809,
+    "max_lon": 98.9993723,
+    "max_lat": 18.751725,
+    "class_id": 0,
+    "original_name": "วัดหนานช้าง"
+  },
+  {
+    "id": "site_0130",
+    "min_lon": 99.0050926,
+    "min_lat": 18.7485824,
+    "max_lon": 99.0054596,
+    "max_lat": 18.7488089,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0131",
+    "min_lon": 99.0067845,
+    "min_lat": 18.7459908,
+    "max_lon": 99.0070207,
+    "max_lat": 18.7461269,
+    "class_id": 0,
+    "original_name": "วัดกู่มะเกลือ"
+  },
+  {
+    "id": "site_0132",
+    "min_lon": 99.957859,
+    "min_lat": 19.035569,
+    "max_lon": 99.9585889,
+    "max_lat": 19.0363155,
+    "class_id": 0,
+    "original_name": "Wiangbua Cultural Centre"
+  },
+  {
+    "id": "site_0133",
+    "min_lon": 100.5608135,
+    "min_lat": 14.3535589,
+    "max_lon": 100.562573,
+    "max_lat": 14.3549644,
+    "class_id": 0,
+    "original_name": "วัดพระราม"
+  },
+  {
+    "id": "site_0134",
+    "min_lon": 99.6706987,
+    "min_lat": 17.0123441,
+    "max_lon": 99.6708141,
+    "max_lat": 17.0124621,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0135",
+    "min_lon": 99.6703769,
+    "min_lat": 17.0122851,
+    "max_lon": 99.6705499,
+    "max_lat": 17.012407,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0136",
+    "min_lon": 99.6700912,
+    "min_lat": 17.0124467,
+    "max_lon": 99.6702843,
+    "max_lat": 17.0125031,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0137",
+    "min_lon": 99.6701891,
+    "min_lat": 17.0122736,
+    "max_lon": 99.6702642,
+    "max_lat": 17.012348,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0138",
+    "min_lon": 99.6857101,
+    "min_lat": 17.0178209,
+    "max_lon": 99.6863459,
+    "max_lat": 17.0183035,
+    "class_id": 0,
+    "original_name": "วัดป่าลาน"
+  },
+  {
+    "id": "site_0139",
+    "min_lon": 99.6935008,
+    "min_lat": 17.0149443,
+    "max_lon": 99.694,
+    "max_lat": 17.0151463,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0140",
+    "min_lon": 99.693249,
+    "min_lat": 17.0268207,
+    "max_lon": 99.6934663,
+    "max_lat": 17.0269767,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0141",
+    "min_lon": 99.6929938,
+    "min_lat": 17.0269315,
+    "max_lon": 99.693117,
+    "max_lat": 17.0270078,
+    "class_id": 0,
+    "original_name": "วิหารน้อย"
+  },
+  {
+    "id": "site_0142",
+    "min_lon": 99.7042112,
+    "min_lat": 17.0262632,
+    "max_lon": 99.7044365,
+    "max_lat": 17.0263773,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0143",
+    "min_lon": 99.7040885,
+    "min_lat": 17.026278,
+    "max_lon": 99.7041206,
+    "max_lat": 17.0263112,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0144",
+    "min_lon": 99.7035958,
+    "min_lat": 17.0171094,
+    "max_lon": 99.7036829,
+    "max_lat": 17.0171929,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0145",
+    "min_lon": 99.0006476,
+    "min_lat": 18.7478838,
+    "max_lon": 99.0010171,
+    "max_lat": 18.7481735,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0146",
+    "min_lon": 99.0016583,
+    "min_lat": 18.747467,
+    "max_lon": 99.001925,
+    "max_lat": 18.7476553,
+    "class_id": 0,
+    "original_name": "วัดช้างคำ"
+  },
+  {
+    "id": "site_0147",
+    "min_lon": 99.7491044,
+    "min_lat": 17.3959726,
+    "max_lon": 99.8183272,
+    "max_lat": 17.4803564,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์ศรีสัชนาลัย"
+  },
+  {
+    "id": "site_0148",
+    "min_lon": 102.9363497,
+    "min_lat": 14.5291677,
+    "max_lon": 102.9472822,
+    "max_lat": 14.5360045,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์พนมรุ้ง"
+  },
+  {
+    "id": "site_0149",
+    "min_lon": 101.13629,
+    "min_lat": 15.4585283,
+    "max_lon": 101.1660881,
+    "max_lat": 15.4741584,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์ศรีเทพ"
+  },
+  {
+    "id": "site_0150",
+    "min_lon": 99.6022544,
+    "min_lat": 16.9782906,
+    "max_lon": 99.7264688,
+    "max_lat": 17.0511429,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์สุโขทัย"
+  },
+  {
+    "id": "site_0151",
+    "min_lon": 99.0093084,
+    "min_lat": 18.7474229,
+    "max_lon": 99.0094215,
+    "max_lat": 18.7475856,
+    "class_id": 0,
+    "original_name": "วัดคุมกามทีปราม"
+  },
+  {
+    "id": "site_0152",
+    "min_lon": 99.0167428,
+    "min_lat": 18.7345937,
+    "max_lon": 99.0171853,
+    "max_lat": 18.734929,
+    "class_id": 0,
+    "original_name": "วัดกอมะม่วงเขียว"
+  },
+  {
+    "id": "site_0153",
+    "min_lon": 100.5675709,
+    "min_lat": 14.3574165,
+    "max_lon": 100.5676435,
+    "max_lat": 14.3574865,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0154",
+    "min_lon": 100.5674431,
+    "min_lat": 14.3574055,
+    "max_lon": 100.5675157,
+    "max_lat": 14.3574756,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0155",
+    "min_lon": 100.5673075,
+    "min_lat": 14.3573891,
+    "max_lon": 100.5673801,
+    "max_lat": 14.3574592,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0156",
+    "min_lon": 100.5671895,
+    "min_lat": 14.3573779,
+    "max_lon": 100.5672621,
+    "max_lat": 14.357448,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0157",
+    "min_lon": 100.5670633,
+    "min_lat": 14.3573629,
+    "max_lon": 100.5671359,
+    "max_lat": 14.357433,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0158",
+    "min_lon": 100.5677035,
+    "min_lat": 14.3574246,
+    "max_lon": 100.5677761,
+    "max_lat": 14.3574947,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0159",
+    "min_lon": 100.5667168,
+    "min_lat": 14.3565284,
+    "max_lon": 100.5667853,
+    "max_lat": 14.3565757,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0160",
+    "min_lon": 100.5666868,
+    "min_lat": 14.3565892,
+    "max_lon": 100.5668759,
+    "max_lat": 14.3566895,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0161",
+    "min_lon": 100.5674012,
+    "min_lat": 14.356404,
+    "max_lon": 100.5676054,
+    "max_lat": 14.3565141,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0162",
+    "min_lon": 100.5676667,
+    "min_lat": 14.3564399,
+    "max_lon": 100.5678517,
+    "max_lat": 14.3565381,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0163",
+    "min_lon": 100.5679978,
+    "min_lat": 14.3574498,
+    "max_lon": 100.5681756,
+    "max_lat": 14.3575453,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0164",
+    "min_lon": 100.5682302,
+    "min_lat": 14.357507,
+    "max_lon": 100.5683152,
+    "max_lat": 14.3576481,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0165",
+    "min_lon": 100.5673448,
+    "min_lat": 14.357497,
+    "max_lon": 100.5674982,
+    "max_lat": 14.357587,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0166",
+    "min_lon": 100.566638,
+    "min_lat": 14.3572931,
+    "max_lon": 100.5668732,
+    "max_lat": 14.3574253,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0167",
+    "min_lon": 100.5678611,
+    "min_lat": 14.3574157,
+    "max_lon": 100.5679453,
+    "max_lat": 14.3574968,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0168",
+    "min_lon": 100.5670091,
+    "min_lat": 14.3566152,
+    "max_lon": 100.5670964,
+    "max_lat": 14.3567005,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0169",
+    "min_lon": 100.5669502,
+    "min_lat": 14.3571908,
+    "max_lon": 100.5670228,
+    "max_lat": 14.3572609,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0170",
+    "min_lon": 100.5669644,
+    "min_lat": 14.3570755,
+    "max_lon": 100.567037,
+    "max_lat": 14.3571456,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0171",
+    "min_lon": 100.5669952,
+    "min_lat": 14.3567397,
+    "max_lon": 100.5670678,
+    "max_lat": 14.3568098,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0172",
+    "min_lon": 100.5675456,
+    "min_lat": 14.3565303,
+    "max_lon": 100.5676098,
+    "max_lat": 14.3565951,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0173",
+    "min_lon": 100.5676644,
+    "min_lat": 14.3565444,
+    "max_lon": 100.5677286,
+    "max_lat": 14.3566092,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0174",
+    "min_lon": 100.5677797,
+    "min_lat": 14.3565582,
+    "max_lon": 100.5678439,
+    "max_lat": 14.356623,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0175",
+    "min_lon": 100.5670177,
+    "min_lat": 14.3564402,
+    "max_lon": 100.5671193,
+    "max_lat": 14.3565429,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0176",
+    "min_lon": 100.5682934,
+    "min_lat": 14.3567561,
+    "max_lon": 100.5684061,
+    "max_lat": 14.3569245,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0177",
+    "min_lon": 99.2372185,
+    "min_lat": 14.0325577,
+    "max_lon": 99.2470126,
+    "max_lat": 14.0444571,
+    "class_id": 0,
+    "original_name": "อุทยานประวัติศาสตร์เมืองสิงห์"
+  },
+  {
+    "id": "site_0178",
+    "min_lon": 102.7367023,
+    "min_lat": 13.8429575,
+    "max_lon": 102.737971,
+    "max_lat": 13.844102,
+    "class_id": 0,
+    "original_name": "ปราสาทสด๊กก๊อกธม"
+  },
+  {
+    "id": "site_0179",
+    "min_lon": 99.8309607,
+    "min_lat": 19.9064116,
+    "max_lon": 99.8310205,
+    "max_lat": 19.9064683,
+    "class_id": 0,
+    "original_name": "เจดีย์โบราณ"
+  },
+  {
+    "id": "site_0180",
+    "min_lon": 100.5540268,
+    "min_lat": 14.3778157,
+    "max_lon": 100.5540928,
+    "max_lat": 14.3778797,
+    "class_id": 0,
+    "original_name": "พระปรางค์คู่"
+  },
+  {
+    "id": "site_0181",
+    "min_lon": 100.5539889,
+    "min_lat": 14.3777219,
+    "max_lon": 100.554055,
+    "max_lat": 14.3777859,
+    "class_id": 0,
+    "original_name": "พระปรางค์คู่"
+  },
+  {
+    "id": "site_0182",
+    "min_lon": 103.2585444,
+    "min_lat": 14.3557849,
+    "max_lon": 103.2587123,
+    "max_lat": 14.3559063,
+    "class_id": 0,
+    "original_name": "ปราสาทตาเมือน"
+  },
+  {
+    "id": "site_0183",
+    "min_lon": 103.3736829,
+    "min_lat": 14.3525426,
+    "max_lon": 103.373754,
+    "max_lat": 14.3526087,
+    "class_id": 0,
+    "original_name": "ปราสาทตาควาย"
+  },
+  {
+    "id": "site_0184",
+    "min_lon": 100.4056121,
+    "min_lat": 20.2687227,
+    "max_lon": 100.405715,
+    "max_lat": 20.2687733,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0185",
+    "min_lon": 103.4240549,
+    "min_lat": 14.6101303,
+    "max_lon": 103.4241931,
+    "max_lat": 14.6103088,
+    "class_id": 0,
+    "original_name": "ปราสาทบ้านพลวง"
+  },
+  {
+    "id": "site_0186",
+    "min_lon": 99.5021834,
+    "min_lat": 16.4731194,
+    "max_lon": 99.5032833,
+    "max_lat": 16.4740666,
+    "class_id": 0,
+    "original_name": "ป้อมทุ่งเศรษฐี"
+  },
+  {
+    "id": "site_0187",
+    "min_lon": 100.2595961,
+    "min_lat": 16.8295732,
+    "max_lon": 100.2601896,
+    "max_lat": 16.8310207,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0188",
+    "min_lon": 100.5599929,
+    "min_lat": 14.3568098,
+    "max_lon": 100.5602812,
+    "max_lat": 14.3571663,
+    "class_id": 0,
+    "original_name": "พระที่นั่งจักรวรรดิไพชยนต์"
+  },
+  {
+    "id": "site_0189",
+    "min_lon": 100.5589049,
+    "min_lat": 14.3558794,
+    "max_lon": 100.5596159,
+    "max_lat": 14.3561209,
+    "class_id": 0,
+    "original_name": "พระวิหารหลวง"
+  },
+  {
+    "id": "site_0190",
+    "min_lon": 100.5892269,
+    "min_lat": 14.3628404,
+    "max_lon": 100.5906821,
+    "max_lat": 14.3635412,
+    "class_id": 0,
+    "original_name": "วัดกุฎีดาว"
+  },
+  {
+    "id": "site_0191",
+    "min_lon": 100.5950067,
+    "min_lat": 14.3625951,
+    "max_lon": 100.5952303,
+    "max_lat": 14.3626948,
+    "class_id": 0,
+    "original_name": "ตำหนักมเหยงคณ์"
+  },
+  {
+    "id": "site_0192",
+    "min_lon": 100.5948508,
+    "min_lat": 14.3636806,
+    "max_lon": 100.5951785,
+    "max_lat": 14.3638436,
+    "class_id": 0,
+    "original_name": "Ubosot (Ordination hall)"
+  },
+  {
+    "id": "site_0193",
+    "min_lon": 100.5897532,
+    "min_lat": 14.3635648,
+    "max_lon": 100.5901169,
+    "max_lat": 14.363713,
+    "class_id": 0,
+    "original_name": "ตำหนักกำมะเลียน"
+  },
+  {
+    "id": "site_0194",
+    "min_lon": 100.5893207,
+    "min_lat": 14.3630436,
+    "max_lon": 100.5896776,
+    "max_lat": 14.3631956,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0195",
+    "min_lon": 100.5902243,
+    "min_lat": 14.3631513,
+    "max_lon": 100.5905478,
+    "max_lat": 14.3632943,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0196",
+    "min_lon": 100.594617,
+    "min_lat": 14.363427,
+    "max_lon": 100.5946989,
+    "max_lat": 14.3635061,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0197",
+    "min_lon": 100.5941395,
+    "min_lat": 14.3633745,
+    "max_lon": 100.5942093,
+    "max_lat": 14.363442,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0198",
+    "min_lon": 100.5940731,
+    "min_lat": 14.3638554,
+    "max_lon": 100.594142,
+    "max_lat": 14.3639219,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0199",
+    "min_lon": 100.5945667,
+    "min_lat": 14.3639109,
+    "max_lon": 100.5946418,
+    "max_lat": 14.3639838,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0200",
+    "min_lon": 100.5950048,
+    "min_lat": 14.3639642,
+    "max_lon": 100.5950936,
+    "max_lat": 14.3640505,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0201",
+    "min_lon": 100.5950438,
+    "min_lat": 14.3634956,
+    "max_lon": 100.5951209,
+    "max_lat": 14.3635708,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0202",
+    "min_lon": 100.5956175,
+    "min_lat": 14.3640309,
+    "max_lon": 100.5956913,
+    "max_lat": 14.3641022,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0203",
+    "min_lon": 100.5956594,
+    "min_lat": 14.363534,
+    "max_lon": 100.5957525,
+    "max_lat": 14.3636238,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0204",
+    "min_lon": 100.5939195,
+    "min_lat": 14.3632443,
+    "max_lon": 100.5959055,
+    "max_lat": 14.3642733,
+    "class_id": 0,
+    "original_name": "วัดมเหยงคณ์"
+  },
+  {
+    "id": "site_0205",
+    "min_lon": 100.594319,
+    "min_lat": 14.3636297,
+    "max_lon": 100.5944478,
+    "max_lat": 14.3637549,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0206",
+    "min_lon": 100.5942298,
+    "min_lat": 14.3608576,
+    "max_lon": 100.5955679,
+    "max_lat": 14.3617607,
+    "class_id": 0,
+    "original_name": "วัดช้าง"
+  },
+  {
+    "id": "site_0207",
+    "min_lon": 100.5345715,
+    "min_lat": 14.3327991,
+    "max_lon": 100.5347977,
+    "max_lat": 14.3330136,
+    "class_id": 0,
+    "original_name": "Stupa"
+  },
+  {
+    "id": "site_0208",
+    "min_lon": 100.5342157,
+    "min_lat": 14.3327129,
+    "max_lon": 100.5353215,
+    "max_lat": 14.3331322,
+    "class_id": 0,
+    "original_name": "วัดกะชาย"
+  },
+  {
+    "id": "site_0209",
+    "min_lon": 100.5728576,
+    "min_lat": 14.364911,
+    "max_lon": 100.5733561,
+    "max_lat": 14.3651741,
+    "class_id": 0,
+    "original_name": "วัดขมิ้น"
+  },
+  {
+    "id": "site_0210",
+    "min_lon": 100.5634755,
+    "min_lat": 14.3605222,
+    "max_lon": 100.5635832,
+    "max_lat": 14.3605602,
+    "class_id": 0,
+    "original_name": "กำแพงเมืองพระนครศรีอยุธยา"
+  },
+  {
+    "id": "site_0211",
+    "min_lon": 100.5807185,
+    "min_lat": 14.3513367,
+    "max_lon": 100.5808941,
+    "max_lat": 14.3526196,
+    "class_id": 0,
+    "original_name": "กำแพงเมืองพระนครศรีอยุธยา"
+  },
+  {
+    "id": "site_0212",
+    "min_lon": 100.5690303,
+    "min_lat": 14.3527636,
+    "max_lon": 100.5690945,
+    "max_lat": 14.3528204,
+    "class_id": 0,
+    "original_name": "สะพานชีกุน"
+  },
+  {
+    "id": "site_0213",
+    "min_lon": 100.5688631,
+    "min_lat": 14.3579988,
+    "max_lon": 100.5690424,
+    "max_lat": 14.3580702,
+    "class_id": 0,
+    "original_name": "สะพานป่าถ่าน"
+  },
+  {
+    "id": "site_0214",
+    "min_lon": 100.5914552,
+    "min_lat": 14.3536546,
+    "max_lon": 100.5915869,
+    "max_lat": 14.3537823,
+    "class_id": 0,
+    "original_name": "เจดีย์วัดสามปลื้ม"
+  },
+  {
+    "id": "site_0215",
+    "min_lon": 100.5495079,
+    "min_lat": 14.360887,
+    "max_lon": 100.5495325,
+    "max_lat": 14.3609109,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0216",
+    "min_lon": 100.5493985,
+    "min_lat": 14.3608557,
+    "max_lon": 100.5494344,
+    "max_lat": 14.3608905,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0217",
+    "min_lon": 100.5493422,
+    "min_lat": 14.3608227,
+    "max_lon": 100.5493847,
+    "max_lat": 14.3608639,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0218",
+    "min_lon": 100.5494747,
+    "min_lat": 14.3609144,
+    "max_lon": 100.5495105,
+    "max_lat": 14.3609492,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0219",
+    "min_lon": 100.5495138,
+    "min_lat": 14.360955,
+    "max_lon": 100.5495564,
+    "max_lat": 14.3609963,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0220",
+    "min_lon": 100.5494216,
+    "min_lat": 14.3608223,
+    "max_lon": 100.5494463,
+    "max_lat": 14.3608461,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0221",
+    "min_lon": 100.5553165,
+    "min_lat": 14.3618613,
+    "max_lon": 100.5553535,
+    "max_lat": 14.3618972,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0222",
+    "min_lon": 100.5555258,
+    "min_lat": 14.3618979,
+    "max_lon": 100.5555483,
+    "max_lat": 14.3619197,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0223",
+    "min_lon": 100.5554611,
+    "min_lat": 14.3617783,
+    "max_lon": 100.5554836,
+    "max_lat": 14.3618002,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0224",
+    "min_lon": 100.5552897,
+    "min_lat": 14.3618883,
+    "max_lon": 100.5555092,
+    "max_lat": 14.3622476,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0225",
+    "min_lon": 100.5555564,
+    "min_lat": 14.361901,
+    "max_lon": 100.5555913,
+    "max_lat": 14.3619241,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0226",
+    "min_lon": 100.5553798,
+    "min_lat": 14.3617421,
+    "max_lon": 100.5554075,
+    "max_lat": 14.361769,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0227",
+    "min_lon": 100.5554615,
+    "min_lat": 14.3618107,
+    "max_lon": 100.5554778,
+    "max_lat": 14.3618265,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0228",
+    "min_lon": 100.5553534,
+    "min_lat": 14.3617816,
+    "max_lon": 100.5553824,
+    "max_lat": 14.3618097,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0229",
+    "min_lon": 100.5552798,
+    "min_lat": 14.3618664,
+    "max_lon": 100.5553067,
+    "max_lat": 14.3618925,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0230",
+    "min_lon": 100.5554861,
+    "min_lat": 14.3618918,
+    "max_lon": 100.5555086,
+    "max_lat": 14.3619136,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0231",
+    "min_lon": 100.5555273,
+    "min_lat": 14.3619715,
+    "max_lon": 100.5555813,
+    "max_lat": 14.3620529,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0232",
+    "min_lon": 100.5554935,
+    "min_lat": 14.3617526,
+    "max_lon": 100.555516,
+    "max_lat": 14.3617745,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0233",
+    "min_lon": 100.5552649,
+    "min_lat": 14.3617983,
+    "max_lon": 100.55531,
+    "max_lat": 14.3618419,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0234",
+    "min_lon": 100.5554621,
+    "min_lat": 14.3617484,
+    "max_lon": 100.5554846,
+    "max_lat": 14.3617702,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0235",
+    "min_lon": 100.555244,
+    "min_lat": 14.3618649,
+    "max_lon": 100.5552709,
+    "max_lat": 14.361891,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0236",
+    "min_lon": 100.5554579,
+    "min_lat": 14.3618387,
+    "max_lon": 100.5554742,
+    "max_lat": 14.3618545,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0237",
+    "min_lon": 100.5554897,
+    "min_lat": 14.3618404,
+    "max_lon": 100.5555097,
+    "max_lat": 14.3618597,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0238",
+    "min_lon": 100.5554555,
+    "min_lat": 14.3618653,
+    "max_lon": 100.5554718,
+    "max_lat": 14.3618812,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0239",
+    "min_lon": 100.5554868,
+    "min_lat": 14.361867,
+    "max_lon": 100.5555068,
+    "max_lat": 14.3618864,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0240",
+    "min_lon": 100.5554938,
+    "min_lat": 14.3618137,
+    "max_lon": 100.5555138,
+    "max_lat": 14.3618331,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0241",
+    "min_lon": 100.5555509,
+    "min_lat": 14.3621807,
+    "max_lon": 100.5555854,
+    "max_lat": 14.3622141,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0242",
+    "min_lon": 100.555271,
+    "min_lat": 14.3617419,
+    "max_lon": 100.5552935,
+    "max_lat": 14.3617637,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0243",
+    "min_lon": 100.5553251,
+    "min_lat": 14.3617442,
+    "max_lon": 100.5553476,
+    "max_lat": 14.361766,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0244",
+    "min_lon": 100.5554944,
+    "min_lat": 14.361785,
+    "max_lon": 100.5555169,
+    "max_lat": 14.3618069,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0245",
+    "min_lon": 100.5552977,
+    "min_lat": 14.3617414,
+    "max_lon": 100.5553202,
+    "max_lat": 14.3617632,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0246",
+    "min_lon": 100.5553542,
+    "min_lat": 14.3617439,
+    "max_lon": 100.5553767,
+    "max_lat": 14.3617658,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0247",
+    "min_lon": 100.5553327,
+    "min_lat": 14.3617738,
+    "max_lon": 100.5553491,
+    "max_lat": 14.3617896,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0248",
+    "min_lon": 100.5553387,
+    "min_lat": 14.361821,
+    "max_lon": 100.5553665,
+    "max_lat": 14.3618479,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0249",
+    "min_lon": 100.5584433,
+    "min_lat": 14.3631106,
+    "max_lon": 100.5584911,
+    "max_lat": 14.3631572,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0250",
+    "min_lon": 100.5587004,
+    "min_lat": 14.3628902,
+    "max_lon": 100.5587885,
+    "max_lat": 14.3629755,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0251",
+    "min_lon": 100.5584357,
+    "min_lat": 14.3631885,
+    "max_lon": 100.5584837,
+    "max_lat": 14.363235,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0252",
+    "min_lon": 100.5584519,
+    "min_lat": 14.3630216,
+    "max_lon": 100.5584997,
+    "max_lat": 14.3630681,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0253",
+    "min_lon": 100.5551603,
+    "min_lat": 14.3414715,
+    "max_lon": 100.5560871,
+    "max_lat": 14.3424699,
+    "class_id": 0,
+    "original_name": "วัดเจ้าปราบ"
+  },
+  {
+    "id": "site_0254",
+    "min_lon": 100.5612711,
+    "min_lat": 14.3477062,
+    "max_lon": 100.5613544,
+    "max_lat": 14.3477933,
+    "class_id": 0,
+    "original_name": "เจดีย์ทรงปรางค์"
+  },
+  {
+    "id": "site_0255",
+    "min_lon": 100.5612946,
+    "min_lat": 14.3473885,
+    "max_lon": 100.5614023,
+    "max_lat": 14.3476148,
+    "class_id": 0,
+    "original_name": "อุโบสถ"
+  },
+  {
+    "id": "site_0256",
+    "min_lon": 100.5638949,
+    "min_lat": 14.3590897,
+    "max_lon": 100.5639388,
+    "max_lat": 14.3591444,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0257",
+    "min_lon": 100.5638967,
+    "min_lat": 14.3590033,
+    "max_lon": 100.5639559,
+    "max_lat": 14.3590607,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0258",
+    "min_lon": 100.5636618,
+    "min_lat": 14.3590915,
+    "max_lon": 100.5639127,
+    "max_lat": 14.3593068,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0259",
+    "min_lon": 100.5635582,
+    "min_lat": 14.3592913,
+    "max_lon": 100.5636243,
+    "max_lat": 14.3593554,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0260",
+    "min_lon": 100.5638841,
+    "min_lat": 14.3592309,
+    "max_lon": 100.5639268,
+    "max_lat": 14.3592723,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0261",
+    "min_lon": 100.5638813,
+    "min_lat": 14.3592784,
+    "max_lon": 100.5639078,
+    "max_lat": 14.3593042,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0262",
+    "min_lon": 100.5621734,
+    "min_lat": 14.3586791,
+    "max_lon": 100.5622129,
+    "max_lat": 14.3587174,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0263",
+    "min_lon": 100.5621926,
+    "min_lat": 14.3595065,
+    "max_lon": 100.5622537,
+    "max_lat": 14.3595657,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0264",
+    "min_lon": 100.5622694,
+    "min_lat": 14.3593338,
+    "max_lon": 100.5622939,
+    "max_lat": 14.3593575,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0265",
+    "min_lon": 100.562201,
+    "min_lat": 14.3594792,
+    "max_lon": 100.5622225,
+    "max_lat": 14.3595,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0266",
+    "min_lon": 100.5620069,
+    "min_lat": 14.3593491,
+    "max_lon": 100.5620392,
+    "max_lat": 14.3593804,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0267",
+    "min_lon": 100.5622338,
+    "min_lat": 14.3586807,
+    "max_lon": 100.5622984,
+    "max_lat": 14.3587433,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0268",
+    "min_lon": 100.5611319,
+    "min_lat": 14.3591428,
+    "max_lon": 100.5616239,
+    "max_lat": 14.3593637,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0269",
+    "min_lon": 100.5620898,
+    "min_lat": 14.3593263,
+    "max_lon": 100.56215,
+    "max_lat": 14.3593846,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0270",
+    "min_lon": 100.5622457,
+    "min_lat": 14.3592699,
+    "max_lon": 100.5623031,
+    "max_lat": 14.3593255,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0271",
+    "min_lon": 100.5620217,
+    "min_lat": 14.3592928,
+    "max_lon": 100.5620505,
+    "max_lat": 14.3593207,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0272",
+    "min_lon": 100.5622014,
+    "min_lat": 14.3592883,
+    "max_lon": 100.5622323,
+    "max_lat": 14.3593399,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0273",
+    "min_lon": 100.5622146,
+    "min_lat": 14.3593644,
+    "max_lon": 100.5622757,
+    "max_lat": 14.3594235,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0274",
+    "min_lon": 100.5621157,
+    "min_lat": 14.3586708,
+    "max_lon": 100.5621552,
+    "max_lat": 14.358709,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0275",
+    "min_lon": 100.5621445,
+    "min_lat": 14.3590823,
+    "max_lon": 100.5621964,
+    "max_lat": 14.3591318,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0276",
+    "min_lon": 100.5622369,
+    "min_lat": 14.3594844,
+    "max_lon": 100.5622585,
+    "max_lat": 14.3595052,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0277",
+    "min_lon": 100.5621583,
+    "min_lat": 14.3592474,
+    "max_lon": 100.5621906,
+    "max_lat": 14.3592787,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0278",
+    "min_lon": 100.5622075,
+    "min_lat": 14.3592545,
+    "max_lon": 100.5622398,
+    "max_lat": 14.3592858,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0279",
+    "min_lon": 100.5536342,
+    "min_lat": 14.3566183,
+    "max_lon": 100.5547151,
+    "max_lat": 14.3580007,
+    "class_id": 0,
+    "original_name": "วัดวรโพธิ์"
+  },
+  {
+    "id": "site_0280",
+    "min_lon": 100.5917493,
+    "min_lat": 14.3453578,
+    "max_lon": 100.5922126,
+    "max_lat": 14.3455735,
+    "class_id": 0,
+    "original_name": "พระวิหารหลวง"
+  },
+  {
+    "id": "site_0281",
+    "min_lon": 100.5925452,
+    "min_lat": 14.3455912,
+    "max_lon": 100.5926571,
+    "max_lat": 14.3456954,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0282",
+    "min_lon": 100.5920902,
+    "min_lat": 14.3452162,
+    "max_lon": 100.592823,
+    "max_lat": 14.3458229,
+    "class_id": 0,
+    "original_name": "พระระเบียง"
+  },
+  {
+    "id": "site_0283",
+    "min_lon": 100.5942652,
+    "min_lat": 14.3462712,
+    "max_lon": 100.5943506,
+    "max_lat": 14.346354,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0284",
+    "min_lon": 100.591987,
+    "min_lat": 14.3450146,
+    "max_lon": 100.5920744,
+    "max_lat": 14.3450992,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0285",
+    "min_lon": 100.5924548,
+    "min_lat": 14.3458855,
+    "max_lon": 100.5925355,
+    "max_lat": 14.3459637,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0286",
+    "min_lon": 100.5929481,
+    "min_lat": 14.3454394,
+    "max_lon": 100.5929948,
+    "max_lat": 14.3454845,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0287",
+    "min_lon": 100.5930675,
+    "min_lat": 14.3459362,
+    "max_lon": 100.5932066,
+    "max_lat": 14.3461706,
+    "class_id": 0,
+    "original_name": "วิหารพระพุทธไสยาสน์"
+  },
+  {
+    "id": "site_0288",
+    "min_lon": 100.5943628,
+    "min_lat": 14.3462733,
+    "max_lon": 100.5945206,
+    "max_lat": 14.3463804,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0289",
+    "min_lon": 100.5924704,
+    "min_lat": 14.3450779,
+    "max_lon": 100.5925604,
+    "max_lat": 14.3451651,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0290",
+    "min_lon": 100.592571,
+    "min_lat": 14.345385,
+    "max_lon": 100.592683,
+    "max_lat": 14.3454893,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0291",
+    "min_lon": 100.5922975,
+    "min_lat": 14.3450705,
+    "max_lon": 100.592366,
+    "max_lat": 14.3451368,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0292",
+    "min_lon": 100.5925662,
+    "min_lat": 14.3458983,
+    "max_lon": 100.5926469,
+    "max_lat": 14.3459765,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0293",
+    "min_lon": 100.5927924,
+    "min_lat": 14.3458212,
+    "max_lon": 100.5928635,
+    "max_lat": 14.3458901,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0294",
+    "min_lon": 100.5918159,
+    "min_lat": 14.3455888,
+    "max_lon": 100.591874,
+    "max_lat": 14.345645,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0295",
+    "min_lon": 100.59184,
+    "min_lat": 14.3457783,
+    "max_lon": 100.5919948,
+    "max_lat": 14.3459283,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0296",
+    "min_lon": 100.5918554,
+    "min_lat": 14.3452672,
+    "max_lon": 100.5919135,
+    "max_lat": 14.3453234,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0297",
+    "min_lon": 100.5927828,
+    "min_lat": 14.3418416,
+    "max_lon": 100.5928871,
+    "max_lat": 14.3419426,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0298",
+    "min_lon": 100.592842,
+    "min_lat": 14.3452673,
+    "max_lon": 100.5928997,
+    "max_lat": 14.3453233,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0299",
+    "min_lon": 100.592719,
+    "min_lat": 14.3459042,
+    "max_lon": 100.5928567,
+    "max_lat": 14.3460377,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0300",
+    "min_lon": 100.5928731,
+    "min_lat": 14.3457113,
+    "max_lon": 100.5929182,
+    "max_lat": 14.345755,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0301",
+    "min_lon": 100.5926861,
+    "min_lat": 14.3451033,
+    "max_lon": 100.5927579,
+    "max_lat": 14.3451728,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0302",
+    "min_lon": 100.5919782,
+    "min_lat": 14.3451535,
+    "max_lon": 100.5920496,
+    "max_lat": 14.3452227,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0303",
+    "min_lon": 100.5920577,
+    "min_lat": 14.3458419,
+    "max_lon": 100.5921311,
+    "max_lat": 14.345913,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0304",
+    "min_lon": 100.5922904,
+    "min_lat": 14.3458469,
+    "max_lon": 100.5924218,
+    "max_lat": 14.3459741,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0305",
+    "min_lon": 100.5928279,
+    "min_lat": 14.3451166,
+    "max_lon": 100.5929179,
+    "max_lat": 14.3452038,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0306",
+    "min_lon": 100.5943779,
+    "min_lat": 14.3452071,
+    "max_lon": 100.5944641,
+    "max_lat": 14.3452908,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0307",
+    "min_lon": 100.5921452,
+    "min_lat": 14.345036,
+    "max_lon": 100.5922326,
+    "max_lat": 14.3451207,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0308",
+    "min_lon": 100.5928018,
+    "min_lat": 14.3457455,
+    "max_lon": 100.5928729,
+    "max_lat": 14.3458144,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0309",
+    "min_lon": 100.5929412,
+    "min_lat": 14.3457198,
+    "max_lon": 100.5929862,
+    "max_lat": 14.3457634,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0310",
+    "min_lon": 100.5687008,
+    "min_lat": 14.3580754,
+    "max_lon": 100.5687364,
+    "max_lat": 14.3581099,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0311",
+    "min_lon": 100.5686993,
+    "min_lat": 14.3581213,
+    "max_lon": 100.5687349,
+    "max_lat": 14.3581558,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0312",
+    "min_lon": 100.5661467,
+    "min_lat": 14.3550839,
+    "max_lon": 100.5665423,
+    "max_lat": 14.3552892,
+    "class_id": 0,
+    "original_name": "วัดโพง"
+  },
+  {
+    "id": "site_0313",
+    "min_lon": 100.5668688,
+    "min_lat": 14.3638196,
+    "max_lon": 100.5668979,
+    "max_lat": 14.3638478,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0314",
+    "min_lon": 100.5665204,
+    "min_lat": 14.3641911,
+    "max_lon": 100.5665931,
+    "max_lat": 14.3642616,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0315",
+    "min_lon": 100.566713,
+    "min_lat": 14.3643961,
+    "max_lon": 100.5667386,
+    "max_lat": 14.3644209,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0316",
+    "min_lon": 100.566517,
+    "min_lat": 14.3642913,
+    "max_lon": 100.5665512,
+    "max_lat": 14.3643231,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0317",
+    "min_lon": 100.5668353,
+    "min_lat": 14.3638011,
+    "max_lon": 100.5668645,
+    "max_lat": 14.3638294,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0318",
+    "min_lon": 100.5665744,
+    "min_lat": 14.3641108,
+    "max_lon": 100.5666322,
+    "max_lat": 14.3641668,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0319",
+    "min_lon": 100.5666112,
+    "min_lat": 14.3640564,
+    "max_lon": 100.5666476,
+    "max_lat": 14.3640904,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0320",
+    "min_lon": 100.5593208,
+    "min_lat": 14.3548514,
+    "max_lon": 100.5595441,
+    "max_lat": 14.354954,
+    "class_id": 0,
+    "original_name": "วิหารแกลบ"
+  },
+  {
+    "id": "site_0321",
+    "min_lon": 100.5615502,
+    "min_lat": 14.3627123,
+    "max_lon": 100.5616572,
+    "max_lat": 14.3628159,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0322",
+    "min_lon": 100.5615617,
+    "min_lat": 14.3625804,
+    "max_lon": 100.5616687,
+    "max_lat": 14.362684,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0323",
+    "min_lon": 100.5555854,
+    "min_lat": 14.3550722,
+    "max_lon": 100.5611296,
+    "max_lat": 14.3603679,
+    "class_id": 0,
+    "original_name": "พระราชวังหลวง"
+  },
+  {
+    "id": "site_0324",
+    "min_lon": 100.572761,
+    "min_lat": 14.3703681,
+    "max_lon": 100.5729837,
+    "max_lat": 14.3705838,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0325",
+    "min_lon": 100.5722802,
+    "min_lat": 14.3705417,
+    "max_lon": 100.5723585,
+    "max_lat": 14.3706175,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0326",
+    "min_lon": 100.5689421,
+    "min_lat": 14.3682021,
+    "max_lon": 100.5691546,
+    "max_lat": 14.368408,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0327",
+    "min_lon": 100.5689811,
+    "min_lat": 14.3631507,
+    "max_lon": 100.5690117,
+    "max_lat": 14.3631804,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0328",
+    "min_lon": 100.5688934,
+    "min_lat": 14.3631324,
+    "max_lon": 100.568924,
+    "max_lat": 14.3631621,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0329",
+    "min_lon": 100.569054,
+    "min_lat": 14.3633596,
+    "max_lon": 100.5690923,
+    "max_lat": 14.3633977,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0330",
+    "min_lon": 100.5688395,
+    "min_lat": 14.3631702,
+    "max_lon": 100.5688701,
+    "max_lat": 14.3631999,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0331",
+    "min_lon": 100.5690079,
+    "min_lat": 14.3633507,
+    "max_lon": 100.5690361,
+    "max_lat": 14.363378,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0332",
+    "min_lon": 100.5690271,
+    "min_lat": 14.3631566,
+    "max_lon": 100.5690578,
+    "max_lat": 14.3631862,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0333",
+    "min_lon": 100.5688908,
+    "min_lat": 14.363227,
+    "max_lon": 100.5689426,
+    "max_lat": 14.3632771,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0334",
+    "min_lon": 100.5691163,
+    "min_lat": 14.3631742,
+    "max_lon": 100.5691469,
+    "max_lat": 14.3632038,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0335",
+    "min_lon": 100.5688454,
+    "min_lat": 14.3631262,
+    "max_lon": 100.568876,
+    "max_lat": 14.3631558,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0336",
+    "min_lon": 100.5691605,
+    "min_lat": 14.3631818,
+    "max_lon": 100.5691911,
+    "max_lat": 14.3632115,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0337",
+    "min_lon": 100.5688417,
+    "min_lat": 14.3632073,
+    "max_lon": 100.5688723,
+    "max_lat": 14.3632369,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0338",
+    "min_lon": 100.5689684,
+    "min_lat": 14.3633338,
+    "max_lon": 100.5689928,
+    "max_lat": 14.3633575,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0339",
+    "min_lon": 100.5691241,
+    "min_lat": 14.3628416,
+    "max_lon": 100.5691513,
+    "max_lat": 14.3628679,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0340",
+    "min_lon": 100.568937,
+    "min_lat": 14.3631415,
+    "max_lon": 100.5689676,
+    "max_lat": 14.3631712,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0341",
+    "min_lon": 100.5692388,
+    "min_lat": 14.362894,
+    "max_lon": 100.569266,
+    "max_lat": 14.3629203,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0342",
+    "min_lon": 100.5690719,
+    "min_lat": 14.3631659,
+    "max_lon": 100.5691025,
+    "max_lat": 14.3631956,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0343",
+    "min_lon": 100.5692734,
+    "min_lat": 14.3629656,
+    "max_lon": 100.5693184,
+    "max_lat": 14.3630091,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0344",
+    "min_lon": 100.5691121,
+    "min_lat": 14.363371,
+    "max_lon": 100.5691512,
+    "max_lat": 14.3634085,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0345",
+    "min_lon": 100.5889985,
+    "min_lat": 14.3704322,
+    "max_lon": 100.5890248,
+    "max_lat": 14.3704577,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0346",
+    "min_lon": 100.5886979,
+    "min_lat": 14.3705748,
+    "max_lon": 100.5887246,
+    "max_lat": 14.3706007,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0347",
+    "min_lon": 100.5887386,
+    "min_lat": 14.3703667,
+    "max_lon": 100.5887653,
+    "max_lat": 14.3703926,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0348",
+    "min_lon": 100.5887347,
+    "min_lat": 14.3703758,
+    "max_lon": 100.5889388,
+    "max_lat": 14.3706022,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0349",
+    "min_lon": 100.5887297,
+    "min_lat": 14.3707056,
+    "max_lon": 100.588756,
+    "max_lat": 14.3707311,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0350",
+    "min_lon": 100.588575,
+    "min_lat": 14.3705707,
+    "max_lon": 100.5886013,
+    "max_lat": 14.3705961,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0351",
+    "min_lon": 100.5889479,
+    "min_lat": 14.3704026,
+    "max_lon": 100.5889746,
+    "max_lat": 14.3704284,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0352",
+    "min_lon": 100.5888279,
+    "min_lat": 14.3703056,
+    "max_lon": 100.5888596,
+    "max_lat": 14.3703363,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0353",
+    "min_lon": 100.5889072,
+    "min_lat": 14.3706106,
+    "max_lon": 100.5889339,
+    "max_lat": 14.3706365,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0354",
+    "min_lon": 100.5338398,
+    "min_lat": 14.3965952,
+    "max_lon": 100.5338971,
+    "max_lat": 14.3966508,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0355",
+    "min_lon": 100.5332306,
+    "min_lat": 14.3967828,
+    "max_lon": 100.5332899,
+    "max_lat": 14.3968403,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0356",
+    "min_lon": 100.5336276,
+    "min_lat": 14.3967709,
+    "max_lon": 100.533686,
+    "max_lat": 14.3968274,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0357",
+    "min_lon": 100.5332124,
+    "min_lat": 14.3966671,
+    "max_lon": 100.5332981,
+    "max_lat": 14.3967506,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0358",
+    "min_lon": 100.5581445,
+    "min_lat": 14.377409,
+    "max_lon": 100.5581695,
+    "max_lat": 14.3774333,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0359",
+    "min_lon": 100.5580641,
+    "min_lat": 14.3772819,
+    "max_lon": 100.5580891,
+    "max_lat": 14.3773062,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0360",
+    "min_lon": 100.5581432,
+    "min_lat": 14.3772593,
+    "max_lon": 100.5581682,
+    "max_lat": 14.3772835,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0361",
+    "min_lon": 100.5581062,
+    "min_lat": 14.37742,
+    "max_lon": 100.5581312,
+    "max_lat": 14.3774442,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0362",
+    "min_lon": 100.5580996,
+    "min_lat": 14.3772717,
+    "max_lon": 100.5581247,
+    "max_lat": 14.377296,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0363",
+    "min_lon": 100.5600566,
+    "min_lat": 14.3712288,
+    "max_lon": 100.5600883,
+    "max_lat": 14.3712596,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0364",
+    "min_lon": 100.5600564,
+    "min_lat": 14.3711421,
+    "max_lon": 100.5600882,
+    "max_lat": 14.3711728,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0365",
+    "min_lon": 100.5600565,
+    "min_lat": 14.3711847,
+    "max_lon": 100.5600883,
+    "max_lat": 14.3712154,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0366",
+    "min_lon": 100.5218153,
+    "min_lat": 14.3898533,
+    "max_lon": 100.5219548,
+    "max_lat": 14.3899285,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0367",
+    "min_lon": 100.5217439,
+    "min_lat": 14.3898792,
+    "max_lon": 100.5217969,
+    "max_lat": 14.3899305,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0368",
+    "min_lon": 100.5733518,
+    "min_lat": 14.3464208,
+    "max_lon": 100.5733747,
+    "max_lat": 14.346443,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0369",
+    "min_lon": 100.5733434,
+    "min_lat": 14.3464045,
+    "max_lon": 100.5733606,
+    "max_lat": 14.3464212,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0370",
+    "min_lon": 100.5734578,
+    "min_lat": 14.3463533,
+    "max_lon": 100.573475,
+    "max_lat": 14.3463699,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0371",
+    "min_lon": 100.5734476,
+    "min_lat": 14.3463793,
+    "max_lon": 100.5734706,
+    "max_lat": 14.3464015,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0372",
+    "min_lon": 100.5732733,
+    "min_lat": 14.3464402,
+    "max_lon": 100.5733077,
+    "max_lat": 14.3464735,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0373",
+    "min_lon": 100.5734779,
+    "min_lat": 14.3463612,
+    "max_lon": 100.5735077,
+    "max_lat": 14.3463901,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0374",
+    "min_lon": 100.573377,
+    "min_lat": 14.3464056,
+    "max_lon": 100.573408,
+    "max_lat": 14.3464356,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0375",
+    "min_lon": 100.5735148,
+    "min_lat": 14.3463169,
+    "max_lon": 100.5735491,
+    "max_lat": 14.3463502,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0376",
+    "min_lon": 100.5734779,
+    "min_lat": 14.346344,
+    "max_lon": 100.5734951,
+    "max_lat": 14.3463606,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0377",
+    "min_lon": 100.543121,
+    "min_lat": 14.3581807,
+    "max_lon": 100.5431644,
+    "max_lat": 14.3582228,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0378",
+    "min_lon": 100.5388391,
+    "min_lat": 14.3681951,
+    "max_lon": 100.5389442,
+    "max_lat": 14.3682969,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0379",
+    "min_lon": 100.5399262,
+    "min_lat": 14.3685159,
+    "max_lon": 100.5399713,
+    "max_lat": 14.3685595,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0380",
+    "min_lon": 100.5398148,
+    "min_lat": 14.3683688,
+    "max_lon": 100.5398813,
+    "max_lat": 14.3684332,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0381",
+    "min_lon": 100.5394531,
+    "min_lat": 14.3683306,
+    "max_lon": 100.5394944,
+    "max_lat": 14.3683706,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0382",
+    "min_lon": 100.5391484,
+    "min_lat": 14.3679731,
+    "max_lon": 100.5392535,
+    "max_lat": 14.3680749,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0383",
+    "min_lon": 100.5393593,
+    "min_lat": 14.3682184,
+    "max_lon": 100.5394287,
+    "max_lat": 14.3682895,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0384",
+    "min_lon": 100.5393228,
+    "min_lat": 14.3681742,
+    "max_lon": 100.5393721,
+    "max_lat": 14.368222,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0385",
+    "min_lon": 100.5400595,
+    "min_lat": 14.3694653,
+    "max_lon": 100.5401379,
+    "max_lat": 14.3695452,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0386",
+    "min_lon": 100.5387368,
+    "min_lat": 14.3680613,
+    "max_lon": 100.5388419,
+    "max_lat": 14.3681632,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0387",
+    "min_lon": 100.5394781,
+    "min_lat": 14.3683632,
+    "max_lon": 100.5395194,
+    "max_lat": 14.3684032,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0388",
+    "min_lon": 100.5390462,
+    "min_lat": 14.3678394,
+    "max_lon": 100.5391513,
+    "max_lat": 14.3679412,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0389",
+    "min_lon": 100.5580388,
+    "min_lat": 14.3397488,
+    "max_lon": 100.5580915,
+    "max_lat": 14.3397997,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0390",
+    "min_lon": 100.5588796,
+    "min_lat": 14.3397981,
+    "max_lon": 100.5594708,
+    "max_lat": 14.3401478,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0391",
+    "min_lon": 100.5586679,
+    "min_lat": 14.340113,
+    "max_lon": 100.5587289,
+    "max_lat": 14.3401721,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0392",
+    "min_lon": 100.5595608,
+    "min_lat": 14.3400133,
+    "max_lon": 100.5596464,
+    "max_lat": 14.3400963,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0393",
+    "min_lon": 100.5590146,
+    "min_lat": 14.3402306,
+    "max_lon": 100.559071,
+    "max_lat": 14.3402852,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0394",
+    "min_lon": 100.5593738,
+    "min_lat": 14.3397232,
+    "max_lon": 100.5594524,
+    "max_lat": 14.3397994,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0395",
+    "min_lon": 100.5595025,
+    "min_lat": 14.340169,
+    "max_lon": 100.559582,
+    "max_lat": 14.3402461,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0396",
+    "min_lon": 100.5580891,
+    "min_lat": 14.3397976,
+    "max_lon": 100.5581417,
+    "max_lat": 14.3398486,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0397",
+    "min_lon": 100.5584152,
+    "min_lat": 14.3396601,
+    "max_lon": 100.5584862,
+    "max_lat": 14.3397289,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0398",
+    "min_lon": 100.5581779,
+    "min_lat": 14.3394012,
+    "max_lon": 100.5582277,
+    "max_lat": 14.3394402,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0399",
+    "min_lon": 100.5581921,
+    "min_lat": 14.3393227,
+    "max_lon": 100.5582386,
+    "max_lat": 14.3393678,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0400",
+    "min_lon": 100.5594839,
+    "min_lat": 14.3402874,
+    "max_lon": 100.5595243,
+    "max_lat": 14.3403265,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0401",
+    "min_lon": 100.5585733,
+    "min_lat": 14.3400814,
+    "max_lon": 100.5586348,
+    "max_lat": 14.340141,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0402",
+    "min_lon": 100.5580232,
+    "min_lat": 14.3397894,
+    "max_lon": 100.5580758,
+    "max_lat": 14.3398404,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0403",
+    "min_lon": 100.5594484,
+    "min_lat": 14.3397644,
+    "max_lon": 100.55958,
+    "max_lat": 14.3398536,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0404",
+    "min_lon": 100.5594998,
+    "min_lat": 14.3402459,
+    "max_lon": 100.5595402,
+    "max_lat": 14.340285,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0405",
+    "min_lon": 100.5595898,
+    "min_lat": 14.3398151,
+    "max_lon": 100.5596596,
+    "max_lat": 14.3398827,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0406",
+    "min_lon": 100.5587558,
+    "min_lat": 14.3401212,
+    "max_lon": 100.5588819,
+    "max_lat": 14.3402433,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0407",
+    "min_lon": 100.5580682,
+    "min_lat": 14.3398519,
+    "max_lon": 100.5581209,
+    "max_lat": 14.3399028,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0408",
+    "min_lon": 100.5581151,
+    "min_lat": 14.3393806,
+    "max_lon": 100.5581428,
+    "max_lat": 14.3394075,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0409",
+    "min_lon": 100.5589328,
+    "min_lat": 14.340201,
+    "max_lon": 100.5589892,
+    "max_lat": 14.3402556,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0410",
+    "min_lon": 100.5591734,
+    "min_lat": 14.3396445,
+    "max_lon": 100.5593654,
+    "max_lat": 14.3397704,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0411",
+    "min_lon": 100.5582399,
+    "min_lat": 14.3393388,
+    "max_lon": 100.5583251,
+    "max_lat": 14.3394021,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0412",
+    "min_lon": 100.5594686,
+    "min_lat": 14.3403271,
+    "max_lon": 100.559509,
+    "max_lat": 14.3403662,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0413",
+    "min_lon": 100.5657494,
+    "min_lat": 14.2975601,
+    "max_lon": 100.5657802,
+    "max_lat": 14.2975899,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0414",
+    "min_lon": 100.5656277,
+    "min_lat": 14.297229,
+    "max_lon": 100.5656585,
+    "max_lat": 14.2972588,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0415",
+    "min_lon": 100.5655974,
+    "min_lat": 14.2971354,
+    "max_lon": 100.5656282,
+    "max_lat": 14.2971652,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0416",
+    "min_lon": 100.5657662,
+    "min_lat": 14.2976118,
+    "max_lon": 100.5657969,
+    "max_lat": 14.2976416,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0417",
+    "min_lon": 100.5661852,
+    "min_lat": 14.2971073,
+    "max_lon": 100.5662073,
+    "max_lat": 14.2971288,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0418",
+    "min_lon": 100.5657157,
+    "min_lat": 14.2974558,
+    "max_lon": 100.5657464,
+    "max_lat": 14.2974856,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0419",
+    "min_lon": 100.5657317,
+    "min_lat": 14.2975055,
+    "max_lon": 100.5657625,
+    "max_lat": 14.2975353,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0420",
+    "min_lon": 100.5662603,
+    "min_lat": 14.2971189,
+    "max_lon": 100.5664403,
+    "max_lat": 14.2972798,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0421",
+    "min_lon": 100.566262,
+    "min_lat": 14.2973448,
+    "max_lon": 100.5662842,
+    "max_lat": 14.2973662,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0422",
+    "min_lon": 100.5900096,
+    "min_lat": 14.3684652,
+    "max_lon": 100.5900421,
+    "max_lat": 14.3684967,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0423",
+    "min_lon": 100.5891437,
+    "min_lat": 14.368248,
+    "max_lon": 100.5893804,
+    "max_lat": 14.3684772,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0424",
+    "min_lon": 100.5900155,
+    "min_lat": 14.3683882,
+    "max_lon": 100.590048,
+    "max_lat": 14.3684197,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0425",
+    "min_lon": 100.5894395,
+    "min_lat": 14.3683507,
+    "max_lon": 100.589524,
+    "max_lat": 14.3684326,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0426",
+    "min_lon": 100.5888428,
+    "min_lat": 14.3682607,
+    "max_lon": 100.5890828,
+    "max_lat": 14.3683931,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0427",
+    "min_lon": 100.5909336,
+    "min_lat": 14.3614085,
+    "max_lon": 100.5913235,
+    "max_lat": 14.3615895,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0428",
+    "min_lon": 100.5906752,
+    "min_lat": 14.3613203,
+    "max_lon": 100.5907311,
+    "max_lat": 14.3613745,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0429",
+    "min_lon": 100.5911874,
+    "min_lat": 14.3616669,
+    "max_lon": 100.5912302,
+    "max_lat": 14.3617085,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0430",
+    "min_lon": 100.5910962,
+    "min_lat": 14.3616025,
+    "max_lon": 100.5911223,
+    "max_lat": 14.3616277,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0431",
+    "min_lon": 100.5909049,
+    "min_lat": 14.3613414,
+    "max_lon": 100.5909608,
+    "max_lat": 14.3613955,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0432",
+    "min_lon": 100.5907276,
+    "min_lat": 14.3613871,
+    "max_lon": 100.5908933,
+    "max_lat": 14.3615476,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0433",
+    "min_lon": 100.5905903,
+    "min_lat": 14.361257,
+    "max_lon": 100.5910219,
+    "max_lat": 14.3616751,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0434",
+    "min_lon": 100.5904799,
+    "min_lat": 14.3613855,
+    "max_lon": 100.5905849,
+    "max_lat": 14.3614872,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0435",
+    "min_lon": 100.5908833,
+    "min_lat": 14.3615631,
+    "max_lon": 100.5909392,
+    "max_lat": 14.3616172,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0436",
+    "min_lon": 100.591118,
+    "min_lat": 14.361347,
+    "max_lon": 100.5911584,
+    "max_lat": 14.3613862,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0437",
+    "min_lon": 100.591058,
+    "min_lat": 14.3616547,
+    "max_lon": 100.5911361,
+    "max_lat": 14.3617041,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0438",
+    "min_lon": 100.5911879,
+    "min_lat": 14.3613483,
+    "max_lon": 100.5912786,
+    "max_lat": 14.3614022,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0439",
+    "min_lon": 100.5910382,
+    "min_lat": 14.3613346,
+    "max_lon": 100.5910903,
+    "max_lat": 14.361385,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0440",
+    "min_lon": 100.5911942,
+    "min_lat": 14.3616115,
+    "max_lon": 100.5912202,
+    "max_lat": 14.3616367,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0441",
+    "min_lon": 100.5906536,
+    "min_lat": 14.3615421,
+    "max_lon": 100.5907094,
+    "max_lat": 14.3615962,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0442",
+    "min_lon": 100.5436918,
+    "min_lat": 14.3414605,
+    "max_lon": 100.5437234,
+    "max_lat": 14.3414911,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0443",
+    "min_lon": 100.5433708,
+    "min_lat": 14.3414168,
+    "max_lon": 100.5434296,
+    "max_lat": 14.3414738,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0444",
+    "min_lon": 100.5436637,
+    "min_lat": 14.3416483,
+    "max_lon": 100.5436872,
+    "max_lat": 14.341671,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0445",
+    "min_lon": 100.5436099,
+    "min_lat": 14.3416871,
+    "max_lon": 100.5436415,
+    "max_lat": 14.3417177,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0446",
+    "min_lon": 100.5434877,
+    "min_lat": 14.3413964,
+    "max_lon": 100.5435168,
+    "max_lat": 14.3414247,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0447",
+    "min_lon": 100.5436544,
+    "min_lat": 14.3416753,
+    "max_lon": 100.5436779,
+    "max_lat": 14.3416981,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0448",
+    "min_lon": 100.5435916,
+    "min_lat": 14.3414282,
+    "max_lon": 100.5436232,
+    "max_lat": 14.3414588,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0449",
+    "min_lon": 100.5500802,
+    "min_lat": 14.341084,
+    "max_lon": 100.5510727,
+    "max_lat": 14.3416975,
+    "class_id": 0,
+    "original_name": "วัดหลวงชีกรุด"
+  },
+  {
+    "id": "site_0450",
+    "min_lon": 100.5924249,
+    "min_lat": 14.3571387,
+    "max_lon": 100.5929348,
+    "max_lat": 14.3574541,
+    "class_id": 0,
+    "original_name": "วัดนางคำ"
+  },
+  {
+    "id": "site_0451",
+    "min_lon": 100.5697933,
+    "min_lat": 14.3490188,
+    "max_lon": 100.5698373,
+    "max_lat": 14.3490529,
+    "class_id": 0,
+    "original_name": "สะพานประตูจีน"
+  },
+  {
+    "id": "site_0452",
+    "min_lon": 100.5557464,
+    "min_lat": 14.3443311,
+    "max_lon": 100.5561763,
+    "max_lat": 14.3445833,
+    "class_id": 0,
+    "original_name": "วัดเจ้าพราหมณ์"
+  },
+  {
+    "id": "site_0453",
+    "min_lon": 100.5562507,
+    "min_lat": 14.3414307,
+    "max_lon": 100.5565046,
+    "max_lat": 14.3415611,
+    "class_id": 0,
+    "original_name": "คลังดีบุก"
+  },
+  {
+    "id": "site_0454",
+    "min_lon": 100.5560334,
+    "min_lat": 14.3602743,
+    "max_lon": 100.5561313,
+    "max_lat": 14.3607428,
+    "class_id": 0,
+    "original_name": "ระหัดน้ำ"
+  },
+  {
+    "id": "site_0455",
+    "min_lon": 100.5597557,
+    "min_lat": 14.3525307,
+    "max_lon": 100.560184,
+    "max_lat": 14.352717,
+    "class_id": 0,
+    "original_name": "วัดเกษ"
+  },
+  {
+    "id": "site_0456",
+    "min_lon": 100.5944392,
+    "min_lat": 14.3651082,
+    "max_lon": 100.5951543,
+    "max_lat": 14.3654628,
+    "class_id": 0,
+    "original_name": "วัดสีกาสมุด"
+  },
+  {
+    "id": "site_0457",
+    "min_lon": 100.5599069,
+    "min_lat": 14.3515819,
+    "max_lon": 100.5600852,
+    "max_lat": 14.3516603,
+    "class_id": 0,
+    "original_name": "ศาลพระกาฬ"
+  },
+  {
+    "id": "site_0458",
+    "min_lon": 100.5799198,
+    "min_lat": 14.3465242,
+    "max_lon": 100.5799684,
+    "max_lat": 14.3465641,
+    "class_id": 0,
+    "original_name": "ประตูช่องกุด"
+  },
+  {
+    "id": "site_0459",
+    "min_lon": 100.5581509,
+    "min_lat": 14.3542911,
+    "max_lon": 100.5582326,
+    "max_lat": 14.3543675,
+    "class_id": 0,
+    "original_name": "ถังน้ำประปา"
+  },
+  {
+    "id": "site_0460",
+    "min_lon": 100.5455406,
+    "min_lat": 14.3443791,
+    "max_lon": 100.5461816,
+    "max_lat": 14.3448107,
+    "class_id": 0,
+    "original_name": "วัดมหาสมัน"
+  },
+  {
+    "id": "site_0461",
+    "min_lon": 100.565942,
+    "min_lat": 14.3485927,
+    "max_lon": 100.5661427,
+    "max_lat": 14.3486596,
+    "class_id": 0,
+    "original_name": "สะพานเทพหมี"
+  },
+  {
+    "id": "site_0462",
+    "min_lon": 100.5614488,
+    "min_lat": 14.3480456,
+    "max_lon": 100.5616512,
+    "max_lat": 14.3481084,
+    "class_id": 0,
+    "original_name": "สะพานบ้านดินสอ"
+  },
+  {
+    "id": "site_0463",
+    "min_lon": 100.553924,
+    "min_lat": 14.3756529,
+    "max_lon": 100.5545489,
+    "max_lat": 14.3763268,
+    "class_id": 0,
+    "original_name": "วัดปราสาท"
+  },
+  {
+    "id": "site_0464",
+    "min_lon": 100.554868,
+    "min_lat": 14.3742091,
+    "max_lon": 100.5557947,
+    "max_lat": 14.3749418,
+    "class_id": 0,
+    "original_name": "วัดจงกรม"
+  },
+  {
+    "id": "site_0465",
+    "min_lon": 100.539554,
+    "min_lat": 14.3726268,
+    "max_lon": 100.5406347,
+    "max_lat": 14.3733517,
+    "class_id": 0,
+    "original_name": "วัดโคกพระยา"
+  },
+  {
+    "id": "site_0466",
+    "min_lon": 100.5565578,
+    "min_lat": 14.3650371,
+    "max_lon": 100.5577058,
+    "max_lat": 14.3658686,
+    "class_id": 0,
+    "original_name": "วัดตะไกร"
+  },
+  {
+    "id": "site_0467",
+    "min_lon": 100.5572337,
+    "min_lat": 14.3627068,
+    "max_lon": 100.5578658,
+    "max_lat": 14.3630247,
+    "class_id": 0,
+    "original_name": "วัดหัสดาวาส"
+  },
+  {
+    "id": "site_0468",
+    "min_lon": 100.5566946,
+    "min_lat": 14.3634963,
+    "max_lon": 100.5572122,
+    "max_lat": 14.3638614,
+    "class_id": 0,
+    "original_name": "วัดโคกพระยา"
+  },
+  {
+    "id": "site_0469",
+    "min_lon": 100.5549467,
+    "min_lat": 14.3707785,
+    "max_lon": 100.5559553,
+    "max_lat": 14.3713231,
+    "class_id": 0,
+    "original_name": "วัดพระงาม"
+  },
+  {
+    "id": "site_0470",
+    "min_lon": 100.5525145,
+    "min_lat": 14.3782418,
+    "max_lon": 100.5526981,
+    "max_lat": 14.378399,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0471",
+    "min_lon": 100.5532023,
+    "min_lat": 14.3774764,
+    "max_lon": 100.5544563,
+    "max_lat": 14.3782455,
+    "class_id": 0,
+    "original_name": "วัดพระยาแมน"
+  },
+  {
+    "id": "site_0472",
+    "min_lon": 100.5600219,
+    "min_lat": 14.3615359,
+    "max_lon": 100.5607171,
+    "max_lat": 14.3619626,
+    "class_id": 0,
+    "original_name": "วัดใหม่คลองสระบัว"
+  },
+  {
+    "id": "site_0473",
+    "min_lon": 100.5714414,
+    "min_lat": 14.3663078,
+    "max_lon": 100.5715422,
+    "max_lat": 14.3664091,
+    "class_id": 0,
+    "original_name": "กำแพงเมืองพระนครศรีอยุธยา"
+  },
+  {
+    "id": "site_0474",
+    "min_lon": 100.5739506,
+    "min_lat": 14.333309,
+    "max_lon": 100.57558,
+    "max_lat": 14.3340978,
+    "class_id": 0,
+    "original_name": "หมู่บ้านโปรตุเกส"
+  },
+  {
+    "id": "site_0475",
+    "min_lon": 100.5596823,
+    "min_lat": 14.3568794,
+    "max_lon": 100.5599589,
+    "max_lat": 14.3570498,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0476",
+    "min_lon": 100.5562542,
+    "min_lat": 14.3553173,
+    "max_lon": 100.5566003,
+    "max_lat": 14.3554903,
+    "class_id": 0,
+    "original_name": "พระตำหนักสวนกระต่าย"
+  },
+  {
+    "id": "site_0477",
+    "min_lon": 100.5565597,
+    "min_lat": 14.3578215,
+    "max_lon": 100.5567422,
+    "max_lat": 14.357898,
+    "class_id": 0,
+    "original_name": "พระตำหนักโคหาสวรรค์"
+  },
+  {
+    "id": "site_0478",
+    "min_lon": 100.5577728,
+    "min_lat": 14.3571986,
+    "max_lon": 100.5581459,
+    "max_lat": 14.3573667,
+    "class_id": 0,
+    "original_name": "พระตำหนักสระแก้ว"
+  },
+  {
+    "id": "site_0479",
+    "min_lon": 100.5582694,
+    "min_lat": 14.3600178,
+    "max_lon": 100.558457,
+    "max_lat": 14.3601773,
+    "class_id": 0,
+    "original_name": "พระที่นั่งสุริยาสน์อมรินทร์"
+  },
+  {
+    "id": "site_0480",
+    "min_lon": 100.5580584,
+    "min_lat": 14.3592339,
+    "max_lon": 100.5583993,
+    "max_lat": 14.3593756,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0481",
+    "min_lon": 100.5584279,
+    "min_lat": 14.359301,
+    "max_lon": 100.5585446,
+    "max_lat": 14.3594125,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0482",
+    "min_lon": 100.5584812,
+    "min_lat": 14.3587707,
+    "max_lon": 100.5585993,
+    "max_lat": 14.3588835,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0483",
+    "min_lon": 100.5581002,
+    "min_lat": 14.3587579,
+    "max_lon": 100.5584425,
+    "max_lat": 14.3589042,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0484",
+    "min_lon": 100.5579814,
+    "min_lat": 14.3594373,
+    "max_lon": 100.5587338,
+    "max_lat": 14.3596578,
+    "class_id": 0,
+    "original_name": "พระที่นั่งสรรเพชญ์ปราสาท"
+  },
+  {
+    "id": "site_0485",
+    "min_lon": 100.5568867,
+    "min_lat": 14.3594596,
+    "max_lon": 100.5570702,
+    "max_lat": 14.3596217,
+    "class_id": 0,
+    "original_name": "ถังน้ำประปา"
+  },
+  {
+    "id": "site_0486",
+    "min_lon": 100.5580683,
+    "min_lat": 14.358515,
+    "max_lon": 100.558836,
+    "max_lat": 14.3587384,
+    "class_id": 0,
+    "original_name": "พระที่นั่งวิหารสมเด็จ"
+  },
+  {
+    "id": "site_0487",
+    "min_lon": 100.5944594,
+    "min_lat": 14.3609689,
+    "max_lon": 100.5945432,
+    "max_lat": 14.3610491,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0488",
+    "min_lon": 100.5949402,
+    "min_lat": 14.3610203,
+    "max_lon": 100.595073,
+    "max_lat": 14.3611419,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0489",
+    "min_lon": 100.5943246,
+    "min_lat": 14.3614901,
+    "max_lon": 100.5944393,
+    "max_lat": 14.3615958,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0490",
+    "min_lon": 100.5952191,
+    "min_lat": 14.3613483,
+    "max_lon": 100.5954149,
+    "max_lat": 14.3614609,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0491",
+    "min_lon": 100.5540493,
+    "min_lat": 14.3576253,
+    "max_lon": 100.5542007,
+    "max_lat": 14.3577719,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0492",
+    "min_lon": 100.5542951,
+    "min_lat": 14.3573168,
+    "max_lon": 100.5544806,
+    "max_lat": 14.3574965,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0493",
+    "min_lon": 100.5531883,
+    "min_lat": 14.3568313,
+    "max_lon": 100.5533639,
+    "max_lat": 14.3569393,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0494",
+    "min_lon": 100.5898545,
+    "min_lat": 14.3630555,
+    "max_lon": 100.5901107,
+    "max_lat": 14.3633037,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0495",
+    "min_lon": 100.5664001,
+    "min_lat": 14.3585826,
+    "max_lon": 100.5668575,
+    "max_lat": 14.3587726,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0496",
+    "min_lon": 100.5668464,
+    "min_lat": 14.358326,
+    "max_lon": 100.5677235,
+    "max_lat": 14.3591797,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0497",
+    "min_lon": 100.5616947,
+    "min_lat": 14.3542597,
+    "max_lon": 100.561809,
+    "max_lat": 14.3543465,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0498",
+    "min_lon": 100.56172,
+    "min_lat": 14.3539928,
+    "max_lon": 100.5618343,
+    "max_lat": 14.3540796,
+    "class_id": 0,
+    "original_name": "unknown"
+  },
+  {
+    "id": "site_0499",
+    "min_lon": 100.561353,
+    "min_lat": 14.354183,
+    "max_lon": 100.5620926,
+    "max_lat": 14.3545306,
+    "class_id": 0,
+    "original_name": "unknown"
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "neg_0000",
+    "min_lon": 103.61594985054353,
+    "min_lat": 10.044647624722586,
+    "max_lon": 103.61794985054354,
+    "max_lat": 10.046647624722585,
+    "class_id": null,
+    "original_name": "negative_0"
+  },
+  {
+    "id": "neg_0001",
+    "min_lon": 98.79833487083226,
+    "min_lat": 18.3271607395657,
+    "max_lon": 98.80033487083227,
+    "max_lat": 18.3291607395657,
+    "class_id": null,
+    "original_name": "negative_1"
+  },
+  {
+    "id": "neg_0002",
+    "min_lon": 99.68033745967861,
+    "min_lat": 19.1956720230958,
+    "max_lon": 99.68233745967862,
+    "max_lat": 19.1976720230958,
+    "class_id": null,
+    "original_name": "negative_2"
+  },
+  {
+    "id": "neg_0003",
+    "min_lon": 103.34124139693793,
+    "min_lat": 19.8259077241314,
+    "max_lon": 103.34324139693794,
+    "max_lat": 19.827907724131403,
+    "class_id": null,
+    "original_name": "negative_3"
+  },
+  {
+    "id": "neg_0004",
+    "min_lon": 101.96653835361556,
+    "min_lat": 14.620947712181588,
+    "max_lon": 101.96853835361557,
+    "max_lat": 14.622947712181587,
+    "class_id": null,
+    "original_name": "negative_4"
+  },
+  {
+    "id": "neg_0005",
+    "min_lon": 101.88895832490573,
+    "min_lat": 20.254290971110194,
+    "max_lon": 101.89095832490574,
+    "max_lat": 20.256290971110197,
+    "class_id": null,
+    "original_name": "negative_5"
+  },
+  {
+    "id": "neg_0006",
+    "min_lon": 101.02121053689298,
+    "min_lat": 8.252283905499452,
+    "max_lon": 101.02321053689299,
+    "max_lat": 8.25428390549945,
+    "class_id": null,
+    "original_name": "negative_6"
+  },
+  {
+    "id": "neg_0007",
+    "min_lon": 98.89202021562409,
+    "min_lat": 12.804437429752001,
+    "max_lon": 98.8940202156241,
+    "max_lat": 12.806437429752,
+    "class_id": null,
+    "original_name": "negative_7"
+  },
+  {
+    "id": "neg_0008",
+    "min_lon": 102.3484054677505,
+    "min_lat": 10.39760285518251,
+    "max_lon": 102.3504054677505,
+    "max_lat": 10.39960285518251,
+    "class_id": null,
+    "original_name": "negative_8"
+  },
+  {
+    "id": "neg_0009",
+    "min_lon": 102.33366310204063,
+    "min_lat": 12.260684559752223,
+    "max_lon": 102.33566310204064,
+    "max_lat": 12.262684559752222,
+    "class_id": null,
+    "original_name": "negative_9"
+  },
+  {
+    "id": "neg_0010",
+    "min_lon": 102.20223382674953,
+    "min_lat": 8.476111097119201,
+    "max_lon": 102.20423382674954,
+    "max_lat": 8.4781110971192,
+    "class_id": null,
+    "original_name": "negative_10"
+  },
+  {
+    "id": "neg_0011",
+    "min_lon": 100.80728697925367,
+    "min_lat": 14.426566920929847,
+    "max_lon": 100.80928697925368,
+    "max_lat": 14.428566920929846,
+    "class_id": null,
+    "original_name": "negative_11"
+  },
+  {
+    "id": "neg_0012",
+    "min_lon": 103.12312644110033,
+    "min_lat": 10.175569369343584,
+    "max_lon": 103.12512644110033,
+    "max_lat": 10.177569369343583,
+    "class_id": null,
+    "original_name": "negative_12"
+  },
+  {
+    "id": "neg_0013",
+    "min_lon": 103.44481165875217,
+    "min_lat": 8.451194284563785,
+    "max_lon": 103.44681165875218,
+    "max_lat": 8.453194284563784,
+    "class_id": null,
+    "original_name": "negative_13"
+  },
+  {
+    "id": "neg_0014",
+    "min_lon": 100.54283474825608,
+    "min_lat": 16.323953722376423,
+    "max_lon": 100.5448347482561,
+    "max_lat": 16.325953722376426,
+    "class_id": null,
+    "original_name": "negative_14"
+  },
+  {
+    "id": "neg_0015",
+    "min_lon": 100.16894504176622,
+    "min_lat": 7.315901122295486,
+    "max_lon": 100.17094504176623,
+    "max_lat": 7.317901122295487,
+    "class_id": null,
+    "original_name": "negative_15"
+  },
+  {
+    "id": "neg_0016",
+    "min_lon": 103.37595741705155,
+    "min_lat": 8.969821385321008,
+    "max_lon": 103.37795741705156,
+    "max_lat": 8.971821385321007,
+    "class_id": null,
+    "original_name": "negative_16"
+  },
+  {
+    "id": "neg_0017",
+    "min_lon": 100.17674717980276,
+    "min_lat": 7.763066439839676,
+    "max_lon": 100.17874717980277,
+    "max_lat": 7.765066439839677,
+    "class_id": null,
+    "original_name": "negative_17"
+  },
+  {
+    "id": "neg_0018",
+    "min_lon": 98.32658073107761,
+    "min_lat": 13.07359440279095,
+    "max_lon": 98.32858073107762,
+    "max_lat": 13.07559440279095,
+    "class_id": null,
+    "original_name": "negative_18"
+  },
+  {
+    "id": "neg_0019",
+    "min_lon": 100.27375543091193,
+    "min_lat": 20.214650843892844,
+    "max_lon": 100.27575543091194,
+    "max_lat": 20.216650843892847,
+    "class_id": null,
+    "original_name": "negative_19"
+  },
+  {
+    "id": "neg_0020",
+    "min_lon": 101.02211654210132,
+    "min_lat": 13.876717700428943,
+    "max_lon": 101.02411654210132,
+    "max_lat": 13.878717700428941,
+    "class_id": null,
+    "original_name": "negative_20"
+  },
+  {
+    "id": "neg_0021",
+    "min_lon": 100.83440069874051,
+    "min_lat": 11.041783038433422,
+    "max_lon": 100.83640069874052,
+    "max_lat": 11.043783038433421,
+    "class_id": null,
+    "original_name": "negative_21"
+  },
+  {
+    "id": "neg_0022",
+    "min_lon": 103.76156922614626,
+    "min_lat": 9.952637785489673,
+    "max_lon": 103.76356922614627,
+    "max_lat": 9.954637785489671,
+    "class_id": null,
+    "original_name": "negative_22"
+  },
+  {
+    "id": "neg_0023",
+    "min_lon": 103.12237342598264,
+    "min_lat": 11.605882746401795,
+    "max_lon": 103.12437342598265,
+    "max_lat": 11.607882746401794,
+    "class_id": null,
+    "original_name": "negative_23"
+  },
+  {
+    "id": "neg_0024",
+    "min_lon": 99.85962060111935,
+    "min_lat": 11.134546880000551,
+    "max_lon": 99.86162060111936,
+    "max_lat": 11.13654688000055,
+    "class_id": null,
+    "original_name": "negative_24"
+  },
+  {
+    "id": "neg_0025",
+    "min_lon": 99.27118488175793,
+    "min_lat": 15.691846976925136,
+    "max_lon": 99.27318488175794,
+    "max_lat": 15.693846976925135,
+    "class_id": null,
+    "original_name": "negative_25"
+  },
+  {
+    "id": "neg_0026",
+    "min_lon": 101.62710878687412,
+    "min_lat": 16.77439783084324,
+    "max_lon": 101.62910878687413,
+    "max_lat": 16.776397830843244,
+    "class_id": null,
+    "original_name": "negative_26"
+  },
+  {
+    "id": "neg_0027",
+    "min_lon": 101.76621328318953,
+    "min_lat": 18.842392115889076,
+    "max_lon": 101.76821328318954,
+    "max_lat": 18.84439211588908,
+    "class_id": null,
+    "original_name": "negative_27"
+  },
+  {
+    "id": "neg_0028",
+    "min_lon": 101.35119448580737,
+    "min_lat": 14.086317413019232,
+    "max_lon": 101.35319448580738,
+    "max_lat": 14.088317413019231,
+    "class_id": null,
+    "original_name": "negative_28"
+  },
+  {
+    "id": "neg_0029",
+    "min_lon": 100.92403884132722,
+    "min_lat": 19.874002647607718,
+    "max_lon": 100.92603884132723,
+    "max_lat": 19.87600264760772,
+    "class_id": null,
+    "original_name": "negative_29"
+  },
+  {
+    "id": "neg_0030",
+    "min_lon": 103.0706104236981,
+    "min_lat": 14.214946418607939,
+    "max_lon": 103.07261042369811,
+    "max_lat": 14.216946418607938,
+    "class_id": null,
+    "original_name": "negative_30"
+  },
+  {
+    "id": "neg_0031",
+    "min_lon": 103.03858260194393,
+    "min_lat": 14.204032941393853,
+    "max_lon": 103.04058260194394,
+    "max_lat": 14.206032941393852,
+    "class_id": null,
+    "original_name": "negative_31"
+  },
+  {
+    "id": "neg_0032",
+    "min_lon": 98.55326943011171,
+    "min_lat": 18.215276037425998,
+    "max_lon": 98.55526943011172,
+    "max_lat": 18.217276037426,
+    "class_id": null,
+    "original_name": "negative_32"
+  },
+  {
+    "id": "neg_0033",
+    "min_lon": 100.87008425295075,
+    "min_lat": 9.862798398881397,
+    "max_lon": 100.87208425295076,
+    "max_lat": 9.864798398881396,
+    "class_id": null,
+    "original_name": "negative_33"
+  },
+  {
+    "id": "neg_0034",
+    "min_lon": 98.44196845766473,
+    "min_lat": 19.74606837514146,
+    "max_lon": 98.44396845766474,
+    "max_lat": 19.74806837514146,
+    "class_id": null,
+    "original_name": "negative_34"
+  },
+  {
+    "id": "neg_0035",
+    "min_lon": 98.37391765402131,
+    "min_lat": 15.800278316756541,
+    "max_lon": 98.37591765402132,
+    "max_lat": 15.80227831675654,
+    "class_id": null,
+    "original_name": "negative_35"
+  },
+  {
+    "id": "neg_0036",
+    "min_lon": 100.5866736282895,
+    "min_lat": 18.09276637410464,
+    "max_lon": 100.58867362828951,
+    "max_lat": 18.094766374104644,
+    "class_id": null,
+    "original_name": "negative_36"
+  },
+  {
+    "id": "neg_0037",
+    "min_lon": 102.6217340973408,
+    "min_lat": 14.056165498616307,
+    "max_lon": 102.62373409734082,
+    "max_lat": 14.058165498616306,
+    "class_id": null,
+    "original_name": "negative_37"
+  },
+  {
+    "id": "neg_0038",
+    "min_lon": 102.40742994896002,
+    "min_lat": 17.459804949181365,
+    "max_lon": 102.40942994896002,
+    "max_lat": 17.461804949181367,
+    "class_id": null,
+    "original_name": "negative_38"
+  },
+  {
+    "id": "neg_0039",
+    "min_lon": 100.13391133101413,
+    "min_lat": 16.0469048614721,
+    "max_lon": 100.13591133101414,
+    "max_lat": 16.048904861472103,
+    "class_id": null,
+    "original_name": "negative_39"
+  },
+  {
+    "id": "neg_0040",
+    "min_lon": 101.9378429635641,
+    "min_lat": 16.961908249014698,
+    "max_lon": 101.9398429635641,
+    "max_lat": 16.9639082490147,
+    "class_id": null,
+    "original_name": "negative_40"
+  },
+  {
+    "id": "neg_0041",
+    "min_lon": 101.0570581546839,
+    "min_lat": 9.05033540048835,
+    "max_lon": 101.05905815468391,
+    "max_lat": 9.05233540048835,
+    "class_id": null,
+    "original_name": "negative_41"
+  },
+  {
+    "id": "neg_0042",
+    "min_lon": 101.14306157488475,
+    "min_lat": 18.185552014733247,
+    "max_lon": 101.14506157488476,
+    "max_lat": 18.18755201473325,
+    "class_id": null,
+    "original_name": "negative_42"
+  },
+  {
+    "id": "neg_0043",
+    "min_lon": 100.51789586496764,
+    "min_lat": 13.143530858246805,
+    "max_lon": 100.51989586496765,
+    "max_lat": 13.145530858246804,
+    "class_id": null,
+    "original_name": "negative_43"
+  },
+  {
+    "id": "neg_0044",
+    "min_lon": 103.63350285698924,
+    "min_lat": 19.52801726221514,
+    "max_lon": 103.63550285698925,
+    "max_lat": 19.530017262215143,
+    "class_id": null,
+    "original_name": "negative_44"
+  },
+  {
+    "id": "neg_0045",
+    "min_lon": 100.20214749028223,
+    "min_lat": 12.128971837288926,
+    "max_lon": 100.20414749028224,
+    "max_lat": 12.130971837288925,
+    "class_id": null,
+    "original_name": "negative_45"
+  },
+  {
+    "id": "neg_0046",
+    "min_lon": 100.5266646847175,
+    "min_lat": 9.811199893120646,
+    "max_lon": 100.52866468471751,
+    "max_lat": 9.813199893120645,
+    "class_id": null,
+    "original_name": "negative_46"
+  },
+  {
+    "id": "neg_0047",
+    "min_lon": 102.77310565338955,
+    "min_lat": 16.36165907675868,
+    "max_lon": 102.77510565338956,
+    "max_lat": 16.363659076758683,
+    "class_id": null,
+    "original_name": "negative_47"
+  },
+  {
+    "id": "neg_0048",
+    "min_lon": 103.2672064862721,
+    "min_lat": 12.433119558762103,
+    "max_lon": 103.26920648627211,
+    "max_lat": 12.435119558762102,
+    "class_id": null,
+    "original_name": "negative_48"
+  },
+  {
+    "id": "neg_0049",
+    "min_lon": 99.39731126435504,
+    "min_lat": 12.807586376661952,
+    "max_lon": 99.39931126435505,
+    "max_lat": 12.80958637666195,
+    "class_id": null,
+    "original_name": "negative_49"
+  },
+  {
+    "id": "neg_0050",
+    "min_lon": 101.47852661680471,
+    "min_lat": 18.333504416416083,
+    "max_lon": 101.48052661680472,
+    "max_lat": 18.335504416416086,
+    "class_id": null,
+    "original_name": "negative_50"
+  },
+  {
+    "id": "neg_0051",
+    "min_lon": 102.08174593965602,
+    "min_lat": 7.948026493880296,
+    "max_lon": 102.08374593965603,
+    "max_lat": 7.950026493880297,
+    "class_id": null,
+    "original_name": "negative_51"
+  },
+  {
+    "id": "neg_0052",
+    "min_lon": 98.59127926908853,
+    "min_lat": 10.208418102333775,
+    "max_lon": 98.59327926908854,
+    "max_lat": 10.210418102333774,
+    "class_id": null,
+    "original_name": "negative_52"
+  },
+  {
+    "id": "neg_0053",
+    "min_lon": 103.52462870770022,
+    "min_lat": 9.663248434505487,
+    "max_lon": 103.52662870770023,
+    "max_lat": 9.665248434505486,
+    "class_id": null,
+    "original_name": "negative_53"
+  },
+  {
+    "id": "neg_0054",
+    "min_lon": 102.54117509222732,
+    "min_lat": 12.46329845235631,
+    "max_lon": 102.54317509222733,
+    "max_lat": 12.46529845235631,
+    "class_id": null,
+    "original_name": "negative_54"
+  },
+  {
+    "id": "neg_0055",
+    "min_lon": 101.10874040738996,
+    "min_lat": 8.042347637858002,
+    "max_lon": 101.11074040738997,
+    "max_lat": 8.044347637858001,
+    "class_id": null,
+    "original_name": "negative_55"
+  },
+  {
+    "id": "neg_0056",
+    "min_lon": 101.02058646685596,
+    "min_lat": 14.019712436268774,
+    "max_lon": 101.02258646685597,
+    "max_lat": 14.021712436268773,
+    "class_id": null,
+    "original_name": "negative_56"
+  },
+  {
+    "id": "neg_0057",
+    "min_lon": 103.70958228112339,
+    "min_lat": 9.710957740313708,
+    "max_lon": 103.7115822811234,
+    "max_lat": 9.712957740313707,
+    "class_id": null,
+    "original_name": "negative_57"
+  },
+  {
+    "id": "neg_0058",
+    "min_lon": 101.93806195582182,
+    "min_lat": 8.699338741218595,
+    "max_lon": 101.94006195582183,
+    "max_lat": 8.701338741218594,
+    "class_id": null,
+    "original_name": "negative_58"
+  },
+  {
+    "id": "neg_0059",
+    "min_lon": 100.92010550189529,
+    "min_lat": 19.82370510785786,
+    "max_lon": 100.9221055018953,
+    "max_lat": 19.825705107857864,
+    "class_id": null,
+    "original_name": "negative_59"
+  },
+  {
+    "id": "neg_0060",
+    "min_lon": 98.35548211710534,
+    "min_lat": 18.855833489956122,
+    "max_lon": 98.35748211710535,
+    "max_lat": 18.857833489956125,
+    "class_id": null,
+    "original_name": "negative_60"
+  },
+  {
+    "id": "neg_0061",
+    "min_lon": 101.9826387124735,
+    "min_lat": 15.563802680976403,
+    "max_lon": 101.98463871247351,
+    "max_lat": 15.565802680976402,
+    "class_id": null,
+    "original_name": "negative_61"
+  },
+  {
+    "id": "neg_0062",
+    "min_lon": 102.32098910873616,
+    "min_lat": 18.55971157989307,
+    "max_lon": 102.32298910873617,
+    "max_lat": 18.56171157989307,
+    "class_id": null,
+    "original_name": "negative_62"
+  },
+  {
+    "id": "neg_0063",
+    "min_lon": 98.96671628618724,
+    "min_lat": 12.166886826525495,
+    "max_lon": 98.96871628618725,
+    "max_lat": 12.168886826525494,
+    "class_id": null,
+    "original_name": "negative_63"
+  },
+  {
+    "id": "neg_0064",
+    "min_lon": 101.96580180412585,
+    "min_lat": 12.642267056649404,
+    "max_lon": 101.96780180412586,
+    "max_lat": 12.644267056649403,
+    "class_id": null,
+    "original_name": "negative_64"
+  },
+  {
+    "id": "neg_0065",
+    "min_lon": 103.61264139395925,
+    "min_lat": 9.626873503602445,
+    "max_lon": 103.61464139395926,
+    "max_lat": 9.628873503602444,
+    "class_id": null,
+    "original_name": "negative_65"
+  },
+  {
+    "id": "neg_0066",
+    "min_lon": 98.94641932747285,
+    "min_lat": 14.245921061072966,
+    "max_lon": 98.94841932747286,
+    "max_lat": 14.247921061072965,
+    "class_id": null,
+    "original_name": "negative_66"
+  },
+  {
+    "id": "neg_0067",
+    "min_lon": 98.38858652099564,
+    "min_lat": 9.862083014916308,
+    "max_lon": 98.39058652099565,
+    "max_lat": 9.864083014916307,
+    "class_id": null,
+    "original_name": "negative_67"
+  },
+  {
+    "id": "neg_0068",
+    "min_lon": 103.31237006999635,
+    "min_lat": 8.266315271550395,
+    "max_lon": 103.31437006999636,
+    "max_lat": 8.268315271550394,
+    "class_id": null,
+    "original_name": "negative_68"
+  },
+  {
+    "id": "neg_0069",
+    "min_lon": 101.95510795321842,
+    "min_lat": 19.855223329137164,
+    "max_lon": 101.95710795321843,
+    "max_lat": 19.857223329137167,
+    "class_id": null,
+    "original_name": "negative_69"
+  },
+  {
+    "id": "neg_0070",
+    "min_lon": 102.66361806549116,
+    "min_lat": 12.1280634423154,
+    "max_lon": 102.66561806549117,
+    "max_lat": 12.130063442315398,
+    "class_id": null,
+    "original_name": "negative_70"
+  },
+  {
+    "id": "neg_0071",
+    "min_lon": 101.53812312389098,
+    "min_lat": 13.087822981048127,
+    "max_lon": 101.540123123891,
+    "max_lat": 13.089822981048126,
+    "class_id": null,
+    "original_name": "negative_71"
+  },
+  {
+    "id": "neg_0072",
+    "min_lon": 102.46213542407929,
+    "min_lat": 9.539006903369646,
+    "max_lon": 102.4641354240793,
+    "max_lat": 9.541006903369645,
+    "class_id": null,
+    "original_name": "negative_72"
+  },
+  {
+    "id": "neg_0073",
+    "min_lon": 102.99718021915925,
+    "min_lat": 8.641541508702907,
+    "max_lon": 102.99918021915926,
+    "max_lat": 8.643541508702906,
+    "class_id": null,
+    "original_name": "negative_73"
+  },
+  {
+    "id": "neg_0074",
+    "min_lon": 102.8085403362957,
+    "min_lat": 9.42034562433838,
+    "max_lon": 102.81054033629572,
+    "max_lat": 9.422345624338378,
+    "class_id": null,
+    "original_name": "negative_74"
+  },
+  {
+    "id": "neg_0075",
+    "min_lon": 102.09842149796958,
+    "min_lat": 14.144697645875482,
+    "max_lon": 102.10042149796959,
+    "max_lat": 14.14669764587548,
+    "class_id": null,
+    "original_name": "negative_75"
+  },
+  {
+    "id": "neg_0076",
+    "min_lon": 103.71229528888578,
+    "min_lat": 9.464665674466566,
+    "max_lon": 103.7142952888858,
+    "max_lat": 9.466665674466565,
+    "class_id": null,
+    "original_name": "negative_76"
+  },
+  {
+    "id": "neg_0077",
+    "min_lon": 104.02154330325658,
+    "min_lat": 16.59275773784811,
+    "max_lon": 104.02354330325659,
+    "max_lat": 16.594757737848113,
+    "class_id": null,
+    "original_name": "negative_77"
+  },
+  {
+    "id": "neg_0078",
+    "min_lon": 99.70980041486136,
+    "min_lat": 15.337615693447956,
+    "max_lon": 99.71180041486137,
+    "max_lat": 15.339615693447955,
+    "class_id": null,
+    "original_name": "negative_78"
+  },
+  {
+    "id": "neg_0079",
+    "min_lon": 102.02783963460328,
+    "min_lat": 16.28325828256302,
+    "max_lon": 102.02983963460329,
+    "max_lat": 16.28525828256302,
+    "class_id": null,
+    "original_name": "negative_79"
+  },
+  {
+    "id": "neg_0080",
+    "min_lon": 102.05110867954821,
+    "min_lat": 19.590307015617682,
+    "max_lon": 102.05310867954822,
+    "max_lat": 19.592307015617685,
+    "class_id": null,
+    "original_name": "negative_80"
+  },
+  {
+    "id": "neg_0081",
+    "min_lon": 99.805102366791,
+    "min_lat": 15.865400547862405,
+    "max_lon": 99.80710236679101,
+    "max_lat": 15.867400547862404,
+    "class_id": null,
+    "original_name": "negative_81"
+  },
+  {
+    "id": "neg_0082",
+    "min_lon": 98.38255654996293,
+    "min_lat": 17.51210367818093,
+    "max_lon": 98.38455654996294,
+    "max_lat": 17.514103678180934,
+    "class_id": null,
+    "original_name": "negative_82"
+  },
+  {
+    "id": "neg_0083",
+    "min_lon": 100.34104419745117,
+    "min_lat": 11.820857245053373,
+    "max_lon": 100.34304419745118,
+    "max_lat": 11.822857245053372,
+    "class_id": null,
+    "original_name": "negative_83"
+  },
+  {
+    "id": "neg_0084",
+    "min_lon": 102.06007423496344,
+    "min_lat": 13.874415050119135,
+    "max_lon": 102.06207423496345,
+    "max_lat": 13.876415050119133,
+    "class_id": null,
+    "original_name": "negative_84"
+  },
+  {
+    "id": "neg_0085",
+    "min_lon": 99.3753493761034,
+    "min_lat": 11.900376206353092,
+    "max_lon": 99.37734937610341,
+    "max_lat": 11.902376206353091,
+    "class_id": null,
+    "original_name": "negative_85"
+  },
+  {
+    "id": "neg_0086",
+    "min_lon": 100.69147355256432,
+    "min_lat": 16.047613234356998,
+    "max_lon": 100.69347355256433,
+    "max_lat": 16.049613234357,
+    "class_id": null,
+    "original_name": "negative_86"
+  },
+  {
+    "id": "neg_0087",
+    "min_lon": 98.78938173433392,
+    "min_lat": 12.476748312628194,
+    "max_lon": 98.79138173433392,
+    "max_lat": 12.478748312628193,
+    "class_id": null,
+    "original_name": "negative_87"
+  },
+  {
+    "id": "neg_0088",
+    "min_lon": 104.08996195027622,
+    "min_lat": 17.34324333101867,
+    "max_lon": 104.09196195027623,
+    "max_lat": 17.345243331018672,
+    "class_id": null,
+    "original_name": "negative_88"
+  },
+  {
+    "id": "neg_0089",
+    "min_lon": 101.21609060265739,
+    "min_lat": 11.803690317020832,
+    "max_lon": 101.2180906026574,
+    "max_lat": 11.805690317020831,
+    "class_id": null,
+    "original_name": "negative_89"
+  },
+  {
+    "id": "neg_0090",
+    "min_lon": 101.16138719963904,
+    "min_lat": 7.6041144117310635,
+    "max_lon": 101.16338719963905,
+    "max_lat": 7.606114411731064,
+    "class_id": null,
+    "original_name": "negative_90"
+  },
+  {
+    "id": "neg_0091",
+    "min_lon": 102.8590778306958,
+    "min_lat": 11.951707668516796,
+    "max_lon": 102.8610778306958,
+    "max_lat": 11.953707668516795,
+    "class_id": null,
+    "original_name": "negative_91"
+  },
+  {
+    "id": "neg_0092",
+    "min_lon": 100.48821178695863,
+    "min_lat": 19.24209591481653,
+    "max_lon": 100.49021178695864,
+    "max_lat": 19.244095914816533,
+    "class_id": null,
+    "original_name": "negative_92"
+  },
+  {
+    "id": "neg_0093",
+    "min_lon": 100.47560937913234,
+    "min_lat": 7.739045537017194,
+    "max_lon": 100.47760937913235,
+    "max_lat": 7.741045537017195,
+    "class_id": null,
+    "original_name": "negative_93"
+  },
+  {
+    "id": "neg_0094",
+    "min_lon": 102.92961693598058,
+    "min_lat": 14.870945937286129,
+    "max_lon": 102.93161693598059,
+    "max_lat": 14.872945937286127,
+    "class_id": null,
+    "original_name": "negative_94"
+  },
+  {
+    "id": "neg_0095",
+    "min_lon": 98.55925795057281,
+    "min_lat": 18.216473971595022,
+    "max_lon": 98.56125795057282,
+    "max_lat": 18.218473971595024,
+    "class_id": null,
+    "original_name": "negative_95"
+  },
+  {
+    "id": "neg_0096",
+    "min_lon": 99.5647317824968,
+    "min_lat": 11.533855312587212,
+    "max_lon": 99.56673178249682,
+    "max_lat": 11.535855312587211,
+    "class_id": null,
+    "original_name": "negative_96"
+  },
+  {
+    "id": "neg_0097",
+    "min_lon": 100.47472481065233,
+    "min_lat": 13.964589056279118,
+    "max_lon": 100.47672481065234,
+    "max_lat": 13.966589056279117,
+    "class_id": null,
+    "original_name": "negative_97"
+  },
+  {
+    "id": "neg_0098",
+    "min_lon": 100.9897621212589,
+    "min_lat": 20.24830159816183,
+    "max_lon": 100.99176212125892,
+    "max_lat": 20.250301598161833,
+    "class_id": null,
+    "original_name": "negative_98"
+  },
+  {
+    "id": "neg_0099",
+    "min_lon": 100.21912367759333,
+    "min_lat": 14.954634477387797,
+    "max_lon": 100.22112367759334,
+    "max_lat": 14.956634477387796,
+    "class_id": null,
+    "original_name": "negative_99"
+  },
+  {
+    "id": "neg_0100",
+    "min_lon": 101.70071100641469,
+    "min_lat": 9.829300241987811,
+    "max_lon": 101.7027110064147,
+    "max_lat": 9.83130024198781,
+    "class_id": null,
+    "original_name": "negative_100"
+  },
+  {
+    "id": "neg_0101",
+    "min_lon": 103.92655142356696,
+    "min_lat": 13.230100450203198,
+    "max_lon": 103.92855142356697,
+    "max_lat": 13.232100450203196,
+    "class_id": null,
+    "original_name": "negative_101"
+  },
+  {
+    "id": "neg_0102",
+    "min_lon": 99.06803781109504,
+    "min_lat": 14.601959820081456,
+    "max_lon": 99.07003781109505,
+    "max_lat": 14.603959820081455,
+    "class_id": null,
+    "original_name": "negative_102"
+  },
+  {
+    "id": "neg_0103",
+    "min_lon": 102.7951223719384,
+    "min_lat": 13.71237944563027,
+    "max_lon": 102.79712237193841,
+    "max_lat": 13.71437944563027,
+    "class_id": null,
+    "original_name": "negative_103"
+  },
+  {
+    "id": "neg_0104",
+    "min_lon": 99.48411500968399,
+    "min_lat": 18.98594240694532,
+    "max_lon": 99.486115009684,
+    "max_lat": 18.987942406945322,
+    "class_id": null,
+    "original_name": "negative_104"
+  },
+  {
+    "id": "neg_0105",
+    "min_lon": 103.8298494381195,
+    "min_lat": 12.45064582852558,
+    "max_lon": 103.8318494381195,
+    "max_lat": 12.45264582852558,
+    "class_id": null,
+    "original_name": "negative_105"
+  },
+  {
+    "id": "neg_0106",
+    "min_lon": 103.66514434327189,
+    "min_lat": 13.6338725864105,
+    "max_lon": 103.6671443432719,
+    "max_lat": 13.6358725864105,
+    "class_id": null,
+    "original_name": "negative_106"
+  },
+  {
+    "id": "neg_0107",
+    "min_lon": 101.89991517819269,
+    "min_lat": 7.276113703718849,
+    "max_lon": 101.9019151781927,
+    "max_lat": 7.27811370371885,
+    "class_id": null,
+    "original_name": "negative_107"
+  },
+  {
+    "id": "neg_0108",
+    "min_lon": 102.69216746788666,
+    "min_lat": 19.61428054622011,
+    "max_lon": 102.69416746788667,
+    "max_lat": 19.616280546220114,
+    "class_id": null,
+    "original_name": "negative_108"
+  },
+  {
+    "id": "neg_0109",
+    "min_lon": 99.15826901350069,
+    "min_lat": 19.889858298668262,
+    "max_lon": 99.1602690135007,
+    "max_lat": 19.891858298668264,
+    "class_id": null,
+    "original_name": "negative_109"
+  },
+  {
+    "id": "neg_0110",
+    "min_lon": 103.14317834068152,
+    "min_lat": 11.700051280961366,
+    "max_lon": 103.14517834068153,
+    "max_lat": 11.702051280961365,
+    "class_id": null,
+    "original_name": "negative_110"
+  },
+  {
+    "id": "neg_0111",
+    "min_lon": 103.10670305653323,
+    "min_lat": 8.7315801484073,
+    "max_lon": 103.10870305653324,
+    "max_lat": 8.733580148407299,
+    "class_id": null,
+    "original_name": "negative_111"
+  },
+  {
+    "id": "neg_0112",
+    "min_lon": 98.54066961875414,
+    "min_lat": 20.092707405693535,
+    "max_lon": 98.54266961875415,
+    "max_lat": 20.094707405693537,
+    "class_id": null,
+    "original_name": "negative_112"
+  },
+  {
+    "id": "neg_0113",
+    "min_lon": 98.39140024443871,
+    "min_lat": 18.28731282419591,
+    "max_lon": 98.39340024443872,
+    "max_lat": 18.289312824195914,
+    "class_id": null,
+    "original_name": "negative_113"
+  },
+  {
+    "id": "neg_0114",
+    "min_lon": 101.26947509588437,
+    "min_lat": 18.320656192507613,
+    "max_lon": 101.27147509588438,
+    "max_lat": 18.322656192507615,
+    "class_id": null,
+    "original_name": "negative_114"
+  },
+  {
+    "id": "neg_0115",
+    "min_lon": 101.84609030288567,
+    "min_lat": 13.762790634760153,
+    "max_lon": 101.84809030288568,
+    "max_lat": 13.764790634760152,
+    "class_id": null,
+    "original_name": "negative_115"
+  },
+  {
+    "id": "neg_0116",
+    "min_lon": 102.14686913487822,
+    "min_lat": 12.662118105298324,
+    "max_lon": 102.14886913487823,
+    "max_lat": 12.664118105298323,
+    "class_id": null,
+    "original_name": "negative_116"
+  },
+  {
+    "id": "neg_0117",
+    "min_lon": 100.72996081616154,
+    "min_lat": 13.244234097282204,
+    "max_lon": 100.73196081616155,
+    "max_lat": 13.246234097282203,
+    "class_id": null,
+    "original_name": "negative_117"
+  },
+  {
+    "id": "neg_0118",
+    "min_lon": 98.58541812276569,
+    "min_lat": 16.68707179479316,
+    "max_lon": 98.5874181227657,
+    "max_lat": 16.68907179479316,
+    "class_id": null,
+    "original_name": "negative_118"
+  },
+  {
+    "id": "neg_0119",
+    "min_lon": 102.348177259676,
+    "min_lat": 9.512602846621137,
+    "max_lon": 102.35017725967602,
+    "max_lat": 9.514602846621136,
+    "class_id": null,
+    "original_name": "negative_119"
+  },
+  {
+    "id": "neg_0120",
+    "min_lon": 104.14060466681919,
+    "min_lat": 19.225708580002443,
+    "max_lon": 104.1426046668192,
+    "max_lat": 19.227708580002446,
+    "class_id": null,
+    "original_name": "negative_120"
+  },
+  {
+    "id": "neg_0121",
+    "min_lon": 102.45486388107105,
+    "min_lat": 8.336369261657225,
+    "max_lon": 102.45686388107106,
+    "max_lat": 8.338369261657224,
+    "class_id": null,
+    "original_name": "negative_121"
+  },
+  {
+    "id": "neg_0122",
+    "min_lon": 98.58011269502082,
+    "min_lat": 13.07900516047789,
+    "max_lon": 98.58211269502083,
+    "max_lat": 13.081005160477888,
+    "class_id": null,
+    "original_name": "negative_122"
+  },
+  {
+    "id": "neg_0123",
+    "min_lon": 103.41700793380699,
+    "min_lat": 12.359537109141707,
+    "max_lon": 103.419007933807,
+    "max_lat": 12.361537109141706,
+    "class_id": null,
+    "original_name": "negative_123"
+  },
+  {
+    "id": "neg_0124",
+    "min_lon": 98.82690312218087,
+    "min_lat": 7.962649570213636,
+    "max_lon": 98.82890312218088,
+    "max_lat": 7.964649570213637,
+    "class_id": null,
+    "original_name": "negative_124"
+  },
+  {
+    "id": "neg_0125",
+    "min_lon": 103.61008883602916,
+    "min_lat": 8.328411871677071,
+    "max_lon": 103.61208883602917,
+    "max_lat": 8.33041187167707,
+    "class_id": null,
+    "original_name": "negative_125"
+  },
+  {
+    "id": "neg_0126",
+    "min_lon": 102.9250245627634,
+    "min_lat": 19.113493556182096,
+    "max_lon": 102.9270245627634,
+    "max_lat": 19.1154935561821,
+    "class_id": null,
+    "original_name": "negative_126"
+  },
+  {
+    "id": "neg_0127",
+    "min_lon": 102.56953062196473,
+    "min_lat": 16.740897233233042,
+    "max_lon": 102.57153062196474,
+    "max_lat": 16.742897233233045,
+    "class_id": null,
+    "original_name": "negative_127"
+  },
+  {
+    "id": "neg_0128",
+    "min_lon": 98.41609472352036,
+    "min_lat": 8.657878298662405,
+    "max_lon": 98.41809472352037,
+    "max_lat": 8.659878298662404,
+    "class_id": null,
+    "original_name": "negative_128"
+  },
+  {
+    "id": "neg_0129",
+    "min_lon": 99.48599587651206,
+    "min_lat": 18.029342883292312,
+    "max_lon": 99.48799587651207,
+    "max_lat": 18.031342883292314,
+    "class_id": null,
+    "original_name": "negative_129"
+  },
+  {
+    "id": "neg_0130",
+    "min_lon": 103.58320957337818,
+    "min_lat": 20.03940738837092,
+    "max_lon": 103.5852095733782,
+    "max_lat": 20.04140738837092,
+    "class_id": null,
+    "original_name": "negative_130"
+  },
+  {
+    "id": "neg_0131",
+    "min_lon": 101.36409948218754,
+    "min_lat": 8.322099721852227,
+    "max_lon": 101.36609948218755,
+    "max_lat": 8.324099721852226,
+    "class_id": null,
+    "original_name": "negative_131"
+  },
+  {
+    "id": "neg_0132",
+    "min_lon": 102.30223039808826,
+    "min_lat": 18.473464520063356,
+    "max_lon": 102.30423039808827,
+    "max_lat": 18.47546452006336,
+    "class_id": null,
+    "original_name": "negative_132"
+  },
+  {
+    "id": "neg_0133",
+    "min_lon": 98.82771497420966,
+    "min_lat": 10.62634268020735,
+    "max_lon": 98.82971497420967,
+    "max_lat": 10.628342680207348,
+    "class_id": null,
+    "original_name": "negative_133"
+  },
+  {
+    "id": "neg_0134",
+    "min_lon": 99.8902468817137,
+    "min_lat": 14.575820430052948,
+    "max_lon": 99.8922468817137,
+    "max_lat": 14.577820430052947,
+    "class_id": null,
+    "original_name": "negative_134"
+  },
+  {
+    "id": "neg_0135",
+    "min_lon": 100.4105836780227,
+    "min_lat": 17.116245254310105,
+    "max_lon": 100.41258367802271,
+    "max_lat": 17.118245254310107,
+    "class_id": null,
+    "original_name": "negative_135"
+  },
+  {
+    "id": "neg_0136",
+    "min_lon": 101.94335632375676,
+    "min_lat": 17.09229279406435,
+    "max_lon": 101.94535632375677,
+    "max_lat": 17.09429279406435,
+    "class_id": null,
+    "original_name": "negative_136"
+  },
+  {
+    "id": "neg_0137",
+    "min_lon": 98.77592372282989,
+    "min_lat": 18.421233997067745,
+    "max_lon": 98.7779237228299,
+    "max_lat": 18.423233997067747,
+    "class_id": null,
+    "original_name": "negative_137"
+  },
+  {
+    "id": "neg_0138",
+    "min_lon": 102.53982898697728,
+    "min_lat": 16.047615087399315,
+    "max_lon": 102.5418289869773,
+    "max_lat": 16.049615087399317,
+    "class_id": null,
+    "original_name": "negative_138"
+  },
+  {
+    "id": "neg_0139",
+    "min_lon": 102.01918567353263,
+    "min_lat": 19.987493403842343,
+    "max_lon": 102.02118567353264,
+    "max_lat": 19.989493403842346,
+    "class_id": null,
+    "original_name": "negative_139"
+  },
+  {
+    "id": "neg_0140",
+    "min_lon": 101.135404207572,
+    "min_lat": 16.757219344682714,
+    "max_lon": 101.137404207572,
+    "max_lat": 16.759219344682716,
+    "class_id": null,
+    "original_name": "negative_140"
+  },
+  {
+    "id": "neg_0141",
+    "min_lon": 100.77977871901285,
+    "min_lat": 19.441302670512876,
+    "max_lon": 100.78177871901286,
+    "max_lat": 19.443302670512878,
+    "class_id": null,
+    "original_name": "negative_141"
+  },
+  {
+    "id": "neg_0142",
+    "min_lon": 102.09066626892808,
+    "min_lat": 12.916009846608548,
+    "max_lon": 102.09266626892808,
+    "max_lat": 12.918009846608546,
+    "class_id": null,
+    "original_name": "negative_142"
+  },
+  {
+    "id": "neg_0143",
+    "min_lon": 103.52260787024804,
+    "min_lat": 16.400705688733467,
+    "max_lon": 103.52460787024805,
+    "max_lat": 16.40270568873347,
+    "class_id": null,
+    "original_name": "negative_143"
+  },
+  {
+    "id": "neg_0144",
+    "min_lon": 103.40636912719415,
+    "min_lat": 14.330901387515484,
+    "max_lon": 103.40836912719416,
+    "max_lat": 14.332901387515482,
+    "class_id": null,
+    "original_name": "negative_144"
+  },
+  {
+    "id": "neg_0145",
+    "min_lon": 101.70944806772596,
+    "min_lat": 19.23005170549942,
+    "max_lon": 101.71144806772597,
+    "max_lat": 19.232051705499423,
+    "class_id": null,
+    "original_name": "negative_145"
+  },
+  {
+    "id": "neg_0146",
+    "min_lon": 98.6999586351718,
+    "min_lat": 19.30914831847053,
+    "max_lon": 98.7019586351718,
+    "max_lat": 19.311148318470533,
+    "class_id": null,
+    "original_name": "negative_146"
+  },
+  {
+    "id": "neg_0147",
+    "min_lon": 102.76043071523073,
+    "min_lat": 10.698709065861792,
+    "max_lon": 102.76243071523074,
+    "max_lat": 10.70070906586179,
+    "class_id": null,
+    "original_name": "negative_147"
+  },
+  {
+    "id": "neg_0148",
+    "min_lon": 99.51852455147211,
+    "min_lat": 18.48623319443293,
+    "max_lon": 99.52052455147212,
+    "max_lat": 18.488233194432933,
+    "class_id": null,
+    "original_name": "negative_148"
+  },
+  {
+    "id": "neg_0149",
+    "min_lon": 102.6709024892451,
+    "min_lat": 20.011378620415964,
+    "max_lon": 102.6729024892451,
+    "max_lat": 20.013378620415967,
+    "class_id": null,
+    "original_name": "negative_149"
+  },
+  {
+    "id": "neg_0150",
+    "min_lon": 99.15596685146164,
+    "min_lat": 14.822249861921222,
+    "max_lon": 99.15796685146165,
+    "max_lat": 14.82424986192122,
+    "class_id": null,
+    "original_name": "negative_150"
+  },
+  {
+    "id": "neg_0151",
+    "min_lon": 100.34046042422506,
+    "min_lat": 17.25781077641301,
+    "max_lon": 100.34246042422507,
+    "max_lat": 17.259810776413012,
+    "class_id": null,
+    "original_name": "negative_151"
+  },
+  {
+    "id": "neg_0152",
+    "min_lon": 100.93818915748395,
+    "min_lat": 8.927500186575088,
+    "max_lon": 100.94018915748396,
+    "max_lat": 8.929500186575087,
+    "class_id": null,
+    "original_name": "negative_152"
+  },
+  {
+    "id": "neg_0153",
+    "min_lon": 100.93133443537877,
+    "min_lat": 16.39760087287828,
+    "max_lon": 100.93333443537878,
+    "max_lat": 16.39960087287828,
+    "class_id": null,
+    "original_name": "negative_153"
+  },
+  {
+    "id": "neg_0154",
+    "min_lon": 100.64892628542319,
+    "min_lat": 12.179268010588531,
+    "max_lon": 100.6509262854232,
+    "max_lat": 12.18126801058853,
+    "class_id": null,
+    "original_name": "negative_154"
+  },
+  {
+    "id": "neg_0155",
+    "min_lon": 99.34043996977658,
+    "min_lat": 13.882219091492695,
+    "max_lon": 99.34243996977659,
+    "max_lat": 13.884219091492694,
+    "class_id": null,
+    "original_name": "negative_155"
+  },
+  {
+    "id": "neg_0156",
+    "min_lon": 100.42787748177804,
+    "min_lat": 14.093993458392289,
+    "max_lon": 100.42987748177805,
+    "max_lat": 14.095993458392288,
+    "class_id": null,
+    "original_name": "negative_156"
+  },
+  {
+    "id": "neg_0157",
+    "min_lon": 100.61388356255974,
+    "min_lat": 13.284471121736823,
+    "max_lon": 100.61588356255974,
+    "max_lat": 13.286471121736822,
+    "class_id": null,
+    "original_name": "negative_157"
+  },
+  {
+    "id": "neg_0158",
+    "min_lon": 99.63907376901727,
+    "min_lat": 10.144409639257,
+    "max_lon": 99.64107376901728,
+    "max_lat": 10.146409639257,
+    "class_id": null,
+    "original_name": "negative_158"
+  },
+  {
+    "id": "neg_0159",
+    "min_lon": 101.248580839058,
+    "min_lat": 19.721210951122472,
+    "max_lon": 101.250580839058,
+    "max_lat": 19.723210951122475,
+    "class_id": null,
+    "original_name": "negative_159"
+  },
+  {
+    "id": "neg_0160",
+    "min_lon": 101.70426737464395,
+    "min_lat": 14.907218130670081,
+    "max_lon": 101.70626737464396,
+    "max_lat": 14.90921813067008,
+    "class_id": null,
+    "original_name": "negative_160"
+  },
+  {
+    "id": "neg_0161",
+    "min_lon": 98.97948950150754,
+    "min_lat": 12.307806276254825,
+    "max_lon": 98.98148950150755,
+    "max_lat": 12.309806276254823,
+    "class_id": null,
+    "original_name": "negative_161"
+  },
+  {
+    "id": "neg_0162",
+    "min_lon": 104.0396000821079,
+    "min_lat": 9.087140175529449,
+    "max_lon": 104.0416000821079,
+    "max_lat": 9.089140175529447,
+    "class_id": null,
+    "original_name": "negative_162"
+  },
+  {
+    "id": "neg_0163",
+    "min_lon": 100.19342991312078,
+    "min_lat": 13.145591509244968,
+    "max_lon": 100.19542991312079,
+    "max_lat": 13.147591509244966,
+    "class_id": null,
+    "original_name": "negative_163"
+  },
+  {
+    "id": "neg_0164",
+    "min_lon": 103.90404301031799,
+    "min_lat": 17.020079668600605,
+    "max_lon": 103.906043010318,
+    "max_lat": 17.022079668600608,
+    "class_id": null,
+    "original_name": "negative_164"
+  },
+  {
+    "id": "neg_0165",
+    "min_lon": 99.37441492421716,
+    "min_lat": 11.610490605462273,
+    "max_lon": 99.37641492421717,
+    "max_lat": 11.612490605462272,
+    "class_id": null,
+    "original_name": "negative_165"
+  },
+  {
+    "id": "neg_0166",
+    "min_lon": 101.71719497313555,
+    "min_lat": 15.64512620475004,
+    "max_lon": 101.71919497313556,
+    "max_lat": 15.64712620475004,
+    "class_id": null,
+    "original_name": "negative_166"
+  },
+  {
+    "id": "neg_0167",
+    "min_lon": 102.33915515320295,
+    "min_lat": 19.082518000691945,
+    "max_lon": 102.34115515320296,
+    "max_lat": 19.084518000691947,
+    "class_id": null,
+    "original_name": "negative_167"
+  },
+  {
+    "id": "neg_0168",
+    "min_lon": 100.5244372187774,
+    "min_lat": 14.558760744302683,
+    "max_lon": 100.5264372187774,
+    "max_lat": 14.560760744302682,
+    "class_id": null,
+    "original_name": "negative_168"
+  },
+  {
+    "id": "neg_0169",
+    "min_lon": 103.20230087567356,
+    "min_lat": 18.35717722678719,
+    "max_lon": 103.20430087567357,
+    "max_lat": 18.359177226787192,
+    "class_id": null,
+    "original_name": "negative_169"
+  },
+  {
+    "id": "neg_0170",
+    "min_lon": 103.03662760500322,
+    "min_lat": 12.648541186813247,
+    "max_lon": 103.03862760500323,
+    "max_lat": 12.650541186813246,
+    "class_id": null,
+    "original_name": "negative_170"
+  },
+  {
+    "id": "neg_0171",
+    "min_lon": 100.33809958999932,
+    "min_lat": 14.57353992156183,
+    "max_lon": 100.34009958999933,
+    "max_lat": 14.575539921561829,
+    "class_id": null,
+    "original_name": "negative_171"
+  },
+  {
+    "id": "neg_0172",
+    "min_lon": 99.94924953017664,
+    "min_lat": 9.402337866835794,
+    "max_lon": 99.95124953017665,
+    "max_lat": 9.404337866835792,
+    "class_id": null,
+    "original_name": "negative_172"
+  },
+  {
+    "id": "neg_0173",
+    "min_lon": 100.22636080267459,
+    "min_lat": 17.97501628208292,
+    "max_lon": 100.2283608026746,
+    "max_lat": 17.97701628208292,
+    "class_id": null,
+    "original_name": "negative_173"
+  },
+  {
+    "id": "neg_0174",
+    "min_lon": 101.78723107607728,
+    "min_lat": 7.8636069311536065,
+    "max_lon": 101.78923107607729,
+    "max_lat": 7.865606931153607,
+    "class_id": null,
+    "original_name": "negative_174"
+  },
+  {
+    "id": "neg_0175",
+    "min_lon": 102.5933719339091,
+    "min_lat": 7.92406997841757,
+    "max_lon": 102.5953719339091,
+    "max_lat": 7.926069978417571,
+    "class_id": null,
+    "original_name": "negative_175"
+  },
+  {
+    "id": "neg_0176",
+    "min_lon": 100.12069409632923,
+    "min_lat": 10.865396341747656,
+    "max_lon": 100.12269409632924,
+    "max_lat": 10.867396341747655,
+    "class_id": null,
+    "original_name": "negative_176"
+  },
+  {
+    "id": "neg_0177",
+    "min_lon": 99.7516620909671,
+    "min_lat": 14.470703433327524,
+    "max_lon": 99.75366209096711,
+    "max_lat": 14.472703433327522,
+    "class_id": null,
+    "original_name": "negative_177"
+  },
+  {
+    "id": "neg_0178",
+    "min_lon": 102.93997917470035,
+    "min_lat": 12.75715558003769,
+    "max_lon": 102.94197917470036,
+    "max_lat": 12.759155580037689,
+    "class_id": null,
+    "original_name": "negative_178"
+  },
+  {
+    "id": "neg_0179",
+    "min_lon": 101.85448912188889,
+    "min_lat": 11.206641944518449,
+    "max_lon": 101.8564891218889,
+    "max_lat": 11.208641944518448,
+    "class_id": null,
+    "original_name": "negative_179"
+  },
+  {
+    "id": "neg_0180",
+    "min_lon": 101.5209346833213,
+    "min_lat": 19.238285484433067,
+    "max_lon": 101.52293468332131,
+    "max_lat": 19.24028548443307,
+    "class_id": null,
+    "original_name": "negative_180"
+  },
+  {
+    "id": "neg_0181",
+    "min_lon": 102.79204842565964,
+    "min_lat": 19.52589820795482,
+    "max_lon": 102.79404842565965,
+    "max_lat": 19.527898207954824,
+    "class_id": null,
+    "original_name": "negative_181"
+  },
+  {
+    "id": "neg_0182",
+    "min_lon": 100.87293060097372,
+    "min_lat": 18.18671657468286,
+    "max_lon": 100.87493060097373,
+    "max_lat": 18.18871657468286,
+    "class_id": null,
+    "original_name": "negative_182"
+  },
+  {
+    "id": "neg_0183",
+    "min_lon": 103.68034850589939,
+    "min_lat": 9.370255748463798,
+    "max_lon": 103.6823485058994,
+    "max_lat": 9.372255748463797,
+    "class_id": null,
+    "original_name": "negative_183"
+  },
+  {
+    "id": "neg_0184",
+    "min_lon": 103.84438617426714,
+    "min_lat": 15.520358497274765,
+    "max_lon": 103.84638617426715,
+    "max_lat": 15.522358497274764,
+    "class_id": null,
+    "original_name": "negative_184"
+  },
+  {
+    "id": "neg_0185",
+    "min_lon": 103.88757092838104,
+    "min_lat": 12.648530251910989,
+    "max_lon": 103.88957092838105,
+    "max_lat": 12.650530251910988,
+    "class_id": null,
+    "original_name": "negative_185"
+  },
+  {
+    "id": "neg_0186",
+    "min_lon": 101.909288209018,
+    "min_lat": 17.02046034304188,
+    "max_lon": 101.91128820901801,
+    "max_lat": 17.02246034304188,
+    "class_id": null,
+    "original_name": "negative_186"
+  },
+  {
+    "id": "neg_0187",
+    "min_lon": 98.33845702395155,
+    "min_lat": 14.833876950352268,
+    "max_lon": 98.34045702395156,
+    "max_lat": 14.835876950352267,
+    "class_id": null,
+    "original_name": "negative_187"
+  },
+  {
+    "id": "neg_0188",
+    "min_lon": 102.30251812692303,
+    "min_lat": 15.128399799947607,
+    "max_lon": 102.30451812692304,
+    "max_lat": 15.130399799947606,
+    "class_id": null,
+    "original_name": "negative_188"
+  },
+  {
+    "id": "neg_0189",
+    "min_lon": 103.28049653927695,
+    "min_lat": 15.19880616618937,
+    "max_lon": 103.28249653927696,
+    "max_lat": 15.200806166189368,
+    "class_id": null,
+    "original_name": "negative_189"
+  },
+  {
+    "id": "neg_0190",
+    "min_lon": 98.82682979714261,
+    "min_lat": 17.246362901287235,
+    "max_lon": 98.82882979714262,
+    "max_lat": 17.248362901287237,
+    "class_id": null,
+    "original_name": "negative_190"
+  },
+  {
+    "id": "neg_0191",
+    "min_lon": 99.21868486537413,
+    "min_lat": 8.30082339636576,
+    "max_lon": 99.22068486537414,
+    "max_lat": 8.302823396365758,
+    "class_id": null,
+    "original_name": "negative_191"
+  },
+  {
+    "id": "neg_0192",
+    "min_lon": 103.31356502483771,
+    "min_lat": 9.815658169838448,
+    "max_lon": 103.31556502483772,
+    "max_lat": 9.817658169838447,
+    "class_id": null,
+    "original_name": "negative_192"
+  },
+  {
+    "id": "neg_0193",
+    "min_lon": 102.19930745405219,
+    "min_lat": 9.929140512308454,
+    "max_lon": 102.2013074540522,
+    "max_lat": 9.931140512308453,
+    "class_id": null,
+    "original_name": "negative_193"
+  },
+  {
+    "id": "neg_0194",
+    "min_lon": 98.34490230436649,
+    "min_lat": 13.460836870161854,
+    "max_lon": 98.3469023043665,
+    "max_lat": 13.462836870161853,
+    "class_id": null,
+    "original_name": "negative_194"
+  },
+  {
+    "id": "neg_0195",
+    "min_lon": 98.27379625739297,
+    "min_lat": 13.023415026835986,
+    "max_lon": 98.27579625739298,
+    "max_lat": 13.025415026835985,
+    "class_id": null,
+    "original_name": "negative_195"
+  },
+  {
+    "id": "neg_0196",
+    "min_lon": 101.87942698137803,
+    "min_lat": 10.968016237291076,
+    "max_lon": 101.88142698137804,
+    "max_lat": 10.970016237291075,
+    "class_id": null,
+    "original_name": "negative_196"
+  },
+  {
+    "id": "neg_0197",
+    "min_lon": 101.93800109208726,
+    "min_lat": 9.662689784357633,
+    "max_lon": 101.94000109208727,
+    "max_lat": 9.664689784357632,
+    "class_id": null,
+    "original_name": "negative_197"
+  },
+  {
+    "id": "neg_0198",
+    "min_lon": 99.43110923295724,
+    "min_lat": 11.434269574934254,
+    "max_lon": 99.43310923295725,
+    "max_lat": 11.436269574934252,
+    "class_id": null,
+    "original_name": "negative_198"
+  },
+  {
+    "id": "neg_0199",
+    "min_lon": 98.28765808831179,
+    "min_lat": 17.744548583306056,
+    "max_lon": 98.2896580883118,
+    "max_lat": 17.74654858330606,
+    "class_id": null,
+    "original_name": "negative_199"
+  },
+  {
+    "id": "neg_0200",
+    "min_lon": 104.05136023230253,
+    "min_lat": 12.497804789566931,
+    "max_lon": 104.05336023230254,
+    "max_lat": 12.49980478956693,
+    "class_id": null,
+    "original_name": "negative_200"
+  },
+  {
+    "id": "neg_0201",
+    "min_lon": 101.40650866134277,
+    "min_lat": 7.572901037334274,
+    "max_lon": 101.40850866134278,
+    "max_lat": 7.574901037334275,
+    "class_id": null,
+    "original_name": "negative_201"
+  },
+  {
+    "id": "neg_0202",
+    "min_lon": 103.49266567943023,
+    "min_lat": 7.792921343959596,
+    "max_lon": 103.49466567943024,
+    "max_lat": 7.794921343959596,
+    "class_id": null,
+    "original_name": "negative_202"
+  },
+  {
+    "id": "neg_0203",
+    "min_lon": 99.0030585820115,
+    "min_lat": 11.63808465004769,
+    "max_lon": 99.00505858201151,
+    "max_lat": 11.640084650047688,
+    "class_id": null,
+    "original_name": "negative_203"
+  },
+  {
+    "id": "neg_0204",
+    "min_lon": 101.03785977595773,
+    "min_lat": 19.688098901966136,
+    "max_lon": 101.03985977595774,
+    "max_lat": 19.690098901966138,
+    "class_id": null,
+    "original_name": "negative_204"
+  },
+  {
+    "id": "neg_0205",
+    "min_lon": 99.14612210357818,
+    "min_lat": 17.79601505712244,
+    "max_lon": 99.14812210357819,
+    "max_lat": 17.79801505712244,
+    "class_id": null,
+    "original_name": "negative_205"
+  },
+  {
+    "id": "neg_0206",
+    "min_lon": 100.5041085178416,
+    "min_lat": 18.315788396382654,
+    "max_lon": 100.50610851784161,
+    "max_lat": 18.317788396382657,
+    "class_id": null,
+    "original_name": "negative_206"
+  },
+  {
+    "id": "neg_0207",
+    "min_lon": 98.72399475428895,
+    "min_lat": 13.67153433245885,
+    "max_lon": 98.72599475428896,
+    "max_lat": 13.673534332458848,
+    "class_id": null,
+    "original_name": "negative_207"
+  },
+  {
+    "id": "neg_0208",
+    "min_lon": 102.74703975572157,
+    "min_lat": 10.046691919908183,
+    "max_lon": 102.74903975572158,
+    "max_lat": 10.048691919908181,
+    "class_id": null,
+    "original_name": "negative_208"
+  },
+  {
+    "id": "neg_0209",
+    "min_lon": 101.09189075222491,
+    "min_lat": 18.98887649439569,
+    "max_lon": 101.09389075222492,
+    "max_lat": 18.990876494395692,
+    "class_id": null,
+    "original_name": "negative_209"
+  },
+  {
+    "id": "neg_0210",
+    "min_lon": 101.76423357090707,
+    "min_lat": 17.620235539031725,
+    "max_lon": 101.76623357090708,
+    "max_lat": 17.622235539031728,
+    "class_id": null,
+    "original_name": "negative_210"
+  },
+  {
+    "id": "neg_0211",
+    "min_lon": 101.23526003144903,
+    "min_lat": 7.633596388307777,
+    "max_lon": 101.23726003144904,
+    "max_lat": 7.6355963883077775,
+    "class_id": null,
+    "original_name": "negative_211"
+  },
+  {
+    "id": "neg_0212",
+    "min_lon": 102.5525294624987,
+    "min_lat": 10.021503905848794,
+    "max_lon": 102.5545294624987,
+    "max_lat": 10.023503905848793,
+    "class_id": null,
+    "original_name": "negative_212"
+  },
+  {
+    "id": "neg_0213",
+    "min_lon": 99.6161947316457,
+    "min_lat": 13.936629600060902,
+    "max_lon": 99.61819473164572,
+    "max_lat": 13.938629600060901,
+    "class_id": null,
+    "original_name": "negative_213"
+  },
+  {
+    "id": "neg_0214",
+    "min_lon": 102.88588147018818,
+    "min_lat": 19.31136760548467,
+    "max_lon": 102.88788147018819,
+    "max_lat": 19.31336760548467,
+    "class_id": null,
+    "original_name": "negative_214"
+  },
+  {
+    "id": "neg_0215",
+    "min_lon": 100.01553106944583,
+    "min_lat": 11.150256175873555,
+    "max_lon": 100.01753106944584,
+    "max_lat": 11.152256175873553,
+    "class_id": null,
+    "original_name": "negative_215"
+  },
+  {
+    "id": "neg_0216",
+    "min_lon": 100.72667123067525,
+    "min_lat": 13.04328010805052,
+    "max_lon": 100.72867123067526,
+    "max_lat": 13.04528010805052,
+    "class_id": null,
+    "original_name": "negative_216"
+  },
+  {
+    "id": "neg_0217",
+    "min_lon": 103.17923893834974,
+    "min_lat": 15.374925956059164,
+    "max_lon": 103.18123893834975,
+    "max_lat": 15.376925956059162,
+    "class_id": null,
+    "original_name": "negative_217"
+  },
+  {
+    "id": "neg_0218",
+    "min_lon": 101.23786240995292,
+    "min_lat": 16.25845041162523,
+    "max_lon": 101.23986240995293,
+    "max_lat": 16.260450411625232,
+    "class_id": null,
+    "original_name": "negative_218"
+  },
+  {
+    "id": "neg_0219",
+    "min_lon": 99.47206277904667,
+    "min_lat": 7.755336001104724,
+    "max_lon": 99.47406277904668,
+    "max_lat": 7.757336001104725,
+    "class_id": null,
+    "original_name": "negative_219"
+  },
+  {
+    "id": "neg_0220",
+    "min_lon": 104.05514130620475,
+    "min_lat": 9.651512062203363,
+    "max_lon": 104.05714130620476,
+    "max_lat": 9.653512062203362,
+    "class_id": null,
+    "original_name": "negative_220"
+  },
+  {
+    "id": "neg_0221",
+    "min_lon": 102.43589122267186,
+    "min_lat": 13.230547010601066,
+    "max_lon": 102.43789122267187,
+    "max_lat": 13.232547010601065,
+    "class_id": null,
+    "original_name": "negative_221"
+  },
+  {
+    "id": "neg_0222",
+    "min_lon": 102.65344635818789,
+    "min_lat": 19.514771279590242,
+    "max_lon": 102.6554463581879,
+    "max_lat": 19.516771279590245,
+    "class_id": null,
+    "original_name": "negative_222"
+  },
+  {
+    "id": "neg_0223",
+    "min_lon": 99.28159183953429,
+    "min_lat": 16.26434042040782,
+    "max_lon": 99.2835918395343,
+    "max_lat": 16.266340420407822,
+    "class_id": null,
+    "original_name": "negative_223"
+  },
+  {
+    "id": "neg_0224",
+    "min_lon": 101.23444207538466,
+    "min_lat": 18.171633871826867,
+    "max_lon": 101.23644207538467,
+    "max_lat": 18.17363387182687,
+    "class_id": null,
+    "original_name": "negative_224"
+  },
+  {
+    "id": "neg_0225",
+    "min_lon": 98.32070379159937,
+    "min_lat": 14.635434876502655,
+    "max_lon": 98.32270379159938,
+    "max_lat": 14.637434876502654,
+    "class_id": null,
+    "original_name": "negative_225"
+  },
+  {
+    "id": "neg_0226",
+    "min_lon": 100.40792546614672,
+    "min_lat": 18.477326014290874,
+    "max_lon": 100.40992546614673,
+    "max_lat": 18.479326014290876,
+    "class_id": null,
+    "original_name": "negative_226"
+  },
+  {
+    "id": "neg_0227",
+    "min_lon": 101.85966406262247,
+    "min_lat": 17.390074654646224,
+    "max_lon": 101.86166406262248,
+    "max_lat": 17.392074654646226,
+    "class_id": null,
+    "original_name": "negative_227"
+  },
+  {
+    "id": "neg_0228",
+    "min_lon": 101.05891001958936,
+    "min_lat": 19.765353757475882,
+    "max_lon": 101.06091001958937,
+    "max_lat": 19.767353757475885,
+    "class_id": null,
+    "original_name": "negative_228"
+  },
+  {
+    "id": "neg_0229",
+    "min_lon": 102.17515482214633,
+    "min_lat": 17.98185200257414,
+    "max_lon": 102.17715482214633,
+    "max_lat": 17.983852002574142,
+    "class_id": null,
+    "original_name": "negative_229"
+  },
+  {
+    "id": "neg_0230",
+    "min_lon": 102.17266109138487,
+    "min_lat": 14.289323330046335,
+    "max_lon": 102.17466109138488,
+    "max_lat": 14.291323330046334,
+    "class_id": null,
+    "original_name": "negative_230"
+  },
+  {
+    "id": "neg_0231",
+    "min_lon": 98.24871101524626,
+    "min_lat": 9.721175994975201,
+    "max_lon": 98.25071101524627,
+    "max_lat": 9.7231759949752,
+    "class_id": null,
+    "original_name": "negative_231"
+  },
+  {
+    "id": "neg_0232",
+    "min_lon": 101.62275011508473,
+    "min_lat": 14.646211035335051,
+    "max_lon": 101.62475011508474,
+    "max_lat": 14.64821103533505,
+    "class_id": null,
+    "original_name": "negative_232"
+  },
+  {
+    "id": "neg_0233",
+    "min_lon": 101.88903431063179,
+    "min_lat": 7.38759801103907,
+    "max_lon": 101.8910343106318,
+    "max_lat": 7.38959801103907,
+    "class_id": null,
+    "original_name": "negative_233"
+  },
+  {
+    "id": "neg_0234",
+    "min_lon": 98.66084424440389,
+    "min_lat": 16.386567910033428,
+    "max_lon": 98.6628442444039,
+    "max_lat": 16.38856791003343,
+    "class_id": null,
+    "original_name": "negative_234"
+  },
+  {
+    "id": "neg_0235",
+    "min_lon": 103.0018378757149,
+    "min_lat": 7.778393039703959,
+    "max_lon": 103.00383787571491,
+    "max_lat": 7.780393039703959,
+    "class_id": null,
+    "original_name": "negative_235"
+  },
+  {
+    "id": "neg_0236",
+    "min_lon": 100.14817874363482,
+    "min_lat": 18.94811756402876,
+    "max_lon": 100.15017874363483,
+    "max_lat": 18.950117564028762,
+    "class_id": null,
+    "original_name": "negative_236"
+  },
+  {
+    "id": "neg_0237",
+    "min_lon": 99.5411065865337,
+    "min_lat": 13.329395334203499,
+    "max_lon": 99.54310658653371,
+    "max_lat": 13.331395334203497,
+    "class_id": null,
+    "original_name": "negative_237"
+  },
+  {
+    "id": "neg_0238",
+    "min_lon": 101.30391292019215,
+    "min_lat": 14.36763470750518,
+    "max_lon": 101.30591292019216,
+    "max_lat": 14.36963470750518,
+    "class_id": null,
+    "original_name": "negative_238"
+  },
+  {
+    "id": "neg_0239",
+    "min_lon": 99.7230398951772,
+    "min_lat": 10.919785527392563,
+    "max_lon": 99.7250398951772,
+    "max_lat": 10.921785527392561,
+    "class_id": null,
+    "original_name": "negative_239"
+  },
+  {
+    "id": "neg_0240",
+    "min_lon": 98.50629782282141,
+    "min_lat": 12.066677476172304,
+    "max_lon": 98.50829782282142,
+    "max_lat": 12.068677476172303,
+    "class_id": null,
+    "original_name": "negative_240"
+  },
+  {
+    "id": "neg_0241",
+    "min_lon": 99.33124705384998,
+    "min_lat": 10.20061567460441,
+    "max_lon": 99.33324705384999,
+    "max_lat": 10.20261567460441,
+    "class_id": null,
+    "original_name": "negative_241"
+  },
+  {
+    "id": "neg_0242",
+    "min_lon": 101.90010535369369,
+    "min_lat": 14.079291544681912,
+    "max_lon": 101.9021053536937,
+    "max_lat": 14.08129154468191,
+    "class_id": null,
+    "original_name": "negative_242"
+  },
+  {
+    "id": "neg_0243",
+    "min_lon": 101.19465361232297,
+    "min_lat": 18.522923911504087,
+    "max_lon": 101.19665361232298,
+    "max_lat": 18.52492391150409,
+    "class_id": null,
+    "original_name": "negative_243"
+  },
+  {
+    "id": "neg_0244",
+    "min_lon": 99.58629023333152,
+    "min_lat": 18.70861299090856,
+    "max_lon": 99.58829023333153,
+    "max_lat": 18.71061299090856,
+    "class_id": null,
+    "original_name": "negative_244"
+  },
+  {
+    "id": "neg_0245",
+    "min_lon": 102.33635829326218,
+    "min_lat": 9.00962200763245,
+    "max_lon": 102.33835829326219,
+    "max_lat": 9.011622007632448,
+    "class_id": null,
+    "original_name": "negative_245"
+  },
+  {
+    "id": "neg_0246",
+    "min_lon": 102.8099173351711,
+    "min_lat": 17.511509738109165,
+    "max_lon": 102.8119173351711,
+    "max_lat": 17.513509738109168,
+    "class_id": null,
+    "original_name": "negative_246"
+  },
+  {
+    "id": "neg_0247",
+    "min_lon": 101.4390650747361,
+    "min_lat": 9.818298763504979,
+    "max_lon": 101.44106507473612,
+    "max_lat": 9.820298763504978,
+    "class_id": null,
+    "original_name": "negative_247"
+  },
+  {
+    "id": "neg_0248",
+    "min_lon": 101.28482031202365,
+    "min_lat": 16.145090948566832,
+    "max_lon": 101.28682031202366,
+    "max_lat": 16.147090948566834,
+    "class_id": null,
+    "original_name": "negative_248"
+  },
+  {
+    "id": "neg_0249",
+    "min_lon": 100.04234755685414,
+    "min_lat": 16.934478553678158,
+    "max_lon": 100.04434755685415,
+    "max_lat": 16.93647855367816,
+    "class_id": null,
+    "original_name": "negative_249"
+  },
+  {
+    "id": "neg_0250",
+    "min_lon": 101.98422688971948,
+    "min_lat": 13.829935182799138,
+    "max_lon": 101.98622688971949,
+    "max_lat": 13.831935182799137,
+    "class_id": null,
+    "original_name": "negative_250"
+  },
+  {
+    "id": "neg_0251",
+    "min_lon": 101.4374403546189,
+    "min_lat": 18.894700006150305,
+    "max_lon": 101.43944035461891,
+    "max_lat": 18.896700006150308,
+    "class_id": null,
+    "original_name": "negative_251"
+  },
+  {
+    "id": "neg_0252",
+    "min_lon": 98.83846057329927,
+    "min_lat": 8.285130827671296,
+    "max_lon": 98.84046057329928,
+    "max_lat": 8.287130827671294,
+    "class_id": null,
+    "original_name": "negative_252"
+  },
+  {
+    "id": "neg_0253",
+    "min_lon": 101.71188592014113,
+    "min_lat": 11.146700227476186,
+    "max_lon": 101.71388592014114,
+    "max_lat": 11.148700227476185,
+    "class_id": null,
+    "original_name": "negative_253"
+  },
+  {
+    "id": "neg_0254",
+    "min_lon": 103.73513266388298,
+    "min_lat": 13.339469244674893,
+    "max_lon": 103.73713266388299,
+    "max_lat": 13.341469244674892,
+    "class_id": null,
+    "original_name": "negative_254"
+  },
+  {
+    "id": "neg_0255",
+    "min_lon": 100.50343781917428,
+    "min_lat": 11.808678983423603,
+    "max_lon": 100.50543781917429,
+    "max_lat": 11.810678983423601,
+    "class_id": null,
+    "original_name": "negative_255"
+  },
+  {
+    "id": "neg_0256",
+    "min_lon": 103.1941770183572,
+    "min_lat": 12.339244632383805,
+    "max_lon": 103.1961770183572,
+    "max_lat": 12.341244632383804,
+    "class_id": null,
+    "original_name": "negative_256"
+  },
+  {
+    "id": "neg_0257",
+    "min_lon": 100.70220334431271,
+    "min_lat": 20.154434403994905,
+    "max_lon": 100.70420334431272,
+    "max_lat": 20.156434403994908,
+    "class_id": null,
+    "original_name": "negative_257"
+  },
+  {
+    "id": "neg_0258",
+    "min_lon": 98.40575030900602,
+    "min_lat": 18.048784181839586,
+    "max_lon": 98.40775030900603,
+    "max_lat": 18.05078418183959,
+    "class_id": null,
+    "original_name": "negative_258"
+  },
+  {
+    "id": "neg_0259",
+    "min_lon": 98.72522616386134,
+    "min_lat": 13.433900360671979,
+    "max_lon": 98.72722616386135,
+    "max_lat": 13.435900360671978,
+    "class_id": null,
+    "original_name": "negative_259"
+  },
+  {
+    "id": "neg_0260",
+    "min_lon": 101.93695890231311,
+    "min_lat": 9.717832361399614,
+    "max_lon": 101.93895890231312,
+    "max_lat": 9.719832361399613,
+    "class_id": null,
+    "original_name": "negative_260"
+  },
+  {
+    "id": "neg_0261",
+    "min_lon": 101.4385148187549,
+    "min_lat": 16.854243959462924,
+    "max_lon": 101.4405148187549,
+    "max_lat": 16.856243959462926,
+    "class_id": null,
+    "original_name": "negative_261"
+  },
+  {
+    "id": "neg_0262",
+    "min_lon": 100.69984746246338,
+    "min_lat": 7.877957659852907,
+    "max_lon": 100.70184746246339,
+    "max_lat": 7.8799576598529075,
+    "class_id": null,
+    "original_name": "negative_262"
+  },
+  {
+    "id": "neg_0263",
+    "min_lon": 103.37162696711049,
+    "min_lat": 16.43613100978335,
+    "max_lon": 103.3736269671105,
+    "max_lat": 16.43813100978335,
+    "class_id": null,
+    "original_name": "negative_263"
+  },
+  {
+    "id": "neg_0264",
+    "min_lon": 103.95377795430996,
+    "min_lat": 17.41332747225372,
+    "max_lon": 103.95577795430997,
+    "max_lat": 17.415327472253722,
+    "class_id": null,
+    "original_name": "negative_264"
+  },
+  {
+    "id": "neg_0265",
+    "min_lon": 102.20451794658354,
+    "min_lat": 11.357424244732446,
+    "max_lon": 102.20651794658355,
+    "max_lat": 11.359424244732445,
+    "class_id": null,
+    "original_name": "negative_265"
+  },
+  {
+    "id": "neg_0266",
+    "min_lon": 99.75665404997154,
+    "min_lat": 17.335938464803558,
+    "max_lon": 99.75865404997155,
+    "max_lat": 17.33793846480356,
+    "class_id": null,
+    "original_name": "negative_266"
+  },
+  {
+    "id": "neg_0267",
+    "min_lon": 103.60336463267646,
+    "min_lat": 15.884381020129977,
+    "max_lon": 103.60536463267647,
+    "max_lat": 15.886381020129976,
+    "class_id": null,
+    "original_name": "negative_267"
+  },
+  {
+    "id": "neg_0268",
+    "min_lon": 100.00127646848289,
+    "min_lat": 16.963943048584948,
+    "max_lon": 100.0032764684829,
+    "max_lat": 16.96594304858495,
+    "class_id": null,
+    "original_name": "negative_268"
+  },
+  {
+    "id": "neg_0269",
+    "min_lon": 100.23809163166572,
+    "min_lat": 18.77885057563051,
+    "max_lon": 100.24009163166573,
+    "max_lat": 18.780850575630513,
+    "class_id": null,
+    "original_name": "negative_269"
+  },
+  {
+    "id": "neg_0270",
+    "min_lon": 101.33822431513231,
+    "min_lat": 7.5381326268864015,
+    "max_lon": 101.34022431513232,
+    "max_lat": 7.540132626886402,
+    "class_id": null,
+    "original_name": "negative_270"
+  },
+  {
+    "id": "neg_0271",
+    "min_lon": 101.38769429434842,
+    "min_lat": 16.913291502499316,
+    "max_lon": 101.38969429434843,
+    "max_lat": 16.91529150249932,
+    "class_id": null,
+    "original_name": "negative_271"
+  },
+  {
+    "id": "neg_0272",
+    "min_lon": 101.93803759754616,
+    "min_lat": 7.879184831262247,
+    "max_lon": 101.94003759754617,
+    "max_lat": 7.881184831262248,
+    "class_id": null,
+    "original_name": "negative_272"
+  },
+  {
+    "id": "neg_0273",
+    "min_lon": 98.77451136517631,
+    "min_lat": 15.534882881846242,
+    "max_lon": 98.77651136517632,
+    "max_lat": 15.53688288184624,
+    "class_id": null,
+    "original_name": "negative_273"
+  },
+  {
+    "id": "neg_0274",
+    "min_lon": 99.95525719922556,
+    "min_lat": 11.43106633179096,
+    "max_lon": 99.95725719922557,
+    "max_lat": 11.43306633179096,
+    "class_id": null,
+    "original_name": "negative_274"
+  },
+  {
+    "id": "neg_0275",
+    "min_lon": 102.13385869660706,
+    "min_lat": 16.472674555622415,
+    "max_lon": 102.13585869660707,
+    "max_lat": 16.474674555622418,
+    "class_id": null,
+    "original_name": "negative_275"
+  },
+  {
+    "id": "neg_0276",
+    "min_lon": 103.97275549133659,
+    "min_lat": 16.23541109488778,
+    "max_lon": 103.9747554913366,
+    "max_lat": 16.237411094887783,
+    "class_id": null,
+    "original_name": "negative_276"
+  },
+  {
+    "id": "neg_0277",
+    "min_lon": 103.48094597700332,
+    "min_lat": 14.706246133696718,
+    "max_lon": 103.48294597700333,
+    "max_lat": 14.708246133696717,
+    "class_id": null,
+    "original_name": "negative_277"
+  },
+  {
+    "id": "neg_0278",
+    "min_lon": 103.05807411938926,
+    "min_lat": 15.937399633286079,
+    "max_lon": 103.06007411938927,
+    "max_lat": 15.939399633286078,
+    "class_id": null,
+    "original_name": "negative_278"
+  },
+  {
+    "id": "neg_0279",
+    "min_lon": 101.9509848472853,
+    "min_lat": 9.377394665079581,
+    "max_lon": 101.95298484728531,
+    "max_lat": 9.37939466507958,
+    "class_id": null,
+    "original_name": "negative_279"
+  },
+  {
+    "id": "neg_0280",
+    "min_lon": 102.35986438656596,
+    "min_lat": 9.69974459374403,
+    "max_lon": 102.36186438656597,
+    "max_lat": 9.70174459374403,
+    "class_id": null,
+    "original_name": "negative_280"
+  },
+  {
+    "id": "neg_0281",
+    "min_lon": 100.97462405447376,
+    "min_lat": 10.872065925409654,
+    "max_lon": 100.97662405447377,
+    "max_lat": 10.874065925409653,
+    "class_id": null,
+    "original_name": "negative_281"
+  },
+  {
+    "id": "neg_0282",
+    "min_lon": 100.35168130161505,
+    "min_lat": 8.068041845789862,
+    "max_lon": 100.35368130161505,
+    "max_lat": 8.070041845789861,
+    "class_id": null,
+    "original_name": "negative_282"
+  },
+  {
+    "id": "neg_0283",
+    "min_lon": 99.82494893473458,
+    "min_lat": 11.956020737379749,
+    "max_lon": 99.82694893473459,
+    "max_lat": 11.958020737379748,
+    "class_id": null,
+    "original_name": "negative_283"
+  },
+  {
+    "id": "neg_0284",
+    "min_lon": 98.76886941211015,
+    "min_lat": 14.680548780407253,
+    "max_lon": 98.77086941211016,
+    "max_lat": 14.682548780407252,
+    "class_id": null,
+    "original_name": "negative_284"
+  },
+  {
+    "id": "neg_0285",
+    "min_lon": 101.54731497895932,
+    "min_lat": 13.3370337840282,
+    "max_lon": 101.54931497895933,
+    "max_lat": 13.3390337840282,
+    "class_id": null,
+    "original_name": "negative_285"
+  },
+  {
+    "id": "neg_0286",
+    "min_lon": 99.576009703929,
+    "min_lat": 13.797918103587966,
+    "max_lon": 99.57800970392901,
+    "max_lat": 13.799918103587965,
+    "class_id": null,
+    "original_name": "negative_286"
+  },
+  {
+    "id": "neg_0287",
+    "min_lon": 99.22721267544073,
+    "min_lat": 17.310964960369123,
+    "max_lon": 99.22921267544073,
+    "max_lat": 17.312964960369126,
+    "class_id": null,
+    "original_name": "negative_287"
+  },
+  {
+    "id": "neg_0288",
+    "min_lon": 101.2550858538515,
+    "min_lat": 10.44886682677439,
+    "max_lon": 101.2570858538515,
+    "max_lat": 10.450866826774389,
+    "class_id": null,
+    "original_name": "negative_288"
+  },
+  {
+    "id": "neg_0289",
+    "min_lon": 102.65376492609921,
+    "min_lat": 9.034294492317397,
+    "max_lon": 102.65576492609922,
+    "max_lat": 9.036294492317396,
+    "class_id": null,
+    "original_name": "negative_289"
+  },
+  {
+    "id": "neg_0290",
+    "min_lon": 100.86815826536179,
+    "min_lat": 19.3519101194844,
+    "max_lon": 100.8701582653618,
+    "max_lat": 19.353910119484404,
+    "class_id": null,
+    "original_name": "negative_290"
+  },
+  {
+    "id": "neg_0291",
+    "min_lon": 102.1856085591677,
+    "min_lat": 9.072448291653343,
+    "max_lon": 102.18760855916771,
+    "max_lat": 9.074448291653342,
+    "class_id": null,
+    "original_name": "negative_291"
+  },
+  {
+    "id": "neg_0292",
+    "min_lon": 98.96042665331716,
+    "min_lat": 12.11392781940277,
+    "max_lon": 98.96242665331717,
+    "max_lat": 12.115927819402769,
+    "class_id": null,
+    "original_name": "negative_292"
+  },
+  {
+    "id": "neg_0293",
+    "min_lon": 100.22304082424498,
+    "min_lat": 13.804015305737419,
+    "max_lon": 100.22504082424499,
+    "max_lat": 13.806015305737418,
+    "class_id": null,
+    "original_name": "negative_293"
+  },
+  {
+    "id": "neg_0294",
+    "min_lon": 100.2391297642612,
+    "min_lat": 19.210292976730077,
+    "max_lon": 100.2411297642612,
+    "max_lat": 19.21229297673008,
+    "class_id": null,
+    "original_name": "negative_294"
+  },
+  {
+    "id": "neg_0295",
+    "min_lon": 101.73317848931639,
+    "min_lat": 11.719711415429474,
+    "max_lon": 101.7351784893164,
+    "max_lat": 11.721711415429473,
+    "class_id": null,
+    "original_name": "negative_295"
+  },
+  {
+    "id": "neg_0296",
+    "min_lon": 100.27967229225145,
+    "min_lat": 15.90835187945842,
+    "max_lon": 100.28167229225146,
+    "max_lat": 15.91035187945842,
+    "class_id": null,
+    "original_name": "negative_296"
+  },
+  {
+    "id": "neg_0297",
+    "min_lon": 100.7902524530089,
+    "min_lat": 12.765699426644767,
+    "max_lon": 100.79225245300891,
+    "max_lat": 12.767699426644766,
+    "class_id": null,
+    "original_name": "negative_297"
+  },
+  {
+    "id": "neg_0298",
+    "min_lon": 98.76834448907056,
+    "min_lat": 18.391951209086415,
+    "max_lon": 98.77034448907057,
+    "max_lat": 18.393951209086417,
+    "class_id": null,
+    "original_name": "negative_298"
+  },
+  {
+    "id": "neg_0299",
+    "min_lon": 103.4903388439701,
+    "min_lat": 18.694638494073715,
+    "max_lon": 103.4923388439701,
+    "max_lat": 18.696638494073717,
+    "class_id": null,
+    "original_name": "negative_299"
+  },
+  {
+    "id": "neg_0300",
+    "min_lon": 100.42295386921299,
+    "min_lat": 10.787707315844534,
+    "max_lon": 100.424953869213,
+    "max_lat": 10.789707315844533,
+    "class_id": null,
+    "original_name": "negative_300"
+  },
+  {
+    "id": "neg_0301",
+    "min_lon": 100.71515015900727,
+    "min_lat": 9.530392663705067,
+    "max_lon": 100.71715015900728,
+    "max_lat": 9.532392663705066,
+    "class_id": null,
+    "original_name": "negative_301"
+  },
+  {
+    "id": "neg_0302",
+    "min_lon": 102.12491702997899,
+    "min_lat": 9.135915550306388,
+    "max_lon": 102.126917029979,
+    "max_lat": 9.137915550306387,
+    "class_id": null,
+    "original_name": "negative_302"
+  },
+  {
+    "id": "neg_0303",
+    "min_lon": 98.82949940901045,
+    "min_lat": 9.604710331403476,
+    "max_lon": 98.83149940901046,
+    "max_lat": 9.606710331403475,
+    "class_id": null,
+    "original_name": "negative_303"
+  },
+  {
+    "id": "neg_0304",
+    "min_lon": 98.52242260203369,
+    "min_lat": 17.27803102603107,
+    "max_lon": 98.5244226020337,
+    "max_lat": 17.28003102603107,
+    "class_id": null,
+    "original_name": "negative_304"
+  },
+  {
+    "id": "neg_0305",
+    "min_lon": 99.53896252623741,
+    "min_lat": 15.0667664657393,
+    "max_lon": 99.54096252623742,
+    "max_lat": 15.0687664657393,
+    "class_id": null,
+    "original_name": "negative_305"
+  },
+  {
+    "id": "neg_0306",
+    "min_lon": 100.76929232154092,
+    "min_lat": 17.648333449426865,
+    "max_lon": 100.77129232154093,
+    "max_lat": 17.650333449426867,
+    "class_id": null,
+    "original_name": "negative_306"
+  },
+  {
+    "id": "neg_0307",
+    "min_lon": 101.84125027635062,
+    "min_lat": 10.5883832488414,
+    "max_lon": 101.84325027635063,
+    "max_lat": 10.590383248841398,
+    "class_id": null,
+    "original_name": "negative_307"
+  },
+  {
+    "id": "neg_0308",
+    "min_lon": 98.92050485354831,
+    "min_lat": 19.364847005547045,
+    "max_lon": 98.92250485354832,
+    "max_lat": 19.366847005547047,
+    "class_id": null,
+    "original_name": "negative_308"
+  },
+  {
+    "id": "neg_0309",
+    "min_lon": 102.51571299824158,
+    "min_lat": 17.19491471126405,
+    "max_lon": 102.51771299824159,
+    "max_lat": 17.196914711264053,
+    "class_id": null,
+    "original_name": "negative_309"
+  },
+  {
+    "id": "neg_0310",
+    "min_lon": 103.45411238790363,
+    "min_lat": 15.277669294147069,
+    "max_lon": 103.45611238790364,
+    "max_lat": 15.279669294147068,
+    "class_id": null,
+    "original_name": "negative_310"
+  },
+  {
+    "id": "neg_0311",
+    "min_lon": 99.88004621562892,
+    "min_lat": 8.694841607656345,
+    "max_lon": 99.88204621562893,
+    "max_lat": 8.696841607656344,
+    "class_id": null,
+    "original_name": "negative_311"
+  },
+  {
+    "id": "neg_0312",
+    "min_lon": 100.41825763647394,
+    "min_lat": 10.633901364580874,
+    "max_lon": 100.42025763647395,
+    "max_lat": 10.635901364580873,
+    "class_id": null,
+    "original_name": "negative_312"
+  },
+  {
+    "id": "neg_0313",
+    "min_lon": 102.31014452693339,
+    "min_lat": 17.502007542930563,
+    "max_lon": 102.3121445269334,
+    "max_lat": 17.504007542930566,
+    "class_id": null,
+    "original_name": "negative_313"
+  },
+  {
+    "id": "neg_0314",
+    "min_lon": 103.904070464336,
+    "min_lat": 16.297596156020585,
+    "max_lon": 103.90607046433601,
+    "max_lat": 16.299596156020588,
+    "class_id": null,
+    "original_name": "negative_314"
+  },
+  {
+    "id": "neg_0315",
+    "min_lon": 99.8459875245995,
+    "min_lat": 12.455695576968742,
+    "max_lon": 99.8479875245995,
+    "max_lat": 12.45769557696874,
+    "class_id": null,
+    "original_name": "negative_315"
+  },
+  {
+    "id": "neg_0316",
+    "min_lon": 98.61718115316904,
+    "min_lat": 14.88870274121748,
+    "max_lon": 98.61918115316905,
+    "max_lat": 14.89070274121748,
+    "class_id": null,
+    "original_name": "negative_316"
+  },
+  {
+    "id": "neg_0317",
+    "min_lon": 101.0784821801269,
+    "min_lat": 11.962723503600056,
+    "max_lon": 101.08048218012691,
+    "max_lat": 11.964723503600055,
+    "class_id": null,
+    "original_name": "negative_317"
+  },
+  {
+    "id": "neg_0318",
+    "min_lon": 104.04231627737327,
+    "min_lat": 17.89746414877265,
+    "max_lon": 104.04431627737328,
+    "max_lat": 17.89946414877265,
+    "class_id": null,
+    "original_name": "negative_318"
+  },
+  {
+    "id": "neg_0319",
+    "min_lon": 101.83662730553226,
+    "min_lat": 18.608957993461686,
+    "max_lon": 101.83862730553227,
+    "max_lat": 18.61095799346169,
+    "class_id": null,
+    "original_name": "negative_319"
+  },
+  {
+    "id": "neg_0320",
+    "min_lon": 103.3751606287349,
+    "min_lat": 13.86571138186129,
+    "max_lon": 103.37716062873491,
+    "max_lat": 13.86771138186129,
+    "class_id": null,
+    "original_name": "negative_320"
+  },
+  {
+    "id": "neg_0321",
+    "min_lon": 98.58605868195974,
+    "min_lat": 16.40889631567924,
+    "max_lon": 98.58805868195975,
+    "max_lat": 16.410896315679242,
+    "class_id": null,
+    "original_name": "negative_321"
+  },
+  {
+    "id": "neg_0322",
+    "min_lon": 101.21045165305443,
+    "min_lat": 11.245778149613082,
+    "max_lon": 101.21245165305444,
+    "max_lat": 11.247778149613081,
+    "class_id": null,
+    "original_name": "negative_322"
+  },
+  {
+    "id": "neg_0323",
+    "min_lon": 100.91000970306482,
+    "min_lat": 12.746574680966427,
+    "max_lon": 100.91200970306483,
+    "max_lat": 12.748574680966426,
+    "class_id": null,
+    "original_name": "negative_323"
+  },
+  {
+    "id": "neg_0324",
+    "min_lon": 99.53585947999352,
+    "min_lat": 16.874345818588523,
+    "max_lon": 99.53785947999353,
+    "max_lat": 16.876345818588526,
+    "class_id": null,
+    "original_name": "negative_324"
+  },
+  {
+    "id": "neg_0325",
+    "min_lon": 102.25675718158158,
+    "min_lat": 12.406065606029495,
+    "max_lon": 102.25875718158159,
+    "max_lat": 12.408065606029494,
+    "class_id": null,
+    "original_name": "negative_325"
+  },
+  {
+    "id": "neg_0326",
+    "min_lon": 99.61164232832445,
+    "min_lat": 13.702176308315442,
+    "max_lon": 99.61364232832446,
+    "max_lat": 13.704176308315441,
+    "class_id": null,
+    "original_name": "negative_326"
+  },
+  {
+    "id": "neg_0327",
+    "min_lon": 99.39750723187579,
+    "min_lat": 12.663466128533202,
+    "max_lon": 99.3995072318758,
+    "max_lat": 12.6654661285332,
+    "class_id": null,
+    "original_name": "negative_327"
+  },
+  {
+    "id": "neg_0328",
+    "min_lon": 101.78714769711647,
+    "min_lat": 18.228722517014862,
+    "max_lon": 101.78914769711648,
+    "max_lat": 18.230722517014865,
+    "class_id": null,
+    "original_name": "negative_328"
+  },
+  {
+    "id": "neg_0329",
+    "min_lon": 102.05880229967744,
+    "min_lat": 7.578350844718527,
+    "max_lon": 102.06080229967745,
+    "max_lat": 7.580350844718527,
+    "class_id": null,
+    "original_name": "negative_329"
+  },
+  {
+    "id": "neg_0330",
+    "min_lon": 100.91844836107124,
+    "min_lat": 10.674777549837817,
+    "max_lon": 100.92044836107125,
+    "max_lat": 10.676777549837816,
+    "class_id": null,
+    "original_name": "negative_330"
+  },
+  {
+    "id": "neg_0331",
+    "min_lon": 100.19845509601336,
+    "min_lat": 7.670459596202786,
+    "max_lon": 100.20045509601337,
+    "max_lat": 7.672459596202787,
+    "class_id": null,
+    "original_name": "negative_331"
+  },
+  {
+    "id": "neg_0332",
+    "min_lon": 99.70205521767106,
+    "min_lat": 11.732595801375085,
+    "max_lon": 99.70405521767107,
+    "max_lat": 11.734595801375084,
+    "class_id": null,
+    "original_name": "negative_332"
+  },
+  {
+    "id": "neg_0333",
+    "min_lon": 102.77063252576878,
+    "min_lat": 14.271603037921308,
+    "max_lon": 102.77263252576878,
+    "max_lat": 14.273603037921307,
+    "class_id": null,
+    "original_name": "negative_333"
+  },
+  {
+    "id": "neg_0334",
+    "min_lon": 102.39081783652172,
+    "min_lat": 15.608308246919092,
+    "max_lon": 102.39281783652173,
+    "max_lat": 15.610308246919091,
+    "class_id": null,
+    "original_name": "negative_334"
+  },
+  {
+    "id": "neg_0335",
+    "min_lon": 99.57882073303725,
+    "min_lat": 12.495752698373147,
+    "max_lon": 99.58082073303726,
+    "max_lat": 12.497752698373146,
+    "class_id": null,
+    "original_name": "negative_335"
+  },
+  {
+    "id": "neg_0336",
+    "min_lon": 100.96853125069845,
+    "min_lat": 11.67718707648136,
+    "max_lon": 100.97053125069846,
+    "max_lat": 11.679187076481359,
+    "class_id": null,
+    "original_name": "negative_336"
+  },
+  {
+    "id": "neg_0337",
+    "min_lon": 102.17921096738924,
+    "min_lat": 13.898485615312635,
+    "max_lon": 102.18121096738925,
+    "max_lat": 13.900485615312634,
+    "class_id": null,
+    "original_name": "negative_337"
+  },
+  {
+    "id": "neg_0338",
+    "min_lon": 103.06524057352884,
+    "min_lat": 19.249508466560656,
+    "max_lon": 103.06724057352885,
+    "max_lat": 19.251508466560658,
+    "class_id": null,
+    "original_name": "negative_338"
+  },
+  {
+    "id": "neg_0339",
+    "min_lon": 98.5472501436035,
+    "min_lat": 15.63579472282351,
+    "max_lon": 98.54925014360352,
+    "max_lat": 15.637794722823509,
+    "class_id": null,
+    "original_name": "negative_339"
+  },
+  {
+    "id": "neg_0340",
+    "min_lon": 99.15361461555933,
+    "min_lat": 11.651279473180201,
+    "max_lon": 99.15561461555934,
+    "max_lat": 11.6532794731802,
+    "class_id": null,
+    "original_name": "negative_340"
+  },
+  {
+    "id": "neg_0341",
+    "min_lon": 100.11880857820071,
+    "min_lat": 7.9691290182853125,
+    "max_lon": 100.12080857820072,
+    "max_lat": 7.971129018285313,
+    "class_id": null,
+    "original_name": "negative_341"
+  },
+  {
+    "id": "neg_0342",
+    "min_lon": 103.92357464157932,
+    "min_lat": 13.249828685444328,
+    "max_lon": 103.92557464157933,
+    "max_lat": 13.251828685444327,
+    "class_id": null,
+    "original_name": "negative_342"
+  },
+  {
+    "id": "neg_0343",
+    "min_lon": 103.04787295955566,
+    "min_lat": 11.670720582440923,
+    "max_lon": 103.04987295955567,
+    "max_lat": 11.672720582440922,
+    "class_id": null,
+    "original_name": "negative_343"
+  },
+  {
+    "id": "neg_0344",
+    "min_lon": 99.74636390959196,
+    "min_lat": 19.43714150532518,
+    "max_lon": 99.74836390959197,
+    "max_lat": 19.439141505325182,
+    "class_id": null,
+    "original_name": "negative_344"
+  },
+  {
+    "id": "neg_0345",
+    "min_lon": 102.44896785340183,
+    "min_lat": 17.44793386096863,
+    "max_lon": 102.45096785340183,
+    "max_lat": 17.44993386096863,
+    "class_id": null,
+    "original_name": "negative_345"
+  },
+  {
+    "id": "neg_0346",
+    "min_lon": 100.60606570706076,
+    "min_lat": 19.76911837472413,
+    "max_lon": 100.60806570706077,
+    "max_lat": 19.771118374724132,
+    "class_id": null,
+    "original_name": "negative_346"
+  },
+  {
+    "id": "neg_0347",
+    "min_lon": 99.61333282198093,
+    "min_lat": 18.924974891421062,
+    "max_lon": 99.61533282198094,
+    "max_lat": 18.926974891421064,
+    "class_id": null,
+    "original_name": "negative_347"
+  },
+  {
+    "id": "neg_0348",
+    "min_lon": 99.77600752525997,
+    "min_lat": 14.025894496886364,
+    "max_lon": 99.77800752525998,
+    "max_lat": 14.027894496886363,
+    "class_id": null,
+    "original_name": "negative_348"
+  },
+  {
+    "id": "neg_0349",
+    "min_lon": 98.49051950500056,
+    "min_lat": 7.453976315581007,
+    "max_lon": 98.49251950500057,
+    "max_lat": 7.455976315581007,
+    "class_id": null,
+    "original_name": "negative_349"
+  },
+  {
+    "id": "neg_0350",
+    "min_lon": 100.9464658924617,
+    "min_lat": 12.747317542972128,
+    "max_lon": 100.94846589246171,
+    "max_lat": 12.749317542972127,
+    "class_id": null,
+    "original_name": "negative_350"
+  },
+  {
+    "id": "neg_0351",
+    "min_lon": 103.8876613209721,
+    "min_lat": 8.00506464487366,
+    "max_lon": 103.88966132097211,
+    "max_lat": 8.007064644873658,
+    "class_id": null,
+    "original_name": "negative_351"
+  },
+  {
+    "id": "neg_0352",
+    "min_lon": 103.05417355020842,
+    "min_lat": 12.618068847685246,
+    "max_lon": 103.05617355020843,
+    "max_lat": 12.620068847685245,
+    "class_id": null,
+    "original_name": "negative_352"
+  },
+  {
+    "id": "neg_0353",
+    "min_lon": 100.43800844200251,
+    "min_lat": 16.085652009596117,
+    "max_lon": 100.44000844200252,
+    "max_lat": 16.08765200959612,
+    "class_id": null,
+    "original_name": "negative_353"
+  },
+  {
+    "id": "neg_0354",
+    "min_lon": 103.57653386431747,
+    "min_lat": 14.034650986572515,
+    "max_lon": 103.57853386431748,
+    "max_lat": 14.036650986572514,
+    "class_id": null,
+    "original_name": "negative_354"
+  },
+  {
+    "id": "neg_0355",
+    "min_lon": 102.82239412604874,
+    "min_lat": 7.538121121382041,
+    "max_lon": 102.82439412604874,
+    "max_lat": 7.540121121382041,
+    "class_id": null,
+    "original_name": "negative_355"
+  },
+  {
+    "id": "neg_0356",
+    "min_lon": 102.0403673922997,
+    "min_lat": 10.348264842736532,
+    "max_lon": 102.04236739229971,
+    "max_lat": 10.35026484273653,
+    "class_id": null,
+    "original_name": "negative_356"
+  },
+  {
+    "id": "neg_0357",
+    "min_lon": 103.67041164062479,
+    "min_lat": 8.199596026431099,
+    "max_lon": 103.6724116406248,
+    "max_lat": 8.201596026431098,
+    "class_id": null,
+    "original_name": "negative_357"
+  },
+  {
+    "id": "neg_0358",
+    "min_lon": 104.15025764842936,
+    "min_lat": 7.614775438415681,
+    "max_lon": 104.15225764842937,
+    "max_lat": 7.616775438415682,
+    "class_id": null,
+    "original_name": "negative_358"
+  },
+  {
+    "id": "neg_0359",
+    "min_lon": 102.73922174748792,
+    "min_lat": 12.718721241727613,
+    "max_lon": 102.74122174748793,
+    "max_lat": 12.720721241727611,
+    "class_id": null,
+    "original_name": "negative_359"
+  },
+  {
+    "id": "neg_0360",
+    "min_lon": 102.89925624963028,
+    "min_lat": 13.348035642644168,
+    "max_lon": 102.9012562496303,
+    "max_lat": 13.350035642644167,
+    "class_id": null,
+    "original_name": "negative_360"
+  },
+  {
+    "id": "neg_0361",
+    "min_lon": 100.3633532576016,
+    "min_lat": 19.63898620544162,
+    "max_lon": 100.36535325760161,
+    "max_lat": 19.64098620544162,
+    "class_id": null,
+    "original_name": "negative_361"
+  },
+  {
+    "id": "neg_0362",
+    "min_lon": 104.14018803607387,
+    "min_lat": 8.342577760025458,
+    "max_lon": 104.14218803607388,
+    "max_lat": 8.344577760025457,
+    "class_id": null,
+    "original_name": "negative_362"
+  },
+  {
+    "id": "neg_0363",
+    "min_lon": 103.76783902200634,
+    "min_lat": 9.932997664638071,
+    "max_lon": 103.76983902200635,
+    "max_lat": 9.93499766463807,
+    "class_id": null,
+    "original_name": "negative_363"
+  },
+  {
+    "id": "neg_0364",
+    "min_lon": 98.82622706532871,
+    "min_lat": 13.811208310875191,
+    "max_lon": 98.82822706532872,
+    "max_lat": 13.81320831087519,
+    "class_id": null,
+    "original_name": "negative_364"
+  },
+  {
+    "id": "neg_0365",
+    "min_lon": 103.96412065329972,
+    "min_lat": 14.463528235877268,
+    "max_lon": 103.96612065329973,
+    "max_lat": 14.465528235877267,
+    "class_id": null,
+    "original_name": "negative_365"
+  },
+  {
+    "id": "neg_0366",
+    "min_lon": 101.95652758492277,
+    "min_lat": 16.02820224392799,
+    "max_lon": 101.95852758492278,
+    "max_lat": 16.03020224392799,
+    "class_id": null,
+    "original_name": "negative_366"
+  },
+  {
+    "id": "neg_0367",
+    "min_lon": 102.9130638192208,
+    "min_lat": 16.272193360619248,
+    "max_lon": 102.9150638192208,
+    "max_lat": 16.27419336061925,
+    "class_id": null,
+    "original_name": "negative_367"
+  },
+  {
+    "id": "neg_0368",
+    "min_lon": 103.59250591131567,
+    "min_lat": 12.089315248268475,
+    "max_lon": 103.59450591131568,
+    "max_lat": 12.091315248268474,
+    "class_id": null,
+    "original_name": "negative_368"
+  },
+  {
+    "id": "neg_0369",
+    "min_lon": 98.5496243739837,
+    "min_lat": 12.585621648581748,
+    "max_lon": 98.55162437398371,
+    "max_lat": 12.587621648581747,
+    "class_id": null,
+    "original_name": "negative_369"
+  },
+  {
+    "id": "neg_0370",
+    "min_lon": 102.05043058859084,
+    "min_lat": 16.65679288301733,
+    "max_lon": 102.05243058859085,
+    "max_lat": 16.658792883017334,
+    "class_id": null,
+    "original_name": "negative_370"
+  },
+  {
+    "id": "neg_0371",
+    "min_lon": 101.87526753828828,
+    "min_lat": 9.62139899726787,
+    "max_lon": 101.8772675382883,
+    "max_lat": 9.623398997267868,
+    "class_id": null,
+    "original_name": "negative_371"
+  },
+  {
+    "id": "neg_0372",
+    "min_lon": 102.02929832346483,
+    "min_lat": 14.06645542371663,
+    "max_lon": 102.03129832346484,
+    "max_lat": 14.068455423716628,
+    "class_id": null,
+    "original_name": "negative_372"
+  },
+  {
+    "id": "neg_0373",
+    "min_lon": 98.85378014692185,
+    "min_lat": 10.228570454288683,
+    "max_lon": 98.85578014692186,
+    "max_lat": 10.230570454288682,
+    "class_id": null,
+    "original_name": "negative_373"
+  },
+  {
+    "id": "neg_0374",
+    "min_lon": 100.94204575413066,
+    "min_lat": 17.09165675145909,
+    "max_lon": 100.94404575413067,
+    "max_lat": 17.093656751459093,
+    "class_id": null,
+    "original_name": "negative_374"
+  },
+  {
+    "id": "neg_0375",
+    "min_lon": 98.35953899867604,
+    "min_lat": 11.877728386252967,
+    "max_lon": 98.36153899867605,
+    "max_lat": 11.879728386252966,
+    "class_id": null,
+    "original_name": "negative_375"
+  },
+  {
+    "id": "neg_0376",
+    "min_lon": 103.81072142048968,
+    "min_lat": 18.560075302632562,
+    "max_lon": 103.8127214204897,
+    "max_lat": 18.562075302632564,
+    "class_id": null,
+    "original_name": "negative_376"
+  },
+  {
+    "id": "neg_0377",
+    "min_lon": 100.70536632563088,
+    "min_lat": 11.280365010756915,
+    "max_lon": 100.70736632563089,
+    "max_lat": 11.282365010756914,
+    "class_id": null,
+    "original_name": "negative_377"
+  },
+  {
+    "id": "neg_0378",
+    "min_lon": 102.11296282762197,
+    "min_lat": 8.09578015922868,
+    "max_lon": 102.11496282762198,
+    "max_lat": 8.097780159228678,
+    "class_id": null,
+    "original_name": "negative_378"
+  },
+  {
+    "id": "neg_0379",
+    "min_lon": 102.8433065615593,
+    "min_lat": 15.172155444253036,
+    "max_lon": 102.84530656155931,
+    "max_lat": 15.174155444253035,
+    "class_id": null,
+    "original_name": "negative_379"
+  },
+  {
+    "id": "neg_0380",
+    "min_lon": 101.89744034673583,
+    "min_lat": 19.866687267951853,
+    "max_lon": 101.89944034673584,
+    "max_lat": 19.868687267951856,
+    "class_id": null,
+    "original_name": "negative_380"
+  },
+  {
+    "id": "neg_0381",
+    "min_lon": 100.03323715748029,
+    "min_lat": 10.880027161830784,
+    "max_lon": 100.0352371574803,
+    "max_lat": 10.882027161830782,
+    "class_id": null,
+    "original_name": "negative_381"
+  },
+  {
+    "id": "neg_0382",
+    "min_lon": 98.63099752017395,
+    "min_lat": 10.912971108458072,
+    "max_lon": 98.63299752017396,
+    "max_lat": 10.91497110845807,
+    "class_id": null,
+    "original_name": "negative_382"
+  },
+  {
+    "id": "neg_0383",
+    "min_lon": 102.17460747764154,
+    "min_lat": 8.792624288609597,
+    "max_lon": 102.17660747764155,
+    "max_lat": 8.794624288609596,
+    "class_id": null,
+    "original_name": "negative_383"
+  },
+  {
+    "id": "neg_0384",
+    "min_lon": 99.2010933594525,
+    "min_lat": 19.074068495975563,
+    "max_lon": 99.20309335945251,
+    "max_lat": 19.076068495975566,
+    "class_id": null,
+    "original_name": "negative_384"
+  },
+  {
+    "id": "neg_0385",
+    "min_lon": 100.5577613682587,
+    "min_lat": 8.05274199617214,
+    "max_lon": 100.5597613682587,
+    "max_lat": 8.054741996172138,
+    "class_id": null,
+    "original_name": "negative_385"
+  },
+  {
+    "id": "neg_0386",
+    "min_lon": 99.56231094062386,
+    "min_lat": 8.267935260449617,
+    "max_lon": 99.56431094062387,
+    "max_lat": 8.269935260449616,
+    "class_id": null,
+    "original_name": "negative_386"
+  },
+  {
+    "id": "neg_0387",
+    "min_lon": 99.75492570894289,
+    "min_lat": 8.218460748338435,
+    "max_lon": 99.7569257089429,
+    "max_lat": 8.220460748338434,
+    "class_id": null,
+    "original_name": "negative_387"
+  },
+  {
+    "id": "neg_0388",
+    "min_lon": 100.75858736304325,
+    "min_lat": 12.52564773736495,
+    "max_lon": 100.76058736304326,
+    "max_lat": 12.52764773736495,
+    "class_id": null,
+    "original_name": "negative_388"
+  },
+  {
+    "id": "neg_0389",
+    "min_lon": 102.06955779473967,
+    "min_lat": 7.8319816272051055,
+    "max_lon": 102.07155779473968,
+    "max_lat": 7.833981627205106,
+    "class_id": null,
+    "original_name": "negative_389"
+  },
+  {
+    "id": "neg_0390",
+    "min_lon": 100.69104410973834,
+    "min_lat": 17.721532952755695,
+    "max_lon": 100.69304410973835,
+    "max_lat": 17.723532952755697,
+    "class_id": null,
+    "original_name": "negative_390"
+  },
+  {
+    "id": "neg_0391",
+    "min_lon": 101.18007518913326,
+    "min_lat": 13.754035715349934,
+    "max_lon": 101.18207518913327,
+    "max_lat": 13.756035715349933,
+    "class_id": null,
+    "original_name": "negative_391"
+  },
+  {
+    "id": "neg_0392",
+    "min_lon": 100.11641700070764,
+    "min_lat": 19.214558523182657,
+    "max_lon": 100.11841700070765,
+    "max_lat": 19.21655852318266,
+    "class_id": null,
+    "original_name": "negative_392"
+  },
+  {
+    "id": "neg_0393",
+    "min_lon": 98.31694483973361,
+    "min_lat": 16.583628422312824,
+    "max_lon": 98.31894483973362,
+    "max_lat": 16.585628422312826,
+    "class_id": null,
+    "original_name": "negative_393"
+  },
+  {
+    "id": "neg_0394",
+    "min_lon": 99.50415887278677,
+    "min_lat": 11.258544079233149,
+    "max_lon": 99.50615887278678,
+    "max_lat": 11.260544079233147,
+    "class_id": null,
+    "original_name": "negative_394"
+  },
+  {
+    "id": "neg_0395",
+    "min_lon": 100.81004985383498,
+    "min_lat": 18.5671637121655,
+    "max_lon": 100.81204985383499,
+    "max_lat": 18.5691637121655,
+    "class_id": null,
+    "original_name": "negative_395"
+  },
+  {
+    "id": "neg_0396",
+    "min_lon": 103.4734220053239,
+    "min_lat": 12.887518979589693,
+    "max_lon": 103.4754220053239,
+    "max_lat": 12.889518979589692,
+    "class_id": null,
+    "original_name": "negative_396"
+  },
+  {
+    "id": "neg_0397",
+    "min_lon": 99.33729594182097,
+    "min_lat": 16.26236772981607,
+    "max_lon": 99.33929594182098,
+    "max_lat": 16.264367729816072,
+    "class_id": null,
+    "original_name": "negative_397"
+  },
+  {
+    "id": "neg_0398",
+    "min_lon": 101.37584232180187,
+    "min_lat": 11.873452573851761,
+    "max_lon": 101.37784232180188,
+    "max_lat": 11.87545257385176,
+    "class_id": null,
+    "original_name": "negative_398"
+  },
+  {
+    "id": "neg_0399",
+    "min_lon": 102.72339500440053,
+    "min_lat": 11.379109122971188,
+    "max_lon": 102.72539500440054,
+    "max_lat": 11.381109122971187,
+    "class_id": null,
+    "original_name": "negative_399"
+  },
+  {
+    "id": "neg_0400",
+    "min_lon": 102.28618654912474,
+    "min_lat": 16.747258582959994,
+    "max_lon": 102.28818654912475,
+    "max_lat": 16.749258582959996,
+    "class_id": null,
+    "original_name": "negative_400"
+  },
+  {
+    "id": "neg_0401",
+    "min_lon": 101.0463041478983,
+    "min_lat": 10.664128220315622,
+    "max_lon": 101.0483041478983,
+    "max_lat": 10.66612822031562,
+    "class_id": null,
+    "original_name": "negative_401"
+  },
+  {
+    "id": "neg_0402",
+    "min_lon": 102.83573120805059,
+    "min_lat": 10.0369437519482,
+    "max_lon": 102.8377312080506,
+    "max_lat": 10.0389437519482,
+    "class_id": null,
+    "original_name": "negative_402"
+  },
+  {
+    "id": "neg_0403",
+    "min_lon": 102.30491079651502,
+    "min_lat": 8.817016076456415,
+    "max_lon": 102.30691079651503,
+    "max_lat": 8.819016076456414,
+    "class_id": null,
+    "original_name": "negative_403"
+  },
+  {
+    "id": "neg_0404",
+    "min_lon": 100.07242638657969,
+    "min_lat": 9.844913664400389,
+    "max_lon": 100.0744263865797,
+    "max_lat": 9.846913664400388,
+    "class_id": null,
+    "original_name": "negative_404"
+  },
+  {
+    "id": "neg_0405",
+    "min_lon": 101.8607391827346,
+    "min_lat": 15.554313911164941,
+    "max_lon": 101.86273918273461,
+    "max_lat": 15.55631391116494,
+    "class_id": null,
+    "original_name": "negative_405"
+  },
+  {
+    "id": "neg_0406",
+    "min_lon": 101.50614838221938,
+    "min_lat": 14.726665350414573,
+    "max_lon": 101.50814838221939,
+    "max_lat": 14.728665350414571,
+    "class_id": null,
+    "original_name": "negative_406"
+  },
+  {
+    "id": "neg_0407",
+    "min_lon": 100.6776054955011,
+    "min_lat": 7.570138655160265,
+    "max_lon": 100.67960549550111,
+    "max_lat": 7.572138655160265,
+    "class_id": null,
+    "original_name": "negative_407"
+  },
+  {
+    "id": "neg_0408",
+    "min_lon": 102.48408615476491,
+    "min_lat": 17.246491077295374,
+    "max_lon": 102.48608615476492,
+    "max_lat": 17.248491077295377,
+    "class_id": null,
+    "original_name": "negative_408"
+  },
+  {
+    "id": "neg_0409",
+    "min_lon": 100.1095057208456,
+    "min_lat": 11.889861725976266,
+    "max_lon": 100.11150572084561,
+    "max_lat": 11.891861725976264,
+    "class_id": null,
+    "original_name": "negative_409"
+  },
+  {
+    "id": "neg_0410",
+    "min_lon": 99.61221647027018,
+    "min_lat": 12.66366627999683,
+    "max_lon": 99.6142164702702,
+    "max_lat": 12.66566627999683,
+    "class_id": null,
+    "original_name": "negative_410"
+  },
+  {
+    "id": "neg_0411",
+    "min_lon": 98.90277053257572,
+    "min_lat": 10.029283576101795,
+    "max_lon": 98.90477053257572,
+    "max_lat": 10.031283576101794,
+    "class_id": null,
+    "original_name": "negative_411"
+  },
+  {
+    "id": "neg_0412",
+    "min_lon": 103.50969742541544,
+    "min_lat": 19.231882123457314,
+    "max_lon": 103.51169742541545,
+    "max_lat": 19.233882123457317,
+    "class_id": null,
+    "original_name": "negative_412"
+  },
+  {
+    "id": "neg_0413",
+    "min_lon": 99.85632564386295,
+    "min_lat": 15.946227552163828,
+    "max_lon": 99.85832564386295,
+    "max_lat": 15.948227552163827,
+    "class_id": null,
+    "original_name": "negative_413"
+  },
+  {
+    "id": "neg_0414",
+    "min_lon": 100.99301423793256,
+    "min_lat": 12.671725535006408,
+    "max_lon": 100.99501423793257,
+    "max_lat": 12.673725535006406,
+    "class_id": null,
+    "original_name": "negative_414"
+  },
+  {
+    "id": "neg_0415",
+    "min_lon": 101.45533567988694,
+    "min_lat": 12.784851717267738,
+    "max_lon": 101.45733567988695,
+    "max_lat": 12.786851717267737,
+    "class_id": null,
+    "original_name": "negative_415"
+  },
+  {
+    "id": "neg_0416",
+    "min_lon": 100.28849290761983,
+    "min_lat": 8.558181830472689,
+    "max_lon": 100.29049290761984,
+    "max_lat": 8.560181830472688,
+    "class_id": null,
+    "original_name": "negative_416"
+  },
+  {
+    "id": "neg_0417",
+    "min_lon": 99.53053749820809,
+    "min_lat": 17.021699662845673,
+    "max_lon": 99.5325374982081,
+    "max_lat": 17.023699662845676,
+    "class_id": null,
+    "original_name": "negative_417"
+  },
+  {
+    "id": "neg_0418",
+    "min_lon": 99.44827852471334,
+    "min_lat": 16.44883511581354,
+    "max_lon": 99.45027852471335,
+    "max_lat": 16.450835115813543,
+    "class_id": null,
+    "original_name": "negative_418"
+  },
+  {
+    "id": "neg_0419",
+    "min_lon": 103.43625068287507,
+    "min_lat": 17.28159702276962,
+    "max_lon": 103.43825068287508,
+    "max_lat": 17.283597022769623,
+    "class_id": null,
+    "original_name": "negative_419"
+  },
+  {
+    "id": "neg_0420",
+    "min_lon": 103.78030335926381,
+    "min_lat": 8.470058584364052,
+    "max_lon": 103.78230335926382,
+    "max_lat": 8.472058584364051,
+    "class_id": null,
+    "original_name": "negative_420"
+  },
+  {
+    "id": "neg_0421",
+    "min_lon": 101.57921872020083,
+    "min_lat": 13.743553436996617,
+    "max_lon": 101.58121872020084,
+    "max_lat": 13.745553436996616,
+    "class_id": null,
+    "original_name": "negative_421"
+  },
+  {
+    "id": "neg_0422",
+    "min_lon": 103.7622648534886,
+    "min_lat": 14.613472047869408,
+    "max_lon": 103.76426485348861,
+    "max_lat": 14.615472047869407,
+    "class_id": null,
+    "original_name": "negative_422"
+  },
+  {
+    "id": "neg_0423",
+    "min_lon": 100.8737538408163,
+    "min_lat": 10.824279267387604,
+    "max_lon": 100.87575384081632,
+    "max_lat": 10.826279267387603,
+    "class_id": null,
+    "original_name": "negative_423"
+  },
+  {
+    "id": "neg_0424",
+    "min_lon": 101.73547651671862,
+    "min_lat": 8.765221219280898,
+    "max_lon": 101.73747651671863,
+    "max_lat": 8.767221219280897,
+    "class_id": null,
+    "original_name": "negative_424"
+  },
+  {
+    "id": "neg_0425",
+    "min_lon": 102.81868113782781,
+    "min_lat": 9.90596835549926,
+    "max_lon": 102.82068113782782,
+    "max_lat": 9.907968355499259,
+    "class_id": null,
+    "original_name": "negative_425"
+  },
+  {
+    "id": "neg_0426",
+    "min_lon": 101.60356537454189,
+    "min_lat": 12.679693502609007,
+    "max_lon": 101.6055653745419,
+    "max_lat": 12.681693502609006,
+    "class_id": null,
+    "original_name": "negative_426"
+  },
+  {
+    "id": "neg_0427",
+    "min_lon": 101.16173664853669,
+    "min_lat": 14.585050955802055,
+    "max_lon": 101.1637366485367,
+    "max_lat": 14.587050955802054,
+    "class_id": null,
+    "original_name": "negative_427"
+  },
+  {
+    "id": "neg_0428",
+    "min_lon": 98.60945172105345,
+    "min_lat": 18.102836227360037,
+    "max_lon": 98.61145172105346,
+    "max_lat": 18.10483622736004,
+    "class_id": null,
+    "original_name": "negative_428"
+  },
+  {
+    "id": "neg_0429",
+    "min_lon": 103.4041878908405,
+    "min_lat": 20.217297054884263,
+    "max_lon": 103.40618789084051,
+    "max_lat": 20.219297054884265,
+    "class_id": null,
+    "original_name": "negative_429"
+  },
+  {
+    "id": "neg_0430",
+    "min_lon": 98.96802828534426,
+    "min_lat": 9.013319018322038,
+    "max_lon": 98.97002828534427,
+    "max_lat": 9.015319018322037,
+    "class_id": null,
+    "original_name": "negative_430"
+  },
+  {
+    "id": "neg_0431",
+    "min_lon": 100.10155144184688,
+    "min_lat": 16.92174543873843,
+    "max_lon": 100.10355144184689,
+    "max_lat": 16.923745438738433,
+    "class_id": null,
+    "original_name": "negative_431"
+  },
+  {
+    "id": "neg_0432",
+    "min_lon": 101.61782108328683,
+    "min_lat": 15.507442501198666,
+    "max_lon": 101.61982108328684,
+    "max_lat": 15.509442501198665,
+    "class_id": null,
+    "original_name": "negative_432"
+  },
+  {
+    "id": "neg_0433",
+    "min_lon": 100.98086495957739,
+    "min_lat": 9.358830048458985,
+    "max_lon": 100.9828649595774,
+    "max_lat": 9.360830048458984,
+    "class_id": null,
+    "original_name": "negative_433"
+  },
+  {
+    "id": "neg_0434",
+    "min_lon": 100.82866048368015,
+    "min_lat": 18.523838648301474,
+    "max_lon": 100.83066048368016,
+    "max_lat": 18.525838648301477,
+    "class_id": null,
+    "original_name": "negative_434"
+  },
+  {
+    "id": "neg_0435",
+    "min_lon": 101.21363711016556,
+    "min_lat": 14.611601412485415,
+    "max_lon": 101.21563711016557,
+    "max_lat": 14.613601412485414,
+    "class_id": null,
+    "original_name": "negative_435"
+  },
+  {
+    "id": "neg_0436",
+    "min_lon": 100.11495920564072,
+    "min_lat": 13.14976285057782,
+    "max_lon": 100.11695920564073,
+    "max_lat": 13.15176285057782,
+    "class_id": null,
+    "original_name": "negative_436"
+  },
+  {
+    "id": "neg_0437",
+    "min_lon": 102.37991964230037,
+    "min_lat": 15.038460734206005,
+    "max_lon": 102.38191964230037,
+    "max_lat": 15.040460734206004,
+    "class_id": null,
+    "original_name": "negative_437"
+  },
+  {
+    "id": "neg_0438",
+    "min_lon": 101.33192614558766,
+    "min_lat": 15.125843280225597,
+    "max_lon": 101.33392614558767,
+    "max_lat": 15.127843280225596,
+    "class_id": null,
+    "original_name": "negative_438"
+  },
+  {
+    "id": "neg_0439",
+    "min_lon": 99.61027670610976,
+    "min_lat": 8.338747369736645,
+    "max_lon": 99.61227670610977,
+    "max_lat": 8.340747369736643,
+    "class_id": null,
+    "original_name": "negative_439"
+  },
+  {
+    "id": "neg_0440",
+    "min_lon": 102.67103872877364,
+    "min_lat": 16.415491349592042,
+    "max_lon": 102.67303872877365,
+    "max_lat": 16.417491349592044,
+    "class_id": null,
+    "original_name": "negative_440"
+  },
+  {
+    "id": "neg_0441",
+    "min_lon": 100.48177665526904,
+    "min_lat": 14.417855520896959,
+    "max_lon": 100.48377665526905,
+    "max_lat": 14.419855520896958,
+    "class_id": null,
+    "original_name": "negative_441"
+  },
+  {
+    "id": "neg_0442",
+    "min_lon": 101.20018790703459,
+    "min_lat": 19.767001732761596,
+    "max_lon": 101.2021879070346,
+    "max_lat": 19.7690017327616,
+    "class_id": null,
+    "original_name": "negative_442"
+  },
+  {
+    "id": "neg_0443",
+    "min_lon": 101.9460379934627,
+    "min_lat": 19.12558480779371,
+    "max_lon": 101.9480379934627,
+    "max_lat": 19.127584807793713,
+    "class_id": null,
+    "original_name": "negative_443"
+  },
+  {
+    "id": "neg_0444",
+    "min_lon": 101.16309665792538,
+    "min_lat": 19.43413949936565,
+    "max_lon": 101.16509665792539,
+    "max_lat": 19.43613949936565,
+    "class_id": null,
+    "original_name": "negative_444"
+  },
+  {
+    "id": "neg_0445",
+    "min_lon": 100.91374579894547,
+    "min_lat": 11.673159035902431,
+    "max_lon": 100.91574579894548,
+    "max_lat": 11.67515903590243,
+    "class_id": null,
+    "original_name": "negative_445"
+  },
+  {
+    "id": "neg_0446",
+    "min_lon": 103.13893367645095,
+    "min_lat": 17.419399182208686,
+    "max_lon": 103.14093367645096,
+    "max_lat": 17.421399182208688,
+    "class_id": null,
+    "original_name": "negative_446"
+  },
+  {
+    "id": "neg_0447",
+    "min_lon": 103.0203218137261,
+    "min_lat": 8.654383872189687,
+    "max_lon": 103.02232181372611,
+    "max_lat": 8.656383872189686,
+    "class_id": null,
+    "original_name": "negative_447"
+  },
+  {
+    "id": "neg_0448",
+    "min_lon": 99.1388282521102,
+    "min_lat": 17.559568605824136,
+    "max_lon": 99.14082825211021,
+    "max_lat": 17.56156860582414,
+    "class_id": null,
+    "original_name": "negative_448"
+  },
+  {
+    "id": "neg_0449",
+    "min_lon": 99.93777698747967,
+    "min_lat": 15.270442643865744,
+    "max_lon": 99.93977698747968,
+    "max_lat": 15.272442643865743,
+    "class_id": null,
+    "original_name": "negative_449"
+  },
+  {
+    "id": "neg_0450",
+    "min_lon": 100.02073141879058,
+    "min_lat": 14.450050296325715,
+    "max_lon": 100.02273141879058,
+    "max_lat": 14.452050296325714,
+    "class_id": null,
+    "original_name": "negative_450"
+  },
+  {
+    "id": "neg_0451",
+    "min_lon": 102.03543601992612,
+    "min_lat": 13.282499074335279,
+    "max_lon": 102.03743601992613,
+    "max_lat": 13.284499074335278,
+    "class_id": null,
+    "original_name": "negative_451"
+  },
+  {
+    "id": "neg_0452",
+    "min_lon": 103.9613126450158,
+    "min_lat": 13.7690713926604,
+    "max_lon": 103.9633126450158,
+    "max_lat": 13.7710713926604,
+    "class_id": null,
+    "original_name": "negative_452"
+  },
+  {
+    "id": "neg_0453",
+    "min_lon": 100.6613247825843,
+    "min_lat": 11.78998150835284,
+    "max_lon": 100.66332478258431,
+    "max_lat": 11.791981508352839,
+    "class_id": null,
+    "original_name": "negative_453"
+  },
+  {
+    "id": "neg_0454",
+    "min_lon": 98.48085215846565,
+    "min_lat": 19.98184707390787,
+    "max_lon": 98.48285215846566,
+    "max_lat": 19.98384707390787,
+    "class_id": null,
+    "original_name": "negative_454"
+  },
+  {
+    "id": "neg_0455",
+    "min_lon": 101.46348599944682,
+    "min_lat": 10.464563719902921,
+    "max_lon": 101.46548599944683,
+    "max_lat": 10.46656371990292,
+    "class_id": null,
+    "original_name": "negative_455"
+  },
+  {
+    "id": "neg_0456",
+    "min_lon": 103.58034664058158,
+    "min_lat": 18.508227043311855,
+    "max_lon": 103.58234664058159,
+    "max_lat": 18.510227043311858,
+    "class_id": null,
+    "original_name": "negative_456"
+  },
+  {
+    "id": "neg_0457",
+    "min_lon": 99.22553467405847,
+    "min_lat": 16.305862061827582,
+    "max_lon": 99.22753467405848,
+    "max_lat": 16.307862061827585,
+    "class_id": null,
+    "original_name": "negative_457"
+  },
+  {
+    "id": "neg_0458",
+    "min_lon": 100.80476117916025,
+    "min_lat": 16.281714650962563,
+    "max_lon": 100.80676117916026,
+    "max_lat": 16.283714650962565,
+    "class_id": null,
+    "original_name": "negative_458"
+  },
+  {
+    "id": "neg_0459",
+    "min_lon": 103.92836377473508,
+    "min_lat": 19.786402876082857,
+    "max_lon": 103.93036377473508,
+    "max_lat": 19.78840287608286,
+    "class_id": null,
+    "original_name": "negative_459"
+  },
+  {
+    "id": "neg_0460",
+    "min_lon": 101.51549000019689,
+    "min_lat": 17.858633076254808,
+    "max_lon": 101.5174900001969,
+    "max_lat": 17.86063307625481,
+    "class_id": null,
+    "original_name": "negative_460"
+  },
+  {
+    "id": "neg_0461",
+    "min_lon": 102.51814919095379,
+    "min_lat": 15.61285561053568,
+    "max_lon": 102.5201491909538,
+    "max_lat": 15.61485561053568,
+    "class_id": null,
+    "original_name": "negative_461"
+  },
+  {
+    "id": "neg_0462",
+    "min_lon": 101.53605475869334,
+    "min_lat": 20.093642590824686,
+    "max_lon": 101.53805475869335,
+    "max_lat": 20.09564259082469,
+    "class_id": null,
+    "original_name": "negative_462"
+  },
+  {
+    "id": "neg_0463",
+    "min_lon": 101.4338514265487,
+    "min_lat": 13.411335386058743,
+    "max_lon": 101.43585142654871,
+    "max_lat": 13.413335386058742,
+    "class_id": null,
+    "original_name": "negative_463"
+  },
+  {
+    "id": "neg_0464",
+    "min_lon": 98.29964650106314,
+    "min_lat": 8.455336973487755,
+    "max_lon": 98.30164650106315,
+    "max_lat": 8.457336973487754,
+    "class_id": null,
+    "original_name": "negative_464"
+  },
+  {
+    "id": "neg_0465",
+    "min_lon": 103.39420979567376,
+    "min_lat": 15.679046341961554,
+    "max_lon": 103.39620979567377,
+    "max_lat": 15.681046341961553,
+    "class_id": null,
+    "original_name": "negative_465"
+  },
+  {
+    "id": "neg_0466",
+    "min_lon": 102.45260955762122,
+    "min_lat": 13.96228691617916,
+    "max_lon": 102.45460955762123,
+    "max_lat": 13.964286916179159,
+    "class_id": null,
+    "original_name": "negative_466"
+  },
+  {
+    "id": "neg_0467",
+    "min_lon": 98.92129909711957,
+    "min_lat": 14.591675583255116,
+    "max_lon": 98.92329909711958,
+    "max_lat": 14.593675583255115,
+    "class_id": null,
+    "original_name": "negative_467"
+  },
+  {
+    "id": "neg_0468",
+    "min_lon": 102.53237702289474,
+    "min_lat": 9.531097947866241,
+    "max_lon": 102.53437702289474,
+    "max_lat": 9.53309794786624,
+    "class_id": null,
+    "original_name": "negative_468"
+  },
+  {
+    "id": "neg_0469",
+    "min_lon": 104.11195367061843,
+    "min_lat": 16.534353570870344,
+    "max_lon": 104.11395367061844,
+    "max_lat": 16.536353570870347,
+    "class_id": null,
+    "original_name": "negative_469"
+  },
+  {
+    "id": "neg_0470",
+    "min_lon": 101.13176098149114,
+    "min_lat": 9.875644609302274,
+    "max_lon": 101.13376098149115,
+    "max_lat": 9.877644609302273,
+    "class_id": null,
+    "original_name": "negative_470"
+  },
+  {
+    "id": "neg_0471",
+    "min_lon": 98.29087815551459,
+    "min_lat": 8.035173323805905,
+    "max_lon": 98.2928781555146,
+    "max_lat": 8.037173323805904,
+    "class_id": null,
+    "original_name": "negative_471"
+  },
+  {
+    "id": "neg_0472",
+    "min_lon": 103.07439219337614,
+    "min_lat": 18.52701109727172,
+    "max_lon": 103.07639219337615,
+    "max_lat": 18.529011097271724,
+    "class_id": null,
+    "original_name": "negative_472"
+  },
+  {
+    "id": "neg_0473",
+    "min_lon": 99.90280120762117,
+    "min_lat": 8.088677584404213,
+    "max_lon": 99.90480120762118,
+    "max_lat": 8.090677584404212,
+    "class_id": null,
+    "original_name": "negative_473"
+  },
+  {
+    "id": "neg_0474",
+    "min_lon": 101.00026492890333,
+    "min_lat": 13.89368815082842,
+    "max_lon": 101.00226492890334,
+    "max_lat": 13.895688150828418,
+    "class_id": null,
+    "original_name": "negative_474"
+  },
+  {
+    "id": "neg_0475",
+    "min_lon": 103.05965212367245,
+    "min_lat": 10.926893352351986,
+    "max_lon": 103.06165212367246,
+    "max_lat": 10.928893352351984,
+    "class_id": null,
+    "original_name": "negative_475"
+  },
+  {
+    "id": "neg_0476",
+    "min_lon": 101.09711862693428,
+    "min_lat": 12.831154088592529,
+    "max_lon": 101.09911862693428,
+    "max_lat": 12.833154088592527,
+    "class_id": null,
+    "original_name": "negative_476"
+  },
+  {
+    "id": "neg_0477",
+    "min_lon": 100.83161620132474,
+    "min_lat": 16.164453721693302,
+    "max_lon": 100.83361620132474,
+    "max_lat": 16.166453721693305,
+    "class_id": null,
+    "original_name": "negative_477"
+  },
+  {
+    "id": "neg_0478",
+    "min_lon": 102.26114760269749,
+    "min_lat": 11.153456567507318,
+    "max_lon": 102.2631476026975,
+    "max_lat": 11.155456567507317,
+    "class_id": null,
+    "original_name": "negative_478"
+  },
+  {
+    "id": "neg_0479",
+    "min_lon": 101.31438119174231,
+    "min_lat": 10.09022526431655,
+    "max_lon": 101.31638119174232,
+    "max_lat": 10.092225264316548,
+    "class_id": null,
+    "original_name": "negative_479"
+  },
+  {
+    "id": "neg_0480",
+    "min_lon": 102.45626905333452,
+    "min_lat": 19.623459678599833,
+    "max_lon": 102.45826905333453,
+    "max_lat": 19.625459678599835,
+    "class_id": null,
+    "original_name": "negative_480"
+  },
+  {
+    "id": "neg_0481",
+    "min_lon": 99.0845286651897,
+    "min_lat": 12.88284343212512,
+    "max_lon": 99.0865286651897,
+    "max_lat": 12.88484343212512,
+    "class_id": null,
+    "original_name": "negative_481"
+  },
+  {
+    "id": "neg_0482",
+    "min_lon": 101.19783306714051,
+    "min_lat": 11.652899710952722,
+    "max_lon": 101.19983306714052,
+    "max_lat": 11.654899710952721,
+    "class_id": null,
+    "original_name": "negative_482"
+  },
+  {
+    "id": "neg_0483",
+    "min_lon": 101.14721996612357,
+    "min_lat": 9.581442148515997,
+    "max_lon": 101.14921996612358,
+    "max_lat": 9.583442148515996,
+    "class_id": null,
+    "original_name": "negative_483"
+  },
+  {
+    "id": "neg_0484",
+    "min_lon": 98.43752398332887,
+    "min_lat": 7.259295884645225,
+    "max_lon": 98.43952398332888,
+    "max_lat": 7.261295884645226,
+    "class_id": null,
+    "original_name": "negative_484"
+  },
+  {
+    "id": "neg_0485",
+    "min_lon": 101.87247394986471,
+    "min_lat": 16.37756714736657,
+    "max_lon": 101.87447394986472,
+    "max_lat": 16.379567147366572,
+    "class_id": null,
+    "original_name": "negative_485"
+  },
+  {
+    "id": "neg_0486",
+    "min_lon": 102.48639439343539,
+    "min_lat": 12.134791672800867,
+    "max_lon": 102.4883943934354,
+    "max_lat": 12.136791672800866,
+    "class_id": null,
+    "original_name": "negative_486"
+  },
+  {
+    "id": "neg_0487",
+    "min_lon": 103.48515550004333,
+    "min_lat": 18.485283452994015,
+    "max_lon": 103.48715550004334,
+    "max_lat": 18.487283452994017,
+    "class_id": null,
+    "original_name": "negative_487"
+  },
+  {
+    "id": "neg_0488",
+    "min_lon": 99.89335211636632,
+    "min_lat": 8.56360845246168,
+    "max_lon": 99.89535211636633,
+    "max_lat": 8.565608452461678,
+    "class_id": null,
+    "original_name": "negative_488"
+  },
+  {
+    "id": "neg_0489",
+    "min_lon": 101.43938139287181,
+    "min_lat": 20.166160818385308,
+    "max_lon": 101.44138139287182,
+    "max_lat": 20.16816081838531,
+    "class_id": null,
+    "original_name": "negative_489"
+  },
+  {
+    "id": "neg_0490",
+    "min_lon": 99.566104762069,
+    "min_lat": 14.191751128763727,
+    "max_lon": 99.56810476206901,
+    "max_lat": 14.193751128763726,
+    "class_id": null,
+    "original_name": "negative_490"
+  },
+  {
+    "id": "neg_0491",
+    "min_lon": 98.85102069473741,
+    "min_lat": 15.932738174917864,
+    "max_lon": 98.85302069473742,
+    "max_lat": 15.934738174917863,
+    "class_id": null,
+    "original_name": "negative_491"
+  },
+  {
+    "id": "neg_0492",
+    "min_lon": 101.78462413302265,
+    "min_lat": 18.31855471653497,
+    "max_lon": 101.78662413302266,
+    "max_lat": 18.32055471653497,
+    "class_id": null,
+    "original_name": "negative_492"
+  },
+  {
+    "id": "neg_0493",
+    "min_lon": 103.53700457713357,
+    "min_lat": 17.94463537485785,
+    "max_lon": 103.53900457713358,
+    "max_lat": 17.946635374857852,
+    "class_id": null,
+    "original_name": "negative_493"
+  },
+  {
+    "id": "neg_0494",
+    "min_lon": 103.49918664300066,
+    "min_lat": 9.175612991594496,
+    "max_lon": 103.50118664300066,
+    "max_lat": 9.177612991594495,
+    "class_id": null,
+    "original_name": "negative_494"
+  },
+  {
+    "id": "neg_0495",
+    "min_lon": 102.23915474193147,
+    "min_lat": 13.426805984184439,
+    "max_lon": 102.24115474193148,
+    "max_lat": 13.428805984184438,
+    "class_id": null,
+    "original_name": "negative_495"
+  },
+  {
+    "id": "neg_0496",
+    "min_lon": 101.89553103624901,
+    "min_lat": 11.091698419487054,
+    "max_lon": 101.89753103624902,
+    "max_lat": 11.093698419487053,
+    "class_id": null,
+    "original_name": "negative_496"
+  },
+  {
+    "id": "neg_0497",
+    "min_lon": 98.48498860351395,
+    "min_lat": 9.50045935542529,
+    "max_lon": 98.48698860351396,
+    "max_lat": 9.50245935542529,
+    "class_id": null,
+    "original_name": "negative_497"
+  },
+  {
+    "id": "neg_0498",
+    "min_lon": 101.79606539284974,
+    "min_lat": 12.027854327875415,
+    "max_lon": 101.79806539284975,
+    "max_lat": 12.029854327875414,
+    "class_id": null,
+    "original_name": "negative_498"
+  },
+  {
+    "id": "neg_0499",
+    "min_lon": 101.43351746592843,
+    "min_lat": 7.5691643818323255,
+    "max_lon": 101.43551746592844,
+    "max_lat": 7.571164381832326,
+    "class_id": null,
+    "original_name": "negative_499"
+  }
+]
